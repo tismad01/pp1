@@ -1,0 +1,130 @@
+INFO  17:30:51,321 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:30:51,361 - #2 program
+INFO  17:30:51,361 - #50 MJProgram
+INFO  17:30:51,361 - #50 int
+INFO  17:30:51,362 - #50 x
+INFO  17:30:51,363 - #6 ;
+INFO  17:30:51,363 - #50 int
+INFO  17:30:51,364 - #50 y
+INFO  17:30:51,364 - #10 [
+INFO  17:30:51,364 - #9 ]
+INFO  17:30:51,364 - #6 ;
+INFO  17:30:51,365 - #3 {
+INFO  17:30:51,365 - #50 int
+INFO  17:30:51,365 - #50 k
+INFO  17:30:51,365 - #12 (
+INFO  17:30:51,366 - #13 )
+INFO  17:30:51,366 - #50 int
+INFO  17:30:51,366 - #50 c
+INFO  17:30:51,366 - #6 ;
+INFO  17:30:51,366 - #3 {
+INFO  17:30:51,367 - #50 c
+INFO  17:30:51,368 - #7 =
+INFO  17:30:51,369 - #49 3
+INFO  17:30:51,369 - #6 ;
+INFO  17:30:51,370 - #50 x
+INFO  17:30:51,370 - #26 ++
+INFO  17:30:51,370 - #6 ;
+INFO  17:30:51,370 - #18 print
+INFO  17:30:51,370 - #12 (
+INFO  17:30:51,370 - #50 x
+INFO  17:30:51,370 - #13 )
+INFO  17:30:51,370 - #6 ;
+INFO  17:30:51,371 - #22 return
+INFO  17:30:51,371 - #50 c
+INFO  17:30:51,371 - #6 ;
+INFO  17:30:51,371 - #4 }
+INFO  17:30:51,371 - #14 void
+INFO  17:30:51,372 - #50 main
+INFO  17:30:51,373 - #12 (
+INFO  17:30:51,373 - #13 )
+INFO  17:30:51,373 - #50 int
+INFO  17:30:51,373 - #50 pom1
+INFO  17:30:51,373 - #8 ,
+INFO  17:30:51,373 - #50 pom2
+INFO  17:30:51,373 - #6 ;
+INFO  17:30:51,373 - #3 {
+INFO  17:30:51,373 - #50 y
+INFO  17:30:51,373 - #7 =
+INFO  17:30:51,374 - #31 new
+INFO  17:30:51,374 - #50 int
+INFO  17:30:51,374 - #10 [
+INFO  17:30:51,374 - #49 3
+INFO  17:30:51,374 - #9 ]
+INFO  17:30:51,374 - #6 ;
+INFO  17:30:51,374 - #50 pom1
+INFO  17:30:51,374 - #7 =
+INFO  17:30:51,374 - #49 1
+INFO  17:30:51,374 - #6 ;
+INFO  17:30:51,374 - #50 pom2
+INFO  17:30:51,374 - #7 =
+INFO  17:30:51,374 - #49 2
+INFO  17:30:51,374 - #6 ;
+INFO  17:30:51,374 - #50 y
+INFO  17:30:51,375 - #10 [
+INFO  17:30:51,376 - #49 1
+INFO  17:30:51,376 - #9 ]
+INFO  17:30:51,376 - #7 =
+INFO  17:30:51,376 - #49 100
+INFO  17:30:51,376 - #6 ;
+INFO  17:30:51,376 - #50 y
+INFO  17:30:51,376 - #10 [
+INFO  17:30:51,377 - #49 2
+INFO  17:30:51,377 - #9 ]
+INFO  17:30:51,377 - #7 =
+INFO  17:30:51,377 - #49 101
+INFO  17:30:51,377 - #6 ;
+INFO  17:30:51,377 - #10 [
+INFO  17:30:51,377 - #50 pom1
+INFO  17:30:51,377 - #8 ,
+INFO  17:30:51,377 - #8 ,
+INFO  17:30:51,378 - #50 pom2
+INFO  17:30:51,378 - #9 ]
+INFO  17:30:51,378 - #7 =
+INFO  17:30:51,378 - #50 y
+INFO  17:30:51,378 - #6 ;
+INFO  17:30:51,378 - #18 print
+INFO  17:30:51,379 - #12 (
+INFO  17:30:51,379 - #50 y
+INFO  17:30:51,379 - #10 [
+INFO  17:30:51,379 - #49 0
+INFO  17:30:51,379 - #9 ]
+INFO  17:30:51,379 - #13 )
+INFO  17:30:51,379 - #6 ;
+INFO  17:30:51,379 - #18 print
+INFO  17:30:51,379 - #12 (
+INFO  17:30:51,379 - #50 y
+INFO  17:30:51,379 - #10 [
+INFO  17:30:51,379 - #49 1
+INFO  17:30:51,379 - #9 ]
+INFO  17:30:51,379 - #13 )
+INFO  17:30:51,379 - #6 ;
+INFO  17:30:51,379 - #18 print
+INFO  17:30:51,379 - #12 (
+INFO  17:30:51,379 - #50 y
+INFO  17:30:51,379 - #10 [
+INFO  17:30:51,380 - #49 2
+INFO  17:30:51,380 - #9 ]
+INFO  17:30:51,380 - #13 )
+INFO  17:30:51,380 - #6 ;
+INFO  17:30:51,380 - #22 return
+INFO  17:30:51,380 - #6 ;
+INFO  17:30:51,380 - #4 }
+INFO  17:30:51,380 - #4 }
+INFO  17:30:51,388 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  17:30:51,388 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  17:30:51,388 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  17:30:51,388 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  17:30:51,389 - Pristupa se promenjivoj x na liniji 9
+INFO  17:30:51,389 - Pristupa se promenjivoj c na liniji 11
+INFO  17:30:51,389 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 14
+INFO  17:30:51,389 - Kreirana lokalna promenljiva sa imenom pom2 na liniji 14
+INFO  17:30:51,389 - Pristupa se elementu niza y na liniji 21
+INFO  17:30:51,389 - Pristupa se elementu niza y na liniji 22
+ERROR 17:30:51,389 -  GRESKA na liniji: 24. Nekompatibilna dodela. 
+INFO  17:30:51,390 - Pristupa se elementu niza y na liniji 26
+INFO  17:30:51,390 - Pristupa se elementu niza y na liniji 27
+INFO  17:30:51,390 - Pristupa se elementu niza y na liniji 28
+INFO  17:30:51,390 - Main ispravno deklarisan
+INFO  17:30:51,391 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:30:51,399 - Parsiranje uspesno zavrseno!

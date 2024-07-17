@@ -1,0 +1,79 @@
+INFO  00:02:35,791 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:02:35,856 - #2 program
+INFO  00:02:35,856 - #50 MJProgram
+INFO  00:02:35,856 - #50 int
+INFO  00:02:35,858 - #50 x
+INFO  00:02:35,859 - #7 =
+ERROR 00:02:35,859 - 
+Sintaksna greska na liniji 2
+INFO  00:02:35,859 - #49 0
+INFO  00:02:35,859 - #6 ;
+INFO  00:02:35,860 - #50 int
+INFO  00:02:35,860 - #50 y
+INFO  00:02:35,860 - #6 ;
+ERROR 00:02:35,861 - Izvrsen oporavak do ; u liniji 2
+INFO  00:02:35,864 - #3 {
+INFO  00:02:35,864 - #50 int
+INFO  00:02:35,865 - #50 k
+INFO  00:02:35,865 - #12 (
+INFO  00:02:35,866 - #13 )
+INFO  00:02:35,867 - #50 int
+INFO  00:02:35,870 - #50 c
+INFO  00:02:35,870 - #6 ;
+INFO  00:02:35,871 - #3 {
+INFO  00:02:35,871 - #50 c
+INFO  00:02:35,872 - #7 =
+INFO  00:02:35,872 - #49 3
+INFO  00:02:35,872 - #6 ;
+INFO  00:02:35,874 - #50 x
+INFO  00:02:35,874 - #26 ++
+INFO  00:02:35,874 - #6 ;
+INFO  00:02:35,874 - #18 print
+INFO  00:02:35,875 - #12 (
+INFO  00:02:35,875 - #50 x
+INFO  00:02:35,875 - #13 )
+INFO  00:02:35,875 - #6 ;
+INFO  00:02:35,875 - #22 return
+INFO  00:02:35,875 - #50 c
+INFO  00:02:35,876 - #6 ;
+INFO  00:02:35,876 - #4 }
+INFO  00:02:35,876 - #14 void
+INFO  00:02:35,878 - #50 main
+INFO  00:02:35,879 - #12 (
+INFO  00:02:35,879 - #13 )
+INFO  00:02:35,879 - #3 {
+INFO  00:02:35,879 - #50 x
+INFO  00:02:35,879 - #7 =
+INFO  00:02:35,879 - #50 k
+INFO  00:02:35,879 - #12 (
+INFO  00:02:35,880 - #13 )
+INFO  00:02:35,882 - #6 ;
+INFO  00:02:35,882 - #15 if
+INFO  00:02:35,882 - #12 (
+INFO  00:02:35,882 - #50 x
+INFO  00:02:35,882 - #34 <
+INFO  00:02:35,882 - #49 5
+INFO  00:02:35,884 - #13 )
+INFO  00:02:35,886 - #3 {
+INFO  00:02:35,886 - #18 print
+INFO  00:02:35,886 - #12 (
+INFO  00:02:35,886 - #47 i
+INFO  00:02:35,886 - #13 )
+INFO  00:02:35,887 - #6 ;
+INFO  00:02:35,887 - #4 }
+INFO  00:02:35,887 - #20 else
+INFO  00:02:35,887 - #3 {
+INFO  00:02:35,888 - #18 print
+INFO  00:02:35,888 - #12 (
+INFO  00:02:35,888 - #47 e
+INFO  00:02:35,888 - #13 )
+INFO  00:02:35,888 - #6 ;
+INFO  00:02:35,888 - #4 }
+INFO  00:02:35,888 - #22 return
+INFO  00:02:35,889 - #6 ;
+INFO  00:02:35,889 - #4 }
+INFO  00:02:35,890 - #4 }
+INFO  00:02:35,905 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  00:02:35,905 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  00:02:35,905 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+ERROR 00:02:35,906 -  GRESKA na liniji: 8. Ime x nije deklarisano. 

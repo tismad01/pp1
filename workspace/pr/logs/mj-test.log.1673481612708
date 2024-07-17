@@ -1,0 +1,349 @@
+INFO  00:59:13,395 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  00:59:13,471 - #2 program
+INFO  00:59:13,471 - #50 test301
+INFO  00:59:13,471 - #5 const
+INFO  00:59:13,474 - #50 int
+INFO  00:59:13,474 - #50 nula
+INFO  00:59:13,475 - #7 =
+INFO  00:59:13,477 - #49 0
+INFO  00:59:13,477 - #6 ;
+INFO  00:59:13,477 - #5 const
+INFO  00:59:13,478 - #50 int
+INFO  00:59:13,478 - #50 jedan
+INFO  00:59:13,478 - #7 =
+INFO  00:59:13,478 - #49 1
+INFO  00:59:13,479 - #6 ;
+INFO  00:59:13,479 - #5 const
+INFO  00:59:13,479 - #50 int
+INFO  00:59:13,479 - #50 pet
+INFO  00:59:13,479 - #7 =
+INFO  00:59:13,479 - #49 5
+INFO  00:59:13,479 - #6 ;
+INFO  00:59:13,482 - #50 int
+INFO  00:59:13,482 - #50 niz
+INFO  00:59:13,482 - #10 [
+INFO  00:59:13,483 - #9 ]
+INFO  00:59:13,483 - #8 ,
+INFO  00:59:13,484 - #50 niz2
+INFO  00:59:13,485 - #10 [
+INFO  00:59:13,485 - #9 ]
+INFO  00:59:13,485 - #8 ,
+INFO  00:59:13,485 - #50 a
+INFO  00:59:13,485 - #8 ,
+INFO  00:59:13,485 - #50 b
+INFO  00:59:13,485 - #6 ;
+INFO  00:59:13,486 - #50 char
+INFO  00:59:13,487 - #50 nizch
+INFO  00:59:13,488 - #10 [
+INFO  00:59:13,488 - #9 ]
+INFO  00:59:13,488 - #6 ;
+INFO  00:59:13,488 - #3 {
+INFO  00:59:13,488 - #14 void
+INFO  00:59:13,489 - #50 main
+INFO  00:59:13,490 - #12 (
+INFO  00:59:13,491 - #13 )
+INFO  00:59:13,491 - #50 int
+INFO  00:59:13,493 - #50 bodovi
+INFO  00:59:13,493 - #6 ;
+INFO  00:59:13,493 - #50 bool
+INFO  00:59:13,494 - #50 bt
+INFO  00:59:13,494 - #6 ;
+INFO  00:59:13,494 - #3 {
+INFO  00:59:13,494 - #50 bodovi
+INFO  00:59:13,495 - #7 =
+INFO  00:59:13,495 - #49 0
+INFO  00:59:13,496 - #6 ;
+INFO  00:59:13,497 - #50 bodovi
+INFO  00:59:13,498 - #26 ++
+INFO  00:59:13,498 - #6 ;
+INFO  00:59:13,498 - #50 bodovi
+INFO  00:59:13,498 - #7 =
+INFO  00:59:13,499 - #50 bodovi
+INFO  00:59:13,499 - #38 +
+INFO  00:59:13,500 - #50 jedan
+INFO  00:59:13,501 - #6 ;
+INFO  00:59:13,501 - #50 bodovi
+INFO  00:59:13,501 - #7 =
+INFO  00:59:13,501 - #50 bodovi
+INFO  00:59:13,501 - #39 *
+INFO  00:59:13,501 - #50 pet
+INFO  00:59:13,510 - #6 ;
+INFO  00:59:13,511 - #50 bodovi
+INFO  00:59:13,511 - #27 --
+INFO  00:59:13,511 - #6 ;
+INFO  00:59:13,511 - #18 print
+INFO  00:59:13,511 - #12 (
+INFO  00:59:13,511 - #50 bodovi
+INFO  00:59:13,512 - #13 )
+INFO  00:59:13,512 - #6 ;
+INFO  00:59:13,512 - #50 niz
+INFO  00:59:13,512 - #7 =
+INFO  00:59:13,512 - #31 new
+INFO  00:59:13,512 - #50 int
+INFO  00:59:13,512 - #10 [
+INFO  00:59:13,512 - #49 3
+INFO  00:59:13,512 - #9 ]
+INFO  00:59:13,513 - #6 ;
+INFO  00:59:13,513 - #50 niz
+INFO  00:59:13,513 - #10 [
+INFO  00:59:13,515 - #50 nula
+INFO  00:59:13,515 - #9 ]
+INFO  00:59:13,516 - #7 =
+INFO  00:59:13,516 - #50 jedan
+INFO  00:59:13,516 - #6 ;
+INFO  00:59:13,516 - #50 niz
+INFO  00:59:13,516 - #10 [
+INFO  00:59:13,516 - #49 1
+INFO  00:59:13,516 - #9 ]
+INFO  00:59:13,516 - #7 =
+INFO  00:59:13,516 - #49 2
+INFO  00:59:13,516 - #6 ;
+INFO  00:59:13,516 - #50 niz
+INFO  00:59:13,516 - #10 [
+INFO  00:59:13,516 - #50 niz
+INFO  00:59:13,516 - #10 [
+INFO  00:59:13,516 - #50 jedan
+INFO  00:59:13,516 - #9 ]
+INFO  00:59:13,516 - #9 ]
+INFO  00:59:13,517 - #7 =
+INFO  00:59:13,517 - #50 niz
+INFO  00:59:13,517 - #10 [
+INFO  00:59:13,517 - #50 niz
+INFO  00:59:13,517 - #10 [
+INFO  00:59:13,517 - #49 0
+INFO  00:59:13,517 - #9 ]
+INFO  00:59:13,517 - #9 ]
+INFO  00:59:13,517 - #39 *
+INFO  00:59:13,517 - #49 3
+INFO  00:59:13,517 - #6 ;
+INFO  00:59:13,517 - #50 bodovi
+INFO  00:59:13,518 - #7 =
+INFO  00:59:13,518 - #50 niz
+INFO  00:59:13,518 - #10 [
+INFO  00:59:13,518 - #49 2
+INFO  00:59:13,518 - #9 ]
+INFO  00:59:13,518 - #40 /
+INFO  00:59:13,518 - #50 niz
+INFO  00:59:13,519 - #10 [
+INFO  00:59:13,519 - #49 0
+INFO  00:59:13,519 - #9 ]
+INFO  00:59:13,519 - #6 ;
+INFO  00:59:13,520 - #18 print
+INFO  00:59:13,520 - #12 (
+INFO  00:59:13,520 - #50 bodovi
+INFO  00:59:13,520 - #13 )
+INFO  00:59:13,520 - #6 ;
+INFO  00:59:13,520 - #18 print
+INFO  00:59:13,520 - #12 (
+INFO  00:59:13,520 - #50 niz
+INFO  00:59:13,520 - #10 [
+INFO  00:59:13,520 - #49 2
+INFO  00:59:13,521 - #9 ]
+INFO  00:59:13,521 - #13 )
+INFO  00:59:13,521 - #6 ;
+INFO  00:59:13,521 - #10 [
+INFO  00:59:13,521 - #50 a
+INFO  00:59:13,522 - #8 ,
+INFO  00:59:13,523 - #50 b
+INFO  00:59:13,523 - #9 ]
+INFO  00:59:13,523 - #7 =
+INFO  00:59:13,523 - #50 niz
+INFO  00:59:13,523 - #6 ;
+INFO  00:59:13,523 - #18 print
+INFO  00:59:13,524 - #12 (
+INFO  00:59:13,524 - #50 a
+INFO  00:59:13,524 - #13 )
+INFO  00:59:13,524 - #6 ;
+INFO  00:59:13,524 - #18 print
+INFO  00:59:13,525 - #12 (
+INFO  00:59:13,525 - #50 b
+INFO  00:59:13,525 - #13 )
+INFO  00:59:13,526 - #6 ;
+INFO  00:59:13,526 - #10 [
+INFO  00:59:13,526 - #8 ,
+INFO  00:59:13,526 - #50 a
+INFO  00:59:13,526 - #8 ,
+INFO  00:59:13,526 - #9 ]
+INFO  00:59:13,526 - #7 =
+INFO  00:59:13,526 - #50 niz
+INFO  00:59:13,526 - #6 ;
+INFO  00:59:13,527 - #18 print
+INFO  00:59:13,527 - #12 (
+INFO  00:59:13,527 - #50 a
+INFO  00:59:13,527 - #13 )
+INFO  00:59:13,527 - #6 ;
+INFO  00:59:13,527 - #50 niz2
+INFO  00:59:13,527 - #7 =
+INFO  00:59:13,527 - #31 new
+INFO  00:59:13,528 - #50 int
+INFO  00:59:13,528 - #10 [
+INFO  00:59:13,528 - #49 2
+INFO  00:59:13,528 - #9 ]
+INFO  00:59:13,528 - #6 ;
+INFO  00:59:13,528 - #10 [
+INFO  00:59:13,528 - #50 niz2
+INFO  00:59:13,528 - #10 [
+INFO  00:59:13,528 - #49 0
+INFO  00:59:13,528 - #9 ]
+INFO  00:59:13,528 - #8 ,
+INFO  00:59:13,529 - #8 ,
+INFO  00:59:13,529 - #50 niz2
+INFO  00:59:13,529 - #10 [
+INFO  00:59:13,529 - #50 niz
+INFO  00:59:13,529 - #10 [
+INFO  00:59:13,529 - #50 nula
+INFO  00:59:13,529 - #9 ]
+INFO  00:59:13,529 - #9 ]
+INFO  00:59:13,529 - #9 ]
+INFO  00:59:13,529 - #7 =
+INFO  00:59:13,530 - #50 niz
+INFO  00:59:13,530 - #6 ;
+INFO  00:59:13,530 - #18 print
+INFO  00:59:13,530 - #12 (
+INFO  00:59:13,530 - #50 niz2
+INFO  00:59:13,530 - #10 [
+INFO  00:59:13,530 - #49 0
+INFO  00:59:13,530 - #9 ]
+INFO  00:59:13,530 - #13 )
+INFO  00:59:13,530 - #6 ;
+INFO  00:59:13,530 - #18 print
+INFO  00:59:13,531 - #12 (
+INFO  00:59:13,531 - #50 niz2
+INFO  00:59:13,531 - #10 [
+INFO  00:59:13,531 - #49 1
+INFO  00:59:13,531 - #9 ]
+INFO  00:59:13,531 - #13 )
+INFO  00:59:13,531 - #6 ;
+INFO  00:59:13,531 - #50 nizch
+INFO  00:59:13,531 - #7 =
+INFO  00:59:13,531 - #31 new
+INFO  00:59:13,531 - #50 char
+INFO  00:59:13,531 - #10 [
+INFO  00:59:13,531 - #49 3
+INFO  00:59:13,531 - #9 ]
+INFO  00:59:13,532 - #6 ;
+INFO  00:59:13,532 - #50 nizch
+INFO  00:59:13,532 - #10 [
+INFO  00:59:13,532 - #49 0
+INFO  00:59:13,532 - #9 ]
+INFO  00:59:13,532 - #7 =
+INFO  00:59:13,532 - #47 a
+INFO  00:59:13,532 - #6 ;
+INFO  00:59:13,532 - #50 nizch
+INFO  00:59:13,532 - #10 [
+INFO  00:59:13,533 - #50 jedan
+INFO  00:59:13,533 - #9 ]
+INFO  00:59:13,533 - #7 =
+INFO  00:59:13,533 - #47 b
+INFO  00:59:13,533 - #6 ;
+INFO  00:59:13,533 - #50 nizch
+INFO  00:59:13,533 - #10 [
+INFO  00:59:13,533 - #50 pet
+INFO  00:59:13,533 - #30 -
+INFO  00:59:13,533 - #49 3
+INFO  00:59:13,535 - #9 ]
+INFO  00:59:13,535 - #7 =
+INFO  00:59:13,535 - #47 c
+INFO  00:59:13,535 - #6 ;
+INFO  00:59:13,535 - #18 print
+INFO  00:59:13,535 - #12 (
+INFO  00:59:13,535 - #50 nizch
+INFO  00:59:13,535 - #10 [
+INFO  00:59:13,535 - #49 1
+INFO  00:59:13,535 - #9 ]
+INFO  00:59:13,535 - #13 )
+INFO  00:59:13,535 - #6 ;
+INFO  00:59:13,535 - #18 print
+INFO  00:59:13,538 - #12 (
+INFO  00:59:13,538 - #50 nizch
+INFO  00:59:13,538 - #10 [
+INFO  00:59:13,538 - #50 jedan
+INFO  00:59:13,538 - #39 *
+INFO  00:59:13,538 - #49 2
+INFO  00:59:13,538 - #9 ]
+INFO  00:59:13,538 - #13 )
+INFO  00:59:13,538 - #6 ;
+INFO  00:59:13,538 - #23 read
+INFO  00:59:13,539 - #12 (
+INFO  00:59:13,539 - #50 bodovi
+INFO  00:59:13,539 - #13 )
+INFO  00:59:13,539 - #6 ;
+INFO  00:59:13,539 - #50 bodovi
+INFO  00:59:13,540 - #7 =
+INFO  00:59:13,540 - #30 -
+INFO  00:59:13,540 - #50 bodovi
+INFO  00:59:13,540 - #38 +
+INFO  00:59:13,540 - #12 (
+INFO  00:59:13,541 - #50 pet
+INFO  00:59:13,541 - #39 *
+INFO  00:59:13,541 - #50 a
+INFO  00:59:13,541 - #40 /
+INFO  00:59:13,541 - #49 2
+INFO  00:59:13,541 - #30 -
+INFO  00:59:13,541 - #50 jedan
+INFO  00:59:13,541 - #13 )
+INFO  00:59:13,541 - #39 *
+INFO  00:59:13,541 - #50 bodovi
+INFO  00:59:13,541 - #30 -
+INFO  00:59:13,541 - #12 (
+INFO  00:59:13,542 - #49 3
+INFO  00:59:13,542 - #41 %
+INFO  00:59:13,542 - #49 2
+INFO  00:59:13,544 - #38 +
+INFO  00:59:13,544 - #49 3
+INFO  00:59:13,544 - #39 *
+INFO  00:59:13,544 - #49 2
+INFO  00:59:13,544 - #30 -
+INFO  00:59:13,544 - #49 3
+INFO  00:59:13,544 - #13 )
+INFO  00:59:13,544 - #6 ;
+INFO  00:59:13,544 - #18 print
+INFO  00:59:13,544 - #12 (
+INFO  00:59:13,545 - #50 bodovi
+INFO  00:59:13,545 - #13 )
+INFO  00:59:13,545 - #6 ;
+INFO  00:59:13,545 - #4 }
+INFO  00:59:13,545 - #4 }
+INFO  00:59:13,565 - Kreirana je konstanta nula na liniji 5
+INFO  00:59:13,566 - Kreirana je konstanta jedan na liniji 6
+INFO  00:59:13,566 - Kreirana je konstanta pet na liniji 7
+INFO  00:59:13,566 - Kreirana globalna promenljiva sa imenom niz[] na liniji 9
+INFO  00:59:13,566 - Kreirana globalna promenljiva sa imenom niz2[] na liniji 9
+INFO  00:59:13,566 - Kreirana globalna promenljiva sa imenom a na liniji 9
+INFO  00:59:13,566 - Kreirana globalna promenljiva sa imenom b na liniji 9
+INFO  00:59:13,567 - Kreirana globalna promenljiva sa imenom nizch[] na liniji 10
+INFO  00:59:13,567 - Kreirana lokalna promenljiva sa imenom bodovi na liniji 14
+INFO  00:59:13,567 - Kreirana lokalna promenljiva sa imenom bt na liniji 15
+INFO  00:59:13,567 - Pristupa se promenjivoj bodovi na liniji 19
+INFO  00:59:13,567 - Pristupa se promenjivoj bodovi na liniji 20
+INFO  00:59:13,567 - Pristupa se promenjivoj bodovi na liniji 22
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 26
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 27
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 28
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 28
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 28
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 28
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 29
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 29
+INFO  00:59:13,567 - Pristupa se promenjivoj bodovi na liniji 30
+INFO  00:59:13,567 - Pristupa se elementu niza niz na liniji 31
+INFO  00:59:13,568 - Pristupa se promenjivoj a na liniji 35
+INFO  00:59:13,568 - Pristupa se promenjivoj b na liniji 36
+INFO  00:59:13,568 - Pristupa se promenjivoj a na liniji 40
+INFO  00:59:13,568 - Pristupa se elementu niza niz2 na liniji 43
+INFO  00:59:13,568 - Pristupa se elementu niza niz na liniji 43
+INFO  00:59:13,568 - Pristupa se elementu niza niz2 na liniji 43
+INFO  00:59:13,568 - Pristupa se elementu niza niz2 na liniji 45
+INFO  00:59:13,568 - Pristupa se elementu niza niz2 na liniji 46
+INFO  00:59:13,568 - Pristupa se elementu niza nizch na liniji 51
+INFO  00:59:13,568 - Pristupa se elementu niza nizch na liniji 52
+INFO  00:59:13,568 - Pristupa se elementu niza nizch na liniji 53
+INFO  00:59:13,568 - Pristupa se elementu niza nizch na liniji 54
+INFO  00:59:13,568 - Pristupa se elementu niza nizch na liniji 55
+INFO  00:59:13,568 - Pristupa se promenjivoj bodovi na liniji 59
+INFO  00:59:13,568 - Pristupa se promenjivoj a na liniji 59
+INFO  00:59:13,568 - Pristupa se promenjivoj bodovi na liniji 59
+INFO  00:59:13,568 - Pristupa se promenjivoj bodovi na liniji 60
+INFO  00:59:13,569 - Main ispravno deklarisan
+INFO  00:59:13,570 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:59:13,582 - Parsiranje uspesno zavrseno!

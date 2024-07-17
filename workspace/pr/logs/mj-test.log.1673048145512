@@ -1,0 +1,317 @@
+INFO  00:34:10,930 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:34:11,011 - #2 program
+INFO  00:34:11,012 - #50 MJProgram
+INFO  00:34:11,012 - #50 int
+INFO  00:34:11,015 - #50 x
+INFO  00:34:11,018 - #8 ,
+INFO  00:34:11,020 - #50 y
+INFO  00:34:11,021 - #6 ;
+INFO  00:34:11,021 - #5 const
+INFO  00:34:11,023 - #50 int
+INFO  00:34:11,023 - #50 z
+INFO  00:34:11,024 - #7 =
+INFO  00:34:11,024 - #49 10
+INFO  00:34:11,024 - #6 ;
+INFO  00:34:11,025 - #50 int
+INFO  00:34:11,026 - #50 niz
+INFO  00:34:11,027 - #10 [
+INFO  00:34:11,027 - #9 ]
+INFO  00:34:11,027 - #6 ;
+INFO  00:34:11,028 - #3 {
+INFO  00:34:11,028 - #50 int
+INFO  00:34:11,031 - #50 k
+INFO  00:34:11,031 - #12 (
+INFO  00:34:11,033 - #13 )
+INFO  00:34:11,033 - #50 int
+INFO  00:34:11,034 - #50 c
+INFO  00:34:11,035 - #6 ;
+INFO  00:34:11,035 - #3 {
+INFO  00:34:11,035 - #22 return
+INFO  00:34:11,036 - #50 c
+INFO  00:34:11,036 - #38 +
+INFO  00:34:11,037 - #49 1
+INFO  00:34:11,038 - #6 ;
+INFO  00:34:11,039 - #4 }
+INFO  00:34:11,039 - #14 void
+INFO  00:34:11,040 - #50 main
+INFO  00:34:11,041 - #12 (
+INFO  00:34:11,041 - #13 )
+INFO  00:34:11,041 - #3 {
+INFO  00:34:11,041 - #18 print
+INFO  00:34:11,042 - #12 (
+INFO  00:34:11,042 - #49 1
+INFO  00:34:11,042 - #13 )
+INFO  00:34:11,042 - #6 ;
+INFO  00:34:11,042 - #16 while
+INFO  00:34:11,042 - #12 (
+INFO  00:34:11,042 - #49 2
+INFO  00:34:11,042 - #36 >
+INFO  00:34:11,043 - #49 1
+INFO  00:34:11,044 - #13 )
+INFO  00:34:11,044 - #3 {
+INFO  00:34:11,044 - #21 continue
+INFO  00:34:11,044 - #6 ;
+INFO  00:34:11,044 - #4 }
+INFO  00:34:11,045 - #17 break
+INFO  00:34:11,046 - #6 ;
+INFO  00:34:11,046 - #18 print
+INFO  00:34:11,046 - #12 (
+INFO  00:34:11,047 - #49 2
+INFO  00:34:11,047 - #13 )
+INFO  00:34:11,047 - #6 ;
+INFO  00:34:11,047 - #50 k
+INFO  00:34:11,047 - #12 (
+INFO  00:34:11,050 - #13 )
+INFO  00:34:11,050 - #6 ;
+INFO  00:34:11,051 - #22 return
+INFO  00:34:11,051 - #6 ;
+ERROR 00:34:11,051 - 
+Sintaksna greska na liniji 25
+INFO  00:34:11,051 - #4 }
+INFO  00:34:11,052 - #4 }
+ERROR 00:34:11,053 - Izvrsen oporavak do ; u liniji 25
+INFO  00:34:11,080 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationList(
+    ConstDeclarationList(
+      VarDeclarationList(
+        NoDeclarationList(
+        ) [NoDeclarationList]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          MultipleVarDecls(
+            PrevMultipleVarDecl(
+             x
+              VarNotArray(
+              ) [VarNotArray]
+            ) [PrevMultipleVarDecl]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               y
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [MultipleVarDecls]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      ConstDeclaration(
+        ConstDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [ConstDeclType]
+        NumValue(
+         z
+         10
+        ) [NumValue]
+        NoMoreConstDeclarations(
+        ) [NoMoreConstDeclarations]
+      ) [ConstDeclaration]
+    ) [ConstDeclarationList]
+    VarDecl(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVarDeclaration(
+        PrevOneVarDecl(
+         niz
+          VarIsArray(
+          ) [VarIsArray]
+        ) [PrevOneVarDecl]
+      ) [OneVarDeclaration]
+    ) [VarDecl]
+  ) [VarDeclarationList]
+  NonEmptyMethodDeclList(
+    NonEmptyMethodDeclList(
+      EmptyMethodDeclList(
+      ) [EmptyMethodDeclList]
+      MethodDecl(
+        MethodName(
+          MethodHasType(
+            Type(
+             int
+            ) [Type]
+          ) [MethodHasType]
+         k
+        ) [MethodName]
+        NoFormParams(
+        ) [NoFormParams]
+        MethodHasVars(
+          NoVarsMethod(
+          ) [NoVarsMethod]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               c
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [VarDecl]
+        ) [MethodHasVars]
+        Statements(
+          NoStatements(
+          ) [NoStatements]
+          OneStatement(
+            ReturnSt(
+              AddopExpr(
+                SimpleExpr(
+                  Term(
+                    OneFactor(
+                      SimpleFactor(
+                        SimpleDesignator(
+                         c
+                        ) [SimpleDesignator]
+                      ) [SimpleFactor]
+                    ) [OneFactor]
+                  ) [Term]
+                ) [SimpleExpr]
+                AddopPl(
+                ) [AddopPl]
+                Term(
+                  OneFactor(
+                    FactorNum(
+                     1
+                    ) [FactorNum]
+                  ) [OneFactor]
+                ) [Term]
+              ) [AddopExpr]
+            ) [ReturnSt]
+          ) [OneStatement]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [NonEmptyMethodDeclList]
+    MethodDecl(
+      MethodName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarsMethod(
+      ) [NoVarsMethod]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  NoStatements(
+                  ) [NoStatements]
+                  OneStatement(
+                    PrintSt(
+                      SimpleExpr(
+                        Term(
+                          OneFactor(
+                            FactorNum(
+                             1
+                            ) [FactorNum]
+                          ) [OneFactor]
+                        ) [Term]
+                      ) [SimpleExpr]
+                    ) [PrintSt]
+                  ) [OneStatement]
+                ) [Statements]
+                OneStatement(
+                  WhileSt(
+                    WhileDummyStart(
+                    ) [WhileDummyStart]
+                    OneTerm(
+                      OneFact(
+                        RelOpCondFact(
+                          SimpleExpr(
+                            Term(
+                              OneFactor(
+                                FactorNum(
+                                 2
+                                ) [FactorNum]
+                              ) [OneFactor]
+                            ) [Term]
+                          ) [SimpleExpr]
+                          RelopGt(
+                          ) [RelopGt]
+                          SimpleExpr(
+                            Term(
+                              OneFactor(
+                                FactorNum(
+                                 1
+                                ) [FactorNum]
+                              ) [OneFactor]
+                            ) [Term]
+                          ) [SimpleExpr]
+                        ) [RelOpCondFact]
+                      ) [OneFact]
+                    ) [OneTerm]
+                    StatementBlock(
+                      Statements(
+                        NoStatements(
+                        ) [NoStatements]
+                        OneStatement(
+                          ContinueSt(
+                          ) [ContinueSt]
+                        ) [OneStatement]
+                      ) [Statements]
+                    ) [StatementBlock]
+                  ) [WhileSt]
+                ) [OneStatement]
+              ) [Statements]
+              OneStatement(
+                BreakSt(
+                ) [BreakSt]
+              ) [OneStatement]
+            ) [Statements]
+            OneStatement(
+              PrintSt(
+                SimpleExpr(
+                  Term(
+                    OneFactor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [OneFactor]
+                  ) [Term]
+                ) [SimpleExpr]
+              ) [PrintSt]
+            ) [OneStatement]
+          ) [Statements]
+          OneStatement(
+            Assignment(
+              DesignatorFunc(
+                FunctionDesignator(
+                  SimpleDesignator(
+                   k
+                  ) [SimpleDesignator]
+                ) [FunctionDesignator]
+                NoActPars(
+                ) [NoActPars]
+              ) [DesignatorFunc]
+            ) [Assignment]
+          ) [OneStatement]
+        ) [Statements]
+        OneStatement(
+          SingleStatementDerived1(
+          ) [SingleStatementDerived1]
+        ) [OneStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  00:34:11,081 - ===================================
+INFO  00:34:11,088 - Kreirana je konstanta z na liniji 3
+INFO  00:34:11,088 - Deklarisana globalna funkcija sa imenom k na liniji 7
+ERROR 00:34:11,088 - Greska na liniji: 8. Promenljiva c nije deklarisana. 

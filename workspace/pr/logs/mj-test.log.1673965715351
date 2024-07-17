@@ -1,0 +1,168 @@
+INFO  15:27:38,353 - Compiling source file: C:\Users\borot\Desktop\pp1 projekat\pp1lab.templateAST\workspace\pr\test\program.mj
+INFO  15:27:38,434 - #2 program
+INFO  15:27:38,434 - #50 test302
+INFO  15:27:38,434 - #5 const
+INFO  15:27:38,436 - #50 int
+INFO  15:27:38,436 - #50 jedan
+INFO  15:27:38,438 - #7 =
+INFO  15:27:38,438 - #49 1
+INFO  15:27:38,439 - #6 ;
+INFO  15:27:38,441 - #50 int
+INFO  15:27:38,442 - #50 i
+INFO  15:27:38,442 - #6 ;
+INFO  15:27:38,444 - #50 bool
+INFO  15:27:38,445 - #50 ibool
+INFO  15:27:38,445 - #6 ;
+INFO  15:27:38,446 - #50 int
+INFO  15:27:38,446 - #50 niz2
+INFO  15:27:38,446 - #6 ;
+INFO  15:27:38,446 - #50 int
+INFO  15:27:38,446 - #50 niz
+INFO  15:27:38,446 - #10 [
+INFO  15:27:38,446 - #9 ]
+INFO  15:27:38,448 - #6 ;
+INFO  15:27:38,449 - #50 int
+INFO  15:27:38,449 - #50 a
+INFO  15:27:38,449 - #8 ,
+INFO  15:27:38,449 - #50 curr
+INFO  15:27:38,450 - #6 ;
+INFO  15:27:38,450 - #3 {
+INFO  15:27:38,450 - #50 int
+INFO  15:27:38,451 - #50 sum
+INFO  15:27:38,451 - #12 (
+INFO  15:27:38,452 - #50 int
+INFO  15:27:38,452 - #50 z
+INFO  15:27:38,452 - #8 ,
+INFO  15:27:38,453 - #50 int
+INFO  15:27:38,453 - #50 d
+INFO  15:27:38,453 - #13 )
+INFO  15:27:38,453 - #3 {
+INFO  15:27:38,454 - #22 return
+INFO  15:27:38,455 - #50 z
+INFO  15:27:38,455 - #38 +
+INFO  15:27:38,456 - #6 ;
+ERROR 15:27:38,456 - 
+Sintaksna greska na liniji 19
+INFO  15:27:38,457 - #4 }
+INFO  15:27:38,457 - #50 int
+INFO  15:27:38,457 - #50 inkrement
+ERROR 15:27:38,459 - Izvrsen oporavak do ; u liniji 19
+INFO  15:27:38,462 - #12 (
+INFO  15:27:38,462 - #50 int
+INFO  15:27:38,462 - #50 a
+INFO  15:27:38,462 - #8 ,
+INFO  15:27:38,462 - #50 int
+INFO  15:27:38,462 - #50 inc
+INFO  15:27:38,463 - #13 )
+INFO  15:27:38,463 - #50 int
+INFO  15:27:38,463 - #50 pom
+INFO  15:27:38,463 - #6 ;
+INFO  15:27:38,463 - #3 {
+INFO  15:27:38,464 - #15 if
+INFO  15:27:38,464 - #12 (
+INFO  15:27:38,464 - #50 inc
+INFO  15:27:38,464 - #32 ==
+INFO  15:27:38,465 - #50 jedan
+INFO  15:27:38,466 - #13 )
+INFO  15:27:38,469 - #50 pom
+INFO  15:27:38,469 - #7 =
+INFO  15:27:38,470 - #49 1
+INFO  15:27:38,470 - #6 ;
+INFO  15:27:38,470 - #20 else
+INFO  15:27:38,471 - #15 if
+INFO  15:27:38,471 - #12 (
+INFO  15:27:38,471 - #50 inc
+INFO  15:27:38,472 - #32 ==
+INFO  15:27:38,472 - #49 2
+INFO  15:27:38,472 - #13 )
+INFO  15:27:38,472 - #50 pom
+INFO  15:27:38,472 - #7 =
+INFO  15:27:38,472 - #50 a
+INFO  15:27:38,472 - #6 ;
+INFO  15:27:38,473 - #22 return
+INFO  15:27:38,474 - #50 sum
+INFO  15:27:38,474 - #12 (
+INFO  15:27:38,475 - #50 a
+INFO  15:27:38,475 - #8 ,
+INFO  15:27:38,475 - #50 pom
+INFO  15:27:38,475 - #13 )
+INFO  15:27:38,476 - #6 ;
+INFO  15:27:38,476 - #4 }
+INFO  15:27:38,476 - #50 bool
+INFO  15:27:38,476 - #50 verify
+INFO  15:27:38,476 - #12 (
+INFO  15:27:38,476 - #13 )
+INFO  15:27:38,477 - #3 {
+INFO  15:27:38,478 - #18 print
+INFO  15:27:38,478 - #12 (
+INFO  15:27:38,478 - #47 v
+INFO  15:27:38,478 - #13 )
+INFO  15:27:38,478 - #6 ;
+INFO  15:27:38,479 - #22 return
+INFO  15:27:38,479 - #48 false
+INFO  15:27:38,482 - #6 ;
+INFO  15:27:38,482 - #4 }
+INFO  15:27:38,482 - #14 void
+INFO  15:27:38,483 - #50 main
+INFO  15:27:38,483 - #12 (
+INFO  15:27:38,484 - #13 )
+INFO  15:27:38,484 - #3 {
+INFO  15:27:38,484 - #4 }
+INFO  15:27:38,484 - #4 }
+INFO  15:27:38,499 - Kreirana je konstanta jedan na liniji 5
+INFO  15:27:38,499 - Kreirana globalna promenljiva sa imenom i na liniji 7
+INFO  15:27:38,499 - Kreirana globalna promenljiva sa imenom ibool na liniji 8
+INFO  15:27:38,500 - Kreirana globalna promenljiva sa imenom niz2 na liniji 10
+INFO  15:27:38,500 - Kreirana globalna promenljiva sa imenom niz[] na liniji 12
+INFO  15:27:38,500 - Kreirana globalna promenljiva sa imenom a na liniji 13
+INFO  15:27:38,500 - Kreirana globalna promenljiva sa imenom curr na liniji 13
+INFO  15:27:38,500 - Deklarisana globalna funkcija sa imenom sum na liniji 17
+ERROR 15:27:38,500 -  GRESKA na liniji: 17. Funkcija sum nema pravilan return.
+INFO  15:27:38,500 - Deklarisana globalna funkcija sa imenom inkrement na liniji 23
+INFO  15:27:38,501 - Kreirana lokalna promenljiva sa imenom pom na liniji 24
+INFO  15:27:38,501 - Pristupa se promenjivoj inc na liniji 26
+INFO  15:27:38,501 - Pristupa se promenjivoj inc na liniji 27
+INFO  15:27:38,501 - Pristupa se promenjivoj a na liniji 27
+INFO  15:27:38,501 - Pristupa se promenjivoj a na liniji 29
+INFO  15:27:38,501 - Pristupa se promenjivoj pom na liniji 29
+INFO  15:27:38,502 - Pozvana metoda sum na liniji 29
+INFO  15:27:38,502 - Deklarisana globalna funkcija sa imenom verify na liniji 32
+INFO  15:27:38,502 - Main ispravno deklarisan
+INFO  15:27:38,503 - Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var ibool: , 1, 0 
+   Var niz2: int, 2, 0 
+   Var niz: Arr of int, 3, 0 
+   Var a: int, 4, 0 
+   Var curr: int, 5, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+
+ERROR 15:27:38,503 - Parsiranje NIJE uspesno zavrseno!

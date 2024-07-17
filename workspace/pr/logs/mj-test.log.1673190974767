@@ -1,0 +1,45 @@
+INFO  16:11:27,469 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:11:27,511 - #2 program
+INFO  16:11:27,511 - #50 Program
+INFO  16:11:27,511 - #5 const
+INFO  16:11:27,512 - #50 int
+INFO  16:11:27,512 - #50 pi
+INFO  16:11:27,513 - #7 =
+INFO  16:11:27,513 - #49 3
+INFO  16:11:27,513 - #8 ,
+INFO  16:11:27,514 - #50 e
+INFO  16:11:27,515 - #7 =
+INFO  16:11:27,515 - #49 2
+INFO  16:11:27,515 - #6 ;
+INFO  16:11:27,515 - #50 int
+INFO  16:11:27,515 - #50 a
+INFO  16:11:27,516 - #8 ,
+INFO  16:11:27,518 - #50 b
+INFO  16:11:27,518 - #6 ;
+INFO  16:11:27,519 - #3 {
+INFO  16:11:27,520 - #14 void
+INFO  16:11:27,520 - #50 main
+INFO  16:11:27,522 - #12 (
+INFO  16:11:27,523 - #13 )
+INFO  16:11:27,523 - #3 {
+INFO  16:11:27,524 - #18 print
+INFO  16:11:27,524 - #12 (
+INFO  16:11:27,524 - #49 1
+INFO  16:11:27,524 - #13 )
+INFO  16:11:27,525 - #6 ;
+INFO  16:11:27,525 - #18 print
+INFO  16:11:27,525 - #12 (
+INFO  16:11:27,525 - #49 2
+INFO  16:11:27,525 - #13 )
+INFO  16:11:27,525 - #6 ;
+INFO  16:11:27,525 - #22 return
+INFO  16:11:27,525 - #6 ;
+INFO  16:11:27,525 - #4 }
+INFO  16:11:27,526 - #4 }
+INFO  16:11:27,540 - Kreirana je konstanta pi na liniji 3
+INFO  16:11:27,540 - Kreirana je konstanta e na liniji 3
+INFO  16:11:27,540 - Kreirana globalna promenljiva sa imenom a na liniji 4
+INFO  16:11:27,541 - Kreirana globalna promenljiva sa imenom b na liniji 4
+INFO  16:11:27,541 - Main ispravno deklarisan
+INFO  16:11:27,541 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:11:27,551 - Parsiranje uspesno zavrseno!

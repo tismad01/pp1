@@ -1,0 +1,117 @@
+INFO  20:20:30,345 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:20:30,419 - #2 program
+INFO  20:20:30,419 - #50 MJProgram
+INFO  20:20:30,419 - #50 int
+INFO  20:20:30,420 - #50 x
+INFO  20:20:30,421 - #6 ;
+INFO  20:20:30,423 - #50 int
+INFO  20:20:30,425 - #50 y
+INFO  20:20:30,425 - #10 [
+INFO  20:20:30,425 - #9 ]
+INFO  20:20:30,425 - #6 ;
+INFO  20:20:30,426 - #3 {
+INFO  20:20:30,426 - #50 int
+INFO  20:20:30,426 - #50 k
+INFO  20:20:30,427 - #12 (
+INFO  20:20:30,427 - #13 )
+INFO  20:20:30,427 - #50 int
+INFO  20:20:30,428 - #50 c
+INFO  20:20:30,429 - #6 ;
+INFO  20:20:30,429 - #3 {
+INFO  20:20:30,429 - #50 c
+INFO  20:20:30,431 - #7 =
+INFO  20:20:30,432 - #49 3
+INFO  20:20:30,432 - #6 ;
+INFO  20:20:30,434 - #50 x
+INFO  20:20:30,434 - #26 ++
+INFO  20:20:30,434 - #6 ;
+INFO  20:20:30,435 - #18 print
+INFO  20:20:30,435 - #12 (
+INFO  20:20:30,435 - #50 x
+INFO  20:20:30,435 - #13 )
+INFO  20:20:30,435 - #6 ;
+INFO  20:20:30,435 - #22 return
+INFO  20:20:30,435 - #50 c
+INFO  20:20:30,436 - #6 ;
+INFO  20:20:30,436 - #4 }
+INFO  20:20:30,436 - #14 void
+INFO  20:20:30,437 - #50 main
+INFO  20:20:30,438 - #12 (
+INFO  20:20:30,438 - #13 )
+INFO  20:20:30,438 - #50 int
+INFO  20:20:30,438 - #50 pom1
+INFO  20:20:30,439 - #8 ,
+INFO  20:20:30,439 - #50 pom2
+INFO  20:20:30,439 - #6 ;
+INFO  20:20:30,439 - #3 {
+INFO  20:20:30,439 - #50 y
+INFO  20:20:30,439 - #7 =
+INFO  20:20:30,440 - #31 new
+INFO  20:20:30,440 - #50 int
+INFO  20:20:30,440 - #10 [
+INFO  20:20:30,440 - #49 3
+INFO  20:20:30,440 - #9 ]
+INFO  20:20:30,440 - #6 ;
+INFO  20:20:30,440 - #50 pom1
+INFO  20:20:30,440 - #7 =
+INFO  20:20:30,440 - #49 1
+INFO  20:20:30,441 - #6 ;
+INFO  20:20:30,441 - #50 pom2
+INFO  20:20:30,441 - #7 =
+INFO  20:20:30,441 - #49 2
+INFO  20:20:30,441 - #6 ;
+INFO  20:20:30,441 - #50 y
+INFO  20:20:30,441 - #10 [
+INFO  20:20:30,442 - #49 1
+INFO  20:20:30,442 - #9 ]
+INFO  20:20:30,443 - #7 =
+INFO  20:20:30,443 - #49 100
+INFO  20:20:30,443 - #6 ;
+INFO  20:20:30,443 - #50 y
+INFO  20:20:30,443 - #10 [
+INFO  20:20:30,443 - #49 2
+INFO  20:20:30,444 - #9 ]
+INFO  20:20:30,444 - #7 =
+INFO  20:20:30,444 - #49 101
+INFO  20:20:30,444 - #6 ;
+INFO  20:20:30,444 - #10 [
+INFO  20:20:30,444 - #50 pom1
+INFO  20:20:30,444 - #8 ,
+INFO  20:20:30,444 - #8 ,
+INFO  20:20:30,445 - #50 pom2
+INFO  20:20:30,445 - #9 ]
+INFO  20:20:30,446 - #7 =
+INFO  20:20:30,446 - #50 y
+INFO  20:20:30,446 - #6 ;
+INFO  20:20:30,446 - #50 y
+INFO  20:20:30,446 - #24 .
+INFO  20:20:30,447 - #19 foreach
+INFO  20:20:30,447 - #12 (
+INFO  20:20:30,447 - #50 x
+INFO  20:20:30,447 - #25 =>
+INFO  20:20:30,448 - #18 print
+INFO  20:20:30,449 - #12 (
+INFO  20:20:30,449 - #50 x
+INFO  20:20:30,450 - #13 )
+INFO  20:20:30,450 - #6 ;
+INFO  20:20:30,450 - #13 )
+INFO  20:20:30,450 - #6 ;
+INFO  20:20:30,451 - #22 return
+INFO  20:20:30,451 - #6 ;
+INFO  20:20:30,451 - #4 }
+INFO  20:20:30,452 - #4 }
+INFO  20:20:30,466 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  20:20:30,466 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  20:20:30,466 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  20:20:30,467 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  20:20:30,467 - Pristupa se promenjivoj x na liniji 9
+INFO  20:20:30,467 - Pristupa se promenjivoj c na liniji 11
+INFO  20:20:30,467 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 14
+INFO  20:20:30,467 - Kreirana lokalna promenljiva sa imenom pom2 na liniji 14
+INFO  20:20:30,467 - Pristupa se elementu niza y na liniji 21
+INFO  20:20:30,467 - Pristupa se elementu niza y na liniji 22
+ERROR 20:20:30,468 -  GRESKA na liniji: 24. Nekompatibilna dodela. 
+INFO  20:20:30,468 - Pristupa se promenjivoj x na liniji 27
+INFO  20:20:30,468 - Main ispravno deklarisan
+INFO  20:20:30,469 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:20:30,482 - Parsiranje uspesno zavrseno!

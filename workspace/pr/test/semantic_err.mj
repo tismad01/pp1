@@ -1,0 +1,38 @@
+program MJProgram
+	int x; int y[];
+	const int jedan = 1;
+{
+
+	int k () int c; {
+		c = 3;
+	
+		x++;
+		print(x);
+		
+		return false;
+	}
+
+	void main() int pom1, pom2[], pom3, pom4;{
+		
+		x = 15;
+		
+		y = new int[3];
+		pom2 = new int[2];
+		
+		pom4 = 'c';
+		
+		print(jedan);
+		
+		y[0] = 99;
+		y[1] = 100;
+		y[2] = 101;
+
+		[pom1, pom2[1], pom3, pom4] = y;
+		
+		print('p');
+		
+		y.foreach( x =>  print(x););
+		
+		return;
+	}
+}

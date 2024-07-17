@@ -1,0 +1,764 @@
+INFO  20:05:32,579 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:05:32,615 - #2 program
+INFO  20:05:32,615 - #50 MJProgram
+INFO  20:05:32,616 - #50 int
+INFO  20:05:32,616 - #50 x
+INFO  20:05:32,617 - #8 ,
+INFO  20:05:32,617 - #50 y
+INFO  20:05:32,617 - #6 ;
+INFO  20:05:32,618 - #11 class
+INFO  20:05:32,618 - #50 A
+INFO  20:05:32,618 - #3 {
+INFO  20:05:32,619 - #50 char
+INFO  20:05:32,620 - #50 c
+INFO  20:05:32,620 - #10 [
+INFO  20:05:32,620 - #9 ]
+INFO  20:05:32,620 - #6 ;
+INFO  20:05:32,621 - #3 {
+INFO  20:05:32,621 - #14 void
+INFO  20:05:32,621 - #50 methodA
+INFO  20:05:32,622 - #12 (
+INFO  20:05:32,622 - #13 )
+INFO  20:05:32,624 - #3 {
+INFO  20:05:32,625 - #18 print
+INFO  20:05:32,625 - #12 (
+INFO  20:05:32,625 - #50 c
+INFO  20:05:32,625 - #13 )
+INFO  20:05:32,626 - #6 ;
+INFO  20:05:32,626 - #4 }
+INFO  20:05:32,627 - #4 }
+INFO  20:05:32,627 - #4 }
+INFO  20:05:32,628 - #11 class
+INFO  20:05:32,628 - #50 B
+INFO  20:05:32,628 - #42 extends
+INFO  20:05:32,628 - #50 A
+INFO  20:05:32,628 - #3 {
+INFO  20:05:32,628 - #50 A
+INFO  20:05:32,628 - #50 a
+INFO  20:05:32,629 - #6 ;
+INFO  20:05:32,629 - #3 {
+INFO  20:05:32,629 - #14 void
+INFO  20:05:32,629 - #50 methodB
+INFO  20:05:32,629 - #12 (
+INFO  20:05:32,629 - #13 )
+INFO  20:05:32,629 - #3 {
+INFO  20:05:32,629 - #18 print
+INFO  20:05:32,629 - #12 (
+INFO  20:05:32,629 - #50 a
+INFO  20:05:32,629 - #24 .
+INFO  20:05:32,629 - #50 c
+INFO  20:05:32,629 - #10 [
+INFO  20:05:32,630 - #50 b
+INFO  20:05:32,630 - #9 ]
+INFO  20:05:32,630 - #13 )
+INFO  20:05:32,630 - #6 ;
+INFO  20:05:32,630 - #4 }
+INFO  20:05:32,630 - #4 }
+INFO  20:05:32,630 - #4 }
+INFO  20:05:32,630 - #3 {
+INFO  20:05:32,630 - #14 void
+INFO  20:05:32,631 - #50 main
+INFO  20:05:32,631 - #12 (
+INFO  20:05:32,631 - #13 )
+INFO  20:05:32,631 - #3 {
+INFO  20:05:32,631 - #18 print
+INFO  20:05:32,631 - #12 (
+INFO  20:05:32,631 - #49 1
+INFO  20:05:32,632 - #13 )
+INFO  20:05:32,632 - #6 ;
+INFO  20:05:32,632 - #18 print
+INFO  20:05:32,632 - #12 (
+INFO  20:05:32,632 - #49 2
+INFO  20:05:32,632 - #13 )
+INFO  20:05:32,632 - #6 ;
+INFO  20:05:32,632 - #50 x
+INFO  20:05:32,632 - #7 =
+INFO  20:05:32,632 - #50 y
+INFO  20:05:32,633 - #38 +
+INFO  20:05:32,633 - #6 ;
+ERROR 20:05:32,633 - 
+Sintaksna greska na liniji 22
+INFO  20:05:32,633 - #4 }
+INFO  20:05:32,633 - #50 int
+INFO  20:05:32,633 - #50 f
+ERROR 20:05:32,634 - Izvrsen oporavak do ; u liniji 22
+INFO  20:05:32,634 - #12 (
+INFO  20:05:32,634 - #50 int
+INFO  20:05:32,635 - #50 a
+INFO  20:05:32,635 - #8 ,
+INFO  20:05:32,636 - #50 int
+INFO  20:05:32,636 - #50 b
+INFO  20:05:32,636 - #13 )
+INFO  20:05:32,637 - #50 int
+INFO  20:05:32,637 - #50 c
+INFO  20:05:32,637 - #6 ;
+INFO  20:05:32,637 - #3 {
+INFO  20:05:32,637 - #50 c
+INFO  20:05:32,637 - #7 =
+INFO  20:05:32,637 - #50 a
+INFO  20:05:32,637 - #38 +
+INFO  20:05:32,638 - #50 b
+INFO  20:05:32,638 - #6 ;
+INFO  20:05:32,639 - #22 return
+INFO  20:05:32,639 - #50 c
+INFO  20:05:32,639 - #6 ;
+INFO  20:05:32,639 - #4 }
+INFO  20:05:32,639 - #50 boolean
+INFO  20:05:32,639 - #50 b
+INFO  20:05:32,639 - #12 (
+INFO  20:05:32,639 - #13 )
+INFO  20:05:32,639 - #50 int
+INFO  20:05:32,639 - #50 x
+INFO  20:05:32,639 - #6 ;
+INFO  20:05:32,639 - #50 int
+INFO  20:05:32,639 - #50 y
+INFO  20:05:32,639 - #6 ;
+INFO  20:05:32,639 - #3 {
+INFO  20:05:32,639 - #15 if
+INFO  20:05:32,639 - #12 (
+INFO  20:05:32,639 - #50 x
+INFO  20:05:32,640 - #36 >
+INFO  20:05:32,640 - #50 y
+INFO  20:05:32,640 - #13 )
+INFO  20:05:32,641 - #3 {
+INFO  20:05:32,641 - #22 return
+INFO  20:05:32,641 - #50 true
+INFO  20:05:32,641 - #6 ;
+INFO  20:05:32,641 - #4 }
+INFO  20:05:32,641 - #20 else
+INFO  20:05:32,641 - #3 {
+INFO  20:05:32,641 - #22 return
+INFO  20:05:32,641 - #50 false
+INFO  20:05:32,642 - #6 ;
+INFO  20:05:32,642 - #4 }
+INFO  20:05:32,642 - #4 }
+INFO  20:05:32,642 - #50 char
+INFO  20:05:32,642 - #50 c
+INFO  20:05:32,642 - #12 (
+INFO  20:05:32,642 - #50 char
+INFO  20:05:32,642 - #50 a
+INFO  20:05:32,642 - #13 )
+INFO  20:05:32,642 - #50 int
+INFO  20:05:32,642 - #50 num
+INFO  20:05:32,643 - #10 [
+INFO  20:05:32,643 - #9 ]
+INFO  20:05:32,643 - #6 ;
+INFO  20:05:32,643 - #3 {
+INFO  20:05:32,643 - #16 while
+INFO  20:05:32,643 - #12 (
+INFO  20:05:32,643 - #50 a
+INFO  20:05:32,643 - #33 !=
+INFO  20:05:32,643 - #50 end
+INFO  20:05:32,644 - #13 )
+INFO  20:05:32,644 - #3 {
+INFO  20:05:32,644 - #23 read
+INFO  20:05:32,644 - #12 (
+INFO  20:05:32,644 - #50 a
+INFO  20:05:32,644 - #13 )
+INFO  20:05:32,644 - #6 ;
+INFO  20:05:32,645 - #50 num
+INFO  20:05:32,645 - #10 [
+INFO  20:05:32,645 - #49 1
+INFO  20:05:32,645 - #9 ]
+INFO  20:05:32,645 - #26 ++
+INFO  20:05:32,645 - #6 ;
+INFO  20:05:32,645 - #4 }
+INFO  20:05:32,645 - #50 num
+INFO  20:05:32,645 - #24 .
+INFO  20:05:32,645 - #19 foreach
+INFO  20:05:32,645 - #12 (
+INFO  20:05:32,645 - #50 x
+INFO  20:05:32,645 - #25 =>
+INFO  20:05:32,646 - #18 print
+INFO  20:05:32,646 - #12 (
+INFO  20:05:32,646 - #50 x
+INFO  20:05:32,646 - #13 )
+INFO  20:05:32,646 - #6 ;
+INFO  20:05:32,646 - #13 )
+INFO  20:05:32,646 - #6 ;
+INFO  20:05:32,646 - #4 }
+INFO  20:05:32,646 - #4 }
+INFO  20:05:32,649 - Program(
+ MJProgram
+  ClassDeclarationList(
+    ClassDeclarationList(
+      VarDeclarationList(
+        NoDeclarationList(
+        ) [NoDeclarationList]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          MultipleVarDecls(
+            PrevMultipleVarDecl(
+             x
+              VarNotArray(
+              ) [VarNotArray]
+            ) [PrevMultipleVarDecl]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               y
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [MultipleVarDecls]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      ClassDecl(
+        ClassName(
+         A
+        ) [ClassName]
+        DoesntExtendClass(
+        ) [DoesntExtendClass]
+        ClassHasMethods(
+          HasClassVars(
+            NoClassVars(
+            ) [NoClassVars]
+            ClassVarDecl(
+              ClassVarType(
+                Type(
+                 char
+                ) [Type]
+              ) [ClassVarType]
+              OneClassvAR(
+                ClassOneVar(
+                 c
+                  VarIsArray(
+                  ) [VarIsArray]
+                ) [ClassOneVar]
+              ) [OneClassvAR]
+            ) [ClassVarDecl]
+          ) [HasClassVars]
+          OneMethod(
+            MethodDecl(
+              MethodVoid(
+              ) [MethodVoid]
+              MethodName(
+               methodA
+              ) [MethodName]
+              NoParsMethod(
+              ) [NoParsMethod]
+              NoVarsMethod(
+              ) [NoVarsMethod]
+              Statements(
+                NoStatements(
+                ) [NoStatements]
+                OneStatement(
+                  PrintSt(
+                    SimpleExpr(
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           c
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                  ) [PrintSt]
+                ) [OneStatement]
+              ) [Statements]
+            ) [MethodDecl]
+          ) [OneMethod]
+        ) [ClassHasMethods]
+      ) [ClassDecl]
+    ) [ClassDeclarationList]
+    ClassDecl(
+      ClassName(
+       B
+      ) [ClassName]
+      DoesExtendClass(
+        Type(
+         A
+        ) [Type]
+      ) [DoesExtendClass]
+      ClassHasMethods(
+        HasClassVars(
+          NoClassVars(
+          ) [NoClassVars]
+          ClassVarDecl(
+            ClassVarType(
+              Type(
+               A
+              ) [Type]
+            ) [ClassVarType]
+            OneClassvAR(
+              ClassOneVar(
+               a
+                VarNotArray(
+                ) [VarNotArray]
+              ) [ClassOneVar]
+            ) [OneClassvAR]
+          ) [ClassVarDecl]
+        ) [HasClassVars]
+        OneMethod(
+          MethodDecl(
+            MethodVoid(
+            ) [MethodVoid]
+            MethodName(
+             methodB
+            ) [MethodName]
+            NoParsMethod(
+            ) [NoParsMethod]
+            NoVarsMethod(
+            ) [NoVarsMethod]
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              OneStatement(
+                PrintSt(
+                  SimpleExpr(
+                    SimpleTerm(
+                      SimpleFactor(
+                        ArrayDesignator(
+                          ClassDesignator(
+                            SimpleDesignator(
+                             a
+                            ) [SimpleDesignator]
+                           c
+                          ) [ClassDesignator]
+                          SimpleExpr(
+                            SimpleTerm(
+                              SimpleFactor(
+                                SimpleDesignator(
+                                 b
+                                ) [SimpleDesignator]
+                              ) [SimpleFactor]
+                            ) [SimpleTerm]
+                          ) [SimpleExpr]
+                        ) [ArrayDesignator]
+                      ) [SimpleFactor]
+                    ) [SimpleTerm]
+                  ) [SimpleExpr]
+                ) [PrintSt]
+              ) [OneStatement]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [OneMethod]
+      ) [ClassHasMethods]
+    ) [ClassDecl]
+  ) [ClassDeclarationList]
+  NonEmptyMethodDeclList(
+    NonEmptyMethodDeclList(
+      NonEmptyMethodDeclList(
+        NonEmptyMethodDeclList(
+          EmptyMethodDeclList(
+          ) [EmptyMethodDeclList]
+          MethodDecl(
+            MethodVoid(
+            ) [MethodVoid]
+            MethodName(
+             main
+            ) [MethodName]
+            NoParsMethod(
+            ) [NoParsMethod]
+            NoVarsMethod(
+            ) [NoVarsMethod]
+            Statements(
+              Statements(
+                Statements(
+                  NoStatements(
+                  ) [NoStatements]
+                  OneStatement(
+                    PrintSt(
+                      SimpleExpr(
+                        SimpleTerm(
+                          FactorNum(
+                           1
+                          ) [FactorNum]
+                        ) [SimpleTerm]
+                      ) [SimpleExpr]
+                    ) [PrintSt]
+                  ) [OneStatement]
+                ) [Statements]
+                OneStatement(
+                  PrintSt(
+                    SimpleExpr(
+                      SimpleTerm(
+                        FactorNum(
+                         2
+                        ) [FactorNum]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                  ) [PrintSt]
+                ) [OneStatement]
+              ) [Statements]
+              OneStatement(
+                SingleStatementDerived1(
+                ) [SingleStatementDerived1]
+              ) [OneStatement]
+            ) [Statements]
+          ) [MethodDecl]
+        ) [NonEmptyMethodDeclList]
+        MethodDecl(
+          MethodHasType(
+            Type(
+             int
+            ) [Type]
+          ) [MethodHasType]
+          MethodName(
+           f
+          ) [MethodName]
+          MethodFormPars(
+            FormPars(
+              FormType(
+                Type(
+                 int
+                ) [Type]
+              ) [FormType]
+              FormName(
+               a
+              ) [FormName]
+              VarNotArray(
+              ) [VarNotArray]
+              MultipleFormPars(
+                FormType(
+                  Type(
+                   int
+                  ) [Type]
+                ) [FormType]
+                FormName(
+                 b
+                ) [FormName]
+                VarNotArray(
+                ) [VarNotArray]
+                NoMoreFormPars(
+                ) [NoMoreFormPars]
+              ) [MultipleFormPars]
+            ) [FormPars]
+          ) [MethodFormPars]
+          MethodHasVars(
+            NoVarsMethod(
+            ) [NoVarsMethod]
+            VarDecl(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              OneVarDeclaration(
+                PrevOneVarDecl(
+                 c
+                  VarNotArray(
+                  ) [VarNotArray]
+                ) [PrevOneVarDecl]
+              ) [OneVarDeclaration]
+            ) [VarDecl]
+          ) [MethodHasVars]
+          Statements(
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              OneStatement(
+                Assignment(
+                  DesignatorAssign(
+                    SimpleDesignator(
+                     c
+                    ) [SimpleDesignator]
+                    Assignop(
+                    ) [Assignop]
+                    AddopExpr(
+                      SimpleExpr(
+                        SimpleTerm(
+                          SimpleFactor(
+                            SimpleDesignator(
+                             a
+                            ) [SimpleDesignator]
+                          ) [SimpleFactor]
+                        ) [SimpleTerm]
+                      ) [SimpleExpr]
+                      AddopPl(
+                      ) [AddopPl]
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           b
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [AddopExpr]
+                  ) [DesignatorAssign]
+                ) [Assignment]
+              ) [OneStatement]
+            ) [Statements]
+            OneStatement(
+              ReturnSt(
+                SimpleExpr(
+                  SimpleTerm(
+                    SimpleFactor(
+                      SimpleDesignator(
+                       c
+                      ) [SimpleDesignator]
+                    ) [SimpleFactor]
+                  ) [SimpleTerm]
+                ) [SimpleExpr]
+              ) [ReturnSt]
+            ) [OneStatement]
+          ) [Statements]
+        ) [MethodDecl]
+      ) [NonEmptyMethodDeclList]
+      MethodDecl(
+        MethodHasType(
+          Type(
+           boolean
+          ) [Type]
+        ) [MethodHasType]
+        MethodName(
+         b
+        ) [MethodName]
+        NoParsMethod(
+        ) [NoParsMethod]
+        MethodHasVars(
+          MethodHasVars(
+            NoVarsMethod(
+            ) [NoVarsMethod]
+            VarDecl(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              OneVarDeclaration(
+                PrevOneVarDecl(
+                 x
+                  VarNotArray(
+                  ) [VarNotArray]
+                ) [PrevOneVarDecl]
+              ) [OneVarDeclaration]
+            ) [VarDecl]
+          ) [MethodHasVars]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               y
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [VarDecl]
+        ) [MethodHasVars]
+        Statements(
+          NoStatements(
+          ) [NoStatements]
+          OneStatement(
+            IfElseSt(
+              OneTerm(
+                OneFact(
+                  RelOpCondFact(
+                    SimpleExpr(
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           x
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                    RelopGt(
+                    ) [RelopGt]
+                    SimpleExpr(
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           y
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                  ) [RelOpCondFact]
+                ) [OneFact]
+              ) [OneTerm]
+              StatementBlock(
+                Statements(
+                  NoStatements(
+                  ) [NoStatements]
+                  OneStatement(
+                    ReturnSt(
+                      SimpleExpr(
+                        SimpleTerm(
+                          SimpleFactor(
+                            SimpleDesignator(
+                             true
+                            ) [SimpleDesignator]
+                          ) [SimpleFactor]
+                        ) [SimpleTerm]
+                      ) [SimpleExpr]
+                    ) [ReturnSt]
+                  ) [OneStatement]
+                ) [Statements]
+              ) [StatementBlock]
+              StatementBlock(
+                Statements(
+                  NoStatements(
+                  ) [NoStatements]
+                  OneStatement(
+                    ReturnSt(
+                      SimpleExpr(
+                        SimpleTerm(
+                          SimpleFactor(
+                            SimpleDesignator(
+                             false
+                            ) [SimpleDesignator]
+                          ) [SimpleFactor]
+                        ) [SimpleTerm]
+                      ) [SimpleExpr]
+                    ) [ReturnSt]
+                  ) [OneStatement]
+                ) [Statements]
+              ) [StatementBlock]
+            ) [IfElseSt]
+          ) [OneStatement]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [NonEmptyMethodDeclList]
+    MethodDecl(
+      MethodHasType(
+        Type(
+         char
+        ) [Type]
+      ) [MethodHasType]
+      MethodName(
+       c
+      ) [MethodName]
+      MethodFormPars(
+        FormPars(
+          FormType(
+            Type(
+             char
+            ) [Type]
+          ) [FormType]
+          FormName(
+           a
+          ) [FormName]
+          VarNotArray(
+          ) [VarNotArray]
+          NoMoreFormPars(
+          ) [NoMoreFormPars]
+        ) [FormPars]
+      ) [MethodFormPars]
+      MethodHasVars(
+        NoVarsMethod(
+        ) [NoVarsMethod]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          OneVarDeclaration(
+            PrevOneVarDecl(
+             num
+              VarIsArray(
+              ) [VarIsArray]
+            ) [PrevOneVarDecl]
+          ) [OneVarDeclaration]
+        ) [VarDecl]
+      ) [MethodHasVars]
+      Statements(
+        Statements(
+          NoStatements(
+          ) [NoStatements]
+          OneStatement(
+            WhileSt(
+              OneTerm(
+                OneFact(
+                  RelOpCondFact(
+                    SimpleExpr(
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           a
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                    RelopNotEq(
+                    ) [RelopNotEq]
+                    SimpleExpr(
+                      SimpleTerm(
+                        SimpleFactor(
+                          SimpleDesignator(
+                           end
+                          ) [SimpleDesignator]
+                        ) [SimpleFactor]
+                      ) [SimpleTerm]
+                    ) [SimpleExpr]
+                  ) [RelOpCondFact]
+                ) [OneFact]
+              ) [OneTerm]
+              StatementBlock(
+                Statements(
+                  Statements(
+                    NoStatements(
+                    ) [NoStatements]
+                    OneStatement(
+                      ReadSt(
+                        SimpleDesignator(
+                         a
+                        ) [SimpleDesignator]
+                      ) [ReadSt]
+                    ) [OneStatement]
+                  ) [Statements]
+                  OneStatement(
+                    Assignment(
+                      DesignatorInc(
+                        ArrayDesignator(
+                          SimpleDesignator(
+                           num
+                          ) [SimpleDesignator]
+                          SimpleExpr(
+                            SimpleTerm(
+                              FactorNum(
+                               1
+                              ) [FactorNum]
+                            ) [SimpleTerm]
+                          ) [SimpleExpr]
+                        ) [ArrayDesignator]
+                      ) [DesignatorInc]
+                    ) [Assignment]
+                  ) [OneStatement]
+                ) [Statements]
+              ) [StatementBlock]
+            ) [WhileSt]
+          ) [OneStatement]
+        ) [Statements]
+        OneStatement(
+          DesignatorSt(
+            SimpleDesignator(
+             num
+            ) [SimpleDesignator]
+           x
+            OneStatement(
+              PrintSt(
+                SimpleExpr(
+                  SimpleTerm(
+                    SimpleFactor(
+                      SimpleDesignator(
+                       x
+                      ) [SimpleDesignator]
+                    ) [SimpleFactor]
+                  ) [SimpleTerm]
+                ) [SimpleExpr]
+              ) [PrintSt]
+            ) [OneStatement]
+          ) [DesignatorSt]
+        ) [OneStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  20:05:32,649 - ===================================
+INFO  20:05:32,651 - Prepoznata naredba print.
+INFO  20:05:32,651 - Prepoznata naredba print.
+INFO  20:05:32,651 - Prepoznata naredba print.
+INFO  20:05:32,651 - Prepoznata naredba print.
+INFO  20:05:32,651 - Prepoznata naredba print.
+INFO  20:05:32,652 -  Print count calls = 5
+INFO  20:05:32,652 -  Deklarisanih promenljivih ima = 5

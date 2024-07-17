@@ -1,0 +1,63 @@
+INFO  18:35:34,187 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:35:34,260 - #2 program
+INFO  18:35:34,260 - #50 MJProgram
+INFO  18:35:34,260 - #50 int
+INFO  18:35:34,262 - #50 x
+INFO  18:35:34,263 - #8 ,
+INFO  18:35:34,265 - #50 y
+INFO  18:35:34,266 - #6 ;
+INFO  18:35:34,266 - #3 {
+INFO  18:35:34,268 - #14 void
+INFO  18:35:34,269 - #50 main
+INFO  18:35:34,270 - #12 (
+INFO  18:35:34,271 - #13 )
+INFO  18:35:34,271 - #3 {
+INFO  18:35:34,272 - #4 }
+INFO  18:35:34,274 - #4 }
+INFO  18:35:34,278 - Program(
+ MJProgram
+  VarDeclarationList(
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    VarDecl(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      MultipleVarDecls(
+        PrevMultipleVarDecl(
+         x
+          VarNotArray(
+          ) [VarNotArray]
+        ) [PrevMultipleVarDecl]
+        OneVarDeclaration(
+          PrevOneVarDecl(
+           y
+            VarNotArray(
+            ) [VarNotArray]
+          ) [PrevOneVarDecl]
+        ) [OneVarDeclaration]
+      ) [MultipleVarDecls]
+    ) [VarDecl]
+  ) [VarDeclarationList]
+  NonEmptyMethodDeclList(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMoreFormPars(
+      ) [NoMoreFormPars]
+      NoVarsMethod(
+      ) [NoVarsMethod]
+      NoStatements(
+      ) [NoStatements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  18:35:34,280 - ===================================
+INFO  18:35:34,284 -  Print count calls = 0

@@ -1,0 +1,131 @@
+INFO  14:41:54,709 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:41:54,753 - #2 program
+INFO  14:41:54,754 - #50 MJProgram
+INFO  14:41:54,754 - #50 int
+INFO  14:41:54,756 - #50 x
+INFO  14:41:54,757 - #6 ;
+INFO  14:41:54,758 - #50 int
+INFO  14:41:54,759 - #50 y
+INFO  14:41:54,760 - #10 [
+INFO  14:41:54,760 - #9 ]
+INFO  14:41:54,760 - #6 ;
+INFO  14:41:54,760 - #5 const
+INFO  14:41:54,760 - #50 int
+INFO  14:41:54,761 - #50 jedan
+INFO  14:41:54,761 - #7 =
+INFO  14:41:54,761 - #49 1
+INFO  14:41:54,762 - #6 ;
+INFO  14:41:54,762 - #3 {
+INFO  14:41:54,763 - #50 int
+INFO  14:41:54,763 - #50 k
+INFO  14:41:54,764 - #12 (
+INFO  14:41:54,766 - #13 )
+INFO  14:41:54,766 - #50 int
+INFO  14:41:54,766 - #50 c
+INFO  14:41:54,766 - #6 ;
+INFO  14:41:54,766 - #3 {
+INFO  14:41:54,767 - #50 c
+INFO  14:41:54,767 - #7 =
+INFO  14:41:54,767 - #49 3
+INFO  14:41:54,768 - #6 ;
+INFO  14:41:54,768 - #50 x
+INFO  14:41:54,769 - #26 ++
+INFO  14:41:54,769 - #6 ;
+INFO  14:41:54,769 - #18 print
+INFO  14:41:54,769 - #12 (
+INFO  14:41:54,769 - #50 x
+INFO  14:41:54,769 - #13 )
+INFO  14:41:54,769 - #6 ;
+INFO  14:41:54,769 - #22 return
+INFO  14:41:54,769 - #50 c
+INFO  14:41:54,769 - #6 ;
+INFO  14:41:54,770 - #4 }
+INFO  14:41:54,770 - #14 void
+INFO  14:41:54,771 - #50 main
+INFO  14:41:54,772 - #12 (
+INFO  14:41:54,772 - #13 )
+INFO  14:41:54,772 - #50 int
+INFO  14:41:54,772 - #50 pom1
+INFO  14:41:54,772 - #8 ,
+INFO  14:41:54,772 - #50 pom2
+INFO  14:41:54,772 - #6 ;
+INFO  14:41:54,772 - #3 {
+INFO  14:41:54,772 - #50 y
+INFO  14:41:54,772 - #7 =
+INFO  14:41:54,773 - #31 new
+INFO  14:41:54,773 - #50 int
+INFO  14:41:54,773 - #10 [
+INFO  14:41:54,773 - #49 3
+INFO  14:41:54,773 - #9 ]
+INFO  14:41:54,773 - #6 ;
+INFO  14:41:54,773 - #18 print
+INFO  14:41:54,773 - #12 (
+INFO  14:41:54,773 - #50 jedan
+INFO  14:41:54,773 - #13 )
+INFO  14:41:54,773 - #6 ;
+INFO  14:41:54,773 - #50 y
+INFO  14:41:54,773 - #10 [
+INFO  14:41:54,774 - #49 0
+INFO  14:41:54,774 - #9 ]
+INFO  14:41:54,774 - #7 =
+INFO  14:41:54,774 - #49 99
+INFO  14:41:54,775 - #6 ;
+INFO  14:41:54,775 - #50 y
+INFO  14:41:54,775 - #10 [
+INFO  14:41:54,775 - #49 1
+INFO  14:41:54,775 - #9 ]
+INFO  14:41:54,775 - #7 =
+INFO  14:41:54,775 - #49 100
+INFO  14:41:54,775 - #6 ;
+INFO  14:41:54,775 - #50 y
+INFO  14:41:54,775 - #10 [
+INFO  14:41:54,776 - #49 2
+INFO  14:41:54,776 - #9 ]
+INFO  14:41:54,776 - #7 =
+INFO  14:41:54,776 - #49 101
+INFO  14:41:54,776 - #6 ;
+INFO  14:41:54,776 - #10 [
+INFO  14:41:54,776 - #50 pom1
+INFO  14:41:54,777 - #8 ,
+INFO  14:41:54,777 - #8 ,
+INFO  14:41:54,778 - #50 pom2
+INFO  14:41:54,778 - #9 ]
+INFO  14:41:54,778 - #7 =
+INFO  14:41:54,778 - #50 y
+INFO  14:41:54,778 - #6 ;
+INFO  14:41:54,778 - #50 y
+INFO  14:41:54,779 - #24 .
+INFO  14:41:54,779 - #19 foreach
+INFO  14:41:54,779 - #12 (
+INFO  14:41:54,779 - #50 x
+INFO  14:41:54,779 - #25 =>
+INFO  14:41:54,779 - #18 print
+INFO  14:41:54,779 - #12 (
+INFO  14:41:54,780 - #50 x
+INFO  14:41:54,780 - #13 )
+INFO  14:41:54,780 - #6 ;
+INFO  14:41:54,780 - #17 break
+ERROR 14:41:54,780 - 
+Sintaksna greska na liniji 28
+INFO  14:41:54,780 - #6 ;
+INFO  14:41:54,780 - #13 )
+INFO  14:41:54,780 - #6 ;
+INFO  14:41:54,780 - #22 return
+ERROR 14:41:54,780 - Izvrsen oporavak do ; u liniji 27
+INFO  14:41:54,781 - #6 ;
+INFO  14:41:54,781 - #4 }
+INFO  14:41:54,782 - #4 }
+INFO  14:41:54,791 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  14:41:54,791 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  14:41:54,791 - Kreirana je konstanta jedan na liniji 3
+INFO  14:41:54,791 - Deklarisana globalna funkcija sa imenom k na liniji 6
+INFO  14:41:54,792 - Kreirana lokalna promenljiva sa imenom c na liniji 6
+INFO  14:41:54,792 - Pristupa se promenjivoj x na liniji 10
+INFO  14:41:54,792 - Pristupa se promenjivoj c na liniji 12
+INFO  14:41:54,792 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 15
+INFO  14:41:54,792 - Kreirana lokalna promenljiva sa imenom pom2 na liniji 15
+INFO  14:41:54,792 - Pristupa se elementu niza y na liniji 21
+INFO  14:41:54,792 - Pristupa se elementu niza y na liniji 22
+INFO  14:41:54,792 - Pristupa se elementu niza y na liniji 23
+INFO  14:41:54,793 - Main ispravno deklarisan
+ERROR 14:41:54,793 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,96 @@
+INFO  00:07:52,994 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:07:53,202 - #2 program
+INFO  00:07:53,202 - #50 MJProgram
+INFO  00:07:53,202 - #50 int
+INFO  00:07:53,204 - #50 x
+INFO  00:07:53,206 - #6 ;
+INFO  00:07:53,207 - #50 int
+INFO  00:07:53,209 - #50 y
+INFO  00:07:53,209 - #6 ;
+INFO  00:07:53,209 - #3 {
+INFO  00:07:53,210 - #50 int
+INFO  00:07:53,210 - #50 k
+INFO  00:07:53,211 - #12 (
+INFO  00:07:53,213 - #13 )
+INFO  00:07:53,213 - #50 int
+INFO  00:07:53,215 - #50 c
+INFO  00:07:53,215 - #6 ;
+INFO  00:07:53,215 - #3 {
+INFO  00:07:53,216 - #50 c
+INFO  00:07:53,218 - #7 =
+INFO  00:07:53,218 - #49 3
+INFO  00:07:53,220 - #6 ;
+INFO  00:07:53,222 - #50 x
+INFO  00:07:53,222 - #7 =
+INFO  00:07:53,223 - #49 0
+INFO  00:07:53,223 - #6 ;
+INFO  00:07:53,223 - #50 x
+INFO  00:07:53,223 - #26 ++
+INFO  00:07:53,223 - #6 ;
+INFO  00:07:53,223 - #18 print
+INFO  00:07:53,223 - #12 (
+INFO  00:07:53,224 - #50 x
+INFO  00:07:53,224 - #13 )
+INFO  00:07:53,224 - #6 ;
+INFO  00:07:53,224 - #22 return
+INFO  00:07:53,225 - #50 c
+INFO  00:07:53,225 - #38 +
+INFO  00:07:53,225 - #49 3
+INFO  00:07:53,227 - #6 ;
+INFO  00:07:53,228 - #4 }
+INFO  00:07:53,228 - #14 void
+INFO  00:07:53,230 - #50 main
+INFO  00:07:53,232 - #12 (
+INFO  00:07:53,232 - #13 )
+INFO  00:07:53,232 - #3 {
+INFO  00:07:53,232 - #50 x
+INFO  00:07:53,232 - #7 =
+INFO  00:07:53,232 - #50 k
+INFO  00:07:53,233 - #12 (
+INFO  00:07:53,234 - #13 )
+INFO  00:07:53,235 - #6 ;
+INFO  00:07:53,235 - #50 y
+INFO  00:07:53,236 - #7 =
+INFO  00:07:53,236 - #49 17
+INFO  00:07:53,236 - #6 ;
+INFO  00:07:53,236 - #15 if
+INFO  00:07:53,236 - #12 (
+INFO  00:07:53,236 - #50 x
+INFO  00:07:53,236 - #34 <
+INFO  00:07:53,237 - #49 5
+INFO  00:07:53,238 - #28 ||
+INFO  00:07:53,240 - #50 y
+INFO  00:07:53,240 - #32 ==
+INFO  00:07:53,240 - #49 0
+INFO  00:07:53,242 - #13 )
+INFO  00:07:53,243 - #3 {
+INFO  00:07:53,243 - #18 print
+INFO  00:07:53,243 - #12 (
+INFO  00:07:53,244 - #47 i
+INFO  00:07:53,254 - #13 )
+INFO  00:07:53,254 - #6 ;
+INFO  00:07:53,254 - #4 }
+INFO  00:07:53,254 - #20 else
+INFO  00:07:53,255 - #3 {
+INFO  00:07:53,256 - #18 print
+INFO  00:07:53,256 - #12 (
+INFO  00:07:53,256 - #47 e
+INFO  00:07:53,256 - #13 )
+INFO  00:07:53,256 - #6 ;
+INFO  00:07:53,256 - #4 }
+INFO  00:07:53,256 - #22 return
+INFO  00:07:53,257 - #6 ;
+INFO  00:07:53,257 - #4 }
+INFO  00:07:53,257 - #4 }
+INFO  00:07:53,285 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  00:07:53,286 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  00:07:53,286 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  00:07:53,286 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  00:07:53,286 - Pristupa se promenjivoj x na liniji 10
+INFO  00:07:53,287 - Pristupa se promenjivoj c na liniji 12
+INFO  00:07:53,287 - Pozvana metoda k na liniji 17
+INFO  00:07:53,287 - Pristupa se promenjivoj x na liniji 20
+INFO  00:07:53,288 - Pristupa se promenjivoj y na liniji 20
+INFO  00:07:53,288 - Main ispravno deklarisan
+INFO  00:07:53,289 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:07:53,312 - Parsiranje uspesno zavrseno!

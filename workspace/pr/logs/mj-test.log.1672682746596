@@ -1,0 +1,40 @@
+INFO  19:04:56,967 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:04:57,042 - #2 program
+INFO  19:04:57,042 - #50 MJProgram
+INFO  19:04:57,042 - #50 int
+INFO  19:04:57,043 - #50 x
+INFO  19:04:57,045 - #8 ,
+INFO  19:04:57,047 - #50 y
+INFO  19:04:57,047 - #6 ;
+INFO  19:04:57,047 - #3 {
+INFO  19:04:57,049 - #14 void
+INFO  19:04:57,050 - #50 main
+INFO  19:04:57,050 - #12 (
+INFO  19:04:57,051 - #13 )
+INFO  19:04:57,052 - #3 {
+INFO  19:04:57,052 - #18 print
+INFO  19:04:57,053 - #12 (
+INFO  19:04:57,053 - #49 1
+INFO  19:04:57,053 - #13 )
+INFO  19:04:57,054 - #6 ;
+INFO  19:04:57,054 - #18 print
+INFO  19:04:57,054 - #12 (
+INFO  19:04:57,056 - #49 2
+INFO  19:04:57,056 - #13 )
+INFO  19:04:57,056 - #6 ;
+INFO  19:04:57,056 - #4 }
+INFO  19:04:57,056 - #50 int
+INFO  19:04:57,058 - #50 f
+INFO  19:04:57,058 - #12 (
+INFO  19:04:57,058 - #50 int
+INFO  19:04:57,058 - #50 a
+INFO  19:04:57,059 - #8 ,
+INFO  19:04:57,060 - #50 int
+INFO  19:04:57,060 - #50 b
+INFO  19:04:57,061 - #13 )
+INFO  19:04:57,063 - #50 int
+INFO  19:04:57,063 - #50 c
+INFO  19:04:57,064 - #3 {
+ERROR 19:04:57,064 - 
+Sintaksna greska na liniji 13
+ERROR 19:04:57,064 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

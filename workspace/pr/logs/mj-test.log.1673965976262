@@ -1,0 +1,1357 @@
+INFO  15:31:36,441 - Compiling source file: C:\Users\borot\Desktop\pp1 projekat\pp1lab.templateAST\workspace\pr\test\program.mj
+INFO  15:31:36,519 - #2 program
+INFO  15:31:36,519 - #50 test_A_successful
+INFO  15:31:36,519 - #50 int
+INFO  15:31:36,521 - #50 a
+INFO  15:31:36,522 - #8 ,
+INFO  15:31:36,524 - #50 b
+INFO  15:31:36,524 - #8 ,
+INFO  15:31:36,524 - #50 c
+INFO  15:31:36,525 - #8 ,
+INFO  15:31:36,525 - #50 d
+INFO  15:31:36,525 - #8 ,
+INFO  15:31:36,525 - #50 e
+INFO  15:31:36,525 - #8 ,
+INFO  15:31:36,525 - #50 intArray
+INFO  15:31:36,525 - #10 [
+INFO  15:31:36,525 - #9 ]
+INFO  15:31:36,525 - #8 ,
+INFO  15:31:36,526 - #50 niz
+INFO  15:31:36,526 - #10 [
+INFO  15:31:36,526 - #9 ]
+INFO  15:31:36,527 - #8 ,
+INFO  15:31:36,528 - #50 nizTmp
+INFO  15:31:36,528 - #10 [
+INFO  15:31:36,528 - #9 ]
+INFO  15:31:36,528 - #8 ,
+INFO  15:31:36,528 - #50 nizIndex
+INFO  15:31:36,528 - #10 [
+INFO  15:31:36,528 - #9 ]
+INFO  15:31:36,529 - #6 ;
+INFO  15:31:36,529 - #3 {
+INFO  15:31:36,530 - #14 void
+INFO  15:31:36,531 - #50 main
+INFO  15:31:36,531 - #12 (
+INFO  15:31:36,532 - #13 )
+INFO  15:31:36,532 - #3 {
+INFO  15:31:36,533 - #3 {
+INFO  15:31:36,534 - #18 print
+INFO  15:31:36,534 - #12 (
+INFO  15:31:36,534 - #47 t
+INFO  15:31:36,534 - #13 )
+INFO  15:31:36,535 - #6 ;
+INFO  15:31:36,535 - #18 print
+INFO  15:31:36,536 - #12 (
+INFO  15:31:36,536 - #47 e
+INFO  15:31:36,536 - #13 )
+INFO  15:31:36,536 - #6 ;
+INFO  15:31:36,537 - #18 print
+INFO  15:31:36,537 - #12 (
+INFO  15:31:36,537 - #47 s
+INFO  15:31:36,537 - #13 )
+INFO  15:31:36,537 - #6 ;
+INFO  15:31:36,537 - #18 print
+INFO  15:31:36,538 - #12 (
+INFO  15:31:36,538 - #47 t
+INFO  15:31:36,538 - #13 )
+INFO  15:31:36,538 - #6 ;
+INFO  15:31:36,538 - #18 print
+INFO  15:31:36,538 - #12 (
+INFO  15:31:36,538 - #47  
+INFO  15:31:36,538 - #13 )
+INFO  15:31:36,539 - #6 ;
+INFO  15:31:36,539 - #18 print
+INFO  15:31:36,539 - #12 (
+INFO  15:31:36,539 - #47 i
+INFO  15:31:36,539 - #13 )
+INFO  15:31:36,539 - #6 ;
+INFO  15:31:36,539 - #18 print
+INFO  15:31:36,539 - #12 (
+INFO  15:31:36,540 - #47 /
+INFO  15:31:36,540 - #13 )
+INFO  15:31:36,540 - #6 ;
+INFO  15:31:36,540 - #18 print
+INFO  15:31:36,540 - #12 (
+INFO  15:31:36,540 - #47 o
+INFO  15:31:36,540 - #13 )
+INFO  15:31:36,540 - #6 ;
+INFO  15:31:36,540 - #18 print
+INFO  15:31:36,540 - #12 (
+INFO  15:31:36,541 - #50 eol
+INFO  15:31:36,541 - #13 )
+INFO  15:31:36,541 - #6 ;
+INFO  15:31:36,541 - #23 read
+INFO  15:31:36,541 - #12 (
+INFO  15:31:36,541 - #50 a
+INFO  15:31:36,541 - #13 )
+INFO  15:31:36,542 - #6 ;
+INFO  15:31:36,542 - #18 print
+INFO  15:31:36,542 - #12 (
+INFO  15:31:36,542 - #50 a
+INFO  15:31:36,542 - #8 ,
+INFO  15:31:36,542 - #49 3
+INFO  15:31:36,542 - #13 )
+INFO  15:31:36,542 - #6 ;
+INFO  15:31:36,542 - #50 intArray
+INFO  15:31:36,543 - #7 =
+INFO  15:31:36,543 - #31 new
+INFO  15:31:36,544 - #50 int
+INFO  15:31:36,544 - #10 [
+INFO  15:31:36,544 - #49 10
+INFO  15:31:36,544 - #9 ]
+INFO  15:31:36,547 - #6 ;
+INFO  15:31:36,547 - #23 read
+INFO  15:31:36,547 - #12 (
+INFO  15:31:36,547 - #50 intArray
+INFO  15:31:36,547 - #10 [
+INFO  15:31:36,548 - #49 2
+INFO  15:31:36,548 - #9 ]
+INFO  15:31:36,548 - #13 )
+INFO  15:31:36,548 - #6 ;
+INFO  15:31:36,549 - #18 print
+INFO  15:31:36,549 - #12 (
+INFO  15:31:36,549 - #50 eol
+INFO  15:31:36,549 - #13 )
+INFO  15:31:36,549 - #6 ;
+INFO  15:31:36,549 - #18 print
+INFO  15:31:36,549 - #12 (
+INFO  15:31:36,549 - #50 intArray
+INFO  15:31:36,549 - #10 [
+INFO  15:31:36,549 - #49 2
+INFO  15:31:36,550 - #9 ]
+INFO  15:31:36,550 - #13 )
+INFO  15:31:36,550 - #6 ;
+INFO  15:31:36,550 - #18 print
+INFO  15:31:36,550 - #12 (
+INFO  15:31:36,550 - #47 a
+INFO  15:31:36,550 - #8 ,
+INFO  15:31:36,550 - #49 10
+INFO  15:31:36,550 - #13 )
+INFO  15:31:36,550 - #6 ;
+INFO  15:31:36,550 - #18 print
+INFO  15:31:36,550 - #12 (
+INFO  15:31:36,550 - #48 false
+INFO  15:31:36,551 - #13 )
+INFO  15:31:36,551 - #6 ;
+INFO  15:31:36,551 - #18 print
+INFO  15:31:36,551 - #12 (
+INFO  15:31:36,551 - #50 eol
+INFO  15:31:36,551 - #13 )
+INFO  15:31:36,552 - #6 ;
+INFO  15:31:36,552 - #18 print
+INFO  15:31:36,552 - #12 (
+INFO  15:31:36,552 - #49 20130010
+INFO  15:31:36,552 - #13 )
+INFO  15:31:36,552 - #6 ;
+INFO  15:31:36,552 - #18 print
+INFO  15:31:36,552 - #12 (
+INFO  15:31:36,553 - #50 eol
+INFO  15:31:36,553 - #13 )
+INFO  15:31:36,553 - #6 ;
+INFO  15:31:36,553 - #4 }
+INFO  15:31:36,553 - #3 {
+INFO  15:31:36,553 - #18 print
+INFO  15:31:36,553 - #12 (
+INFO  15:31:36,553 - #47 t
+INFO  15:31:36,554 - #13 )
+INFO  15:31:36,554 - #6 ;
+INFO  15:31:36,554 - #18 print
+INFO  15:31:36,554 - #12 (
+INFO  15:31:36,554 - #47 e
+INFO  15:31:36,554 - #13 )
+INFO  15:31:36,554 - #6 ;
+INFO  15:31:36,555 - #18 print
+INFO  15:31:36,555 - #12 (
+INFO  15:31:36,555 - #47 s
+INFO  15:31:36,555 - #13 )
+INFO  15:31:36,555 - #6 ;
+INFO  15:31:36,555 - #18 print
+INFO  15:31:36,555 - #12 (
+INFO  15:31:36,555 - #47 t
+INFO  15:31:36,555 - #13 )
+INFO  15:31:36,555 - #6 ;
+INFO  15:31:36,555 - #18 print
+INFO  15:31:36,556 - #12 (
+INFO  15:31:36,556 - #47  
+INFO  15:31:36,556 - #13 )
+INFO  15:31:36,556 - #6 ;
+INFO  15:31:36,556 - #18 print
+INFO  15:31:36,556 - #12 (
+INFO  15:31:36,556 - #47 a
+INFO  15:31:36,556 - #13 )
+INFO  15:31:36,556 - #6 ;
+INFO  15:31:36,557 - #18 print
+INFO  15:31:36,557 - #12 (
+INFO  15:31:36,557 - #47 r
+INFO  15:31:36,557 - #13 )
+INFO  15:31:36,557 - #6 ;
+INFO  15:31:36,557 - #18 print
+INFO  15:31:36,557 - #12 (
+INFO  15:31:36,557 - #47 r
+INFO  15:31:36,557 - #13 )
+INFO  15:31:36,557 - #6 ;
+INFO  15:31:36,557 - #18 print
+INFO  15:31:36,557 - #12 (
+INFO  15:31:36,557 - #47 E
+INFO  15:31:36,557 - #13 )
+INFO  15:31:36,557 - #6 ;
+INFO  15:31:36,557 - #18 print
+INFO  15:31:36,558 - #12 (
+INFO  15:31:36,558 - #47 l
+INFO  15:31:36,558 - #13 )
+INFO  15:31:36,558 - #6 ;
+INFO  15:31:36,558 - #18 print
+INFO  15:31:36,558 - #12 (
+INFO  15:31:36,558 - #47 e
+INFO  15:31:36,558 - #13 )
+INFO  15:31:36,558 - #6 ;
+INFO  15:31:36,558 - #18 print
+INFO  15:31:36,558 - #12 (
+INFO  15:31:36,558 - #47 m
+INFO  15:31:36,558 - #13 )
+INFO  15:31:36,558 - #6 ;
+INFO  15:31:36,558 - #18 print
+INFO  15:31:36,558 - #12 (
+INFO  15:31:36,559 - #47  
+INFO  15:31:36,559 - #13 )
+INFO  15:31:36,559 - #6 ;
+INFO  15:31:36,559 - #18 print
+INFO  15:31:36,559 - #12 (
+INFO  15:31:36,559 - #47 i
+INFO  15:31:36,559 - #13 )
+INFO  15:31:36,559 - #6 ;
+INFO  15:31:36,559 - #18 print
+INFO  15:31:36,559 - #12 (
+INFO  15:31:36,559 - #47 n
+INFO  15:31:36,559 - #13 )
+INFO  15:31:36,559 - #6 ;
+INFO  15:31:36,559 - #18 print
+INFO  15:31:36,559 - #12 (
+INFO  15:31:36,559 - #47 c
+INFO  15:31:36,560 - #13 )
+INFO  15:31:36,560 - #6 ;
+INFO  15:31:36,560 - #18 print
+INFO  15:31:36,560 - #12 (
+INFO  15:31:36,560 - #47 /
+INFO  15:31:36,560 - #13 )
+INFO  15:31:36,560 - #6 ;
+INFO  15:31:36,560 - #18 print
+INFO  15:31:36,560 - #12 (
+INFO  15:31:36,560 - #47 d
+INFO  15:31:36,560 - #13 )
+INFO  15:31:36,560 - #6 ;
+INFO  15:31:36,560 - #18 print
+INFO  15:31:36,560 - #12 (
+INFO  15:31:36,560 - #47 e
+INFO  15:31:36,560 - #13 )
+INFO  15:31:36,560 - #6 ;
+INFO  15:31:36,560 - #18 print
+INFO  15:31:36,561 - #12 (
+INFO  15:31:36,561 - #47 c
+INFO  15:31:36,561 - #13 )
+INFO  15:31:36,561 - #6 ;
+INFO  15:31:36,561 - #18 print
+INFO  15:31:36,561 - #12 (
+INFO  15:31:36,561 - #50 eol
+INFO  15:31:36,561 - #13 )
+INFO  15:31:36,561 - #6 ;
+INFO  15:31:36,561 - #50 niz
+INFO  15:31:36,561 - #7 =
+INFO  15:31:36,561 - #31 new
+INFO  15:31:36,561 - #50 int
+INFO  15:31:36,561 - #10 [
+INFO  15:31:36,562 - #49 5
+INFO  15:31:36,562 - #9 ]
+INFO  15:31:36,562 - #6 ;
+INFO  15:31:36,562 - #50 niz
+INFO  15:31:36,562 - #10 [
+INFO  15:31:36,562 - #49 0
+INFO  15:31:36,562 - #9 ]
+INFO  15:31:36,562 - #26 ++
+INFO  15:31:36,562 - #6 ;
+INFO  15:31:36,562 - #50 niz
+INFO  15:31:36,562 - #10 [
+INFO  15:31:36,562 - #49 4
+INFO  15:31:36,562 - #9 ]
+INFO  15:31:36,562 - #27 --
+INFO  15:31:36,562 - #6 ;
+INFO  15:31:36,562 - #50 niz
+INFO  15:31:36,563 - #10 [
+INFO  15:31:36,563 - #50 niz
+INFO  15:31:36,563 - #10 [
+INFO  15:31:36,563 - #49 0
+INFO  15:31:36,563 - #9 ]
+INFO  15:31:36,563 - #9 ]
+INFO  15:31:36,563 - #26 ++
+INFO  15:31:36,563 - #6 ;
+INFO  15:31:36,563 - #50 niz
+INFO  15:31:36,563 - #10 [
+INFO  15:31:36,563 - #50 niz
+INFO  15:31:36,563 - #10 [
+INFO  15:31:36,563 - #49 0
+INFO  15:31:36,563 - #9 ]
+INFO  15:31:36,564 - #39 *
+INFO  15:31:36,564 - #49 2
+INFO  15:31:36,565 - #38 +
+INFO  15:31:36,565 - #50 niz
+INFO  15:31:36,566 - #10 [
+INFO  15:31:36,566 - #49 1
+INFO  15:31:36,566 - #9 ]
+INFO  15:31:36,566 - #9 ]
+INFO  15:31:36,567 - #26 ++
+INFO  15:31:36,567 - #6 ;
+INFO  15:31:36,567 - #18 print
+INFO  15:31:36,567 - #12 (
+INFO  15:31:36,567 - #50 niz
+INFO  15:31:36,567 - #10 [
+INFO  15:31:36,567 - #49 0
+INFO  15:31:36,567 - #9 ]
+INFO  15:31:36,567 - #13 )
+INFO  15:31:36,567 - #6 ;
+INFO  15:31:36,567 - #18 print
+INFO  15:31:36,567 - #12 (
+INFO  15:31:36,567 - #50 niz
+INFO  15:31:36,567 - #10 [
+INFO  15:31:36,567 - #49 1
+INFO  15:31:36,567 - #9 ]
+INFO  15:31:36,567 - #13 )
+INFO  15:31:36,567 - #6 ;
+INFO  15:31:36,568 - #18 print
+INFO  15:31:36,568 - #12 (
+INFO  15:31:36,568 - #50 niz
+INFO  15:31:36,568 - #10 [
+INFO  15:31:36,568 - #49 2
+INFO  15:31:36,568 - #9 ]
+INFO  15:31:36,568 - #13 )
+INFO  15:31:36,568 - #6 ;
+INFO  15:31:36,568 - #18 print
+INFO  15:31:36,568 - #12 (
+INFO  15:31:36,568 - #50 niz
+INFO  15:31:36,568 - #10 [
+INFO  15:31:36,568 - #49 3
+INFO  15:31:36,568 - #9 ]
+INFO  15:31:36,568 - #13 )
+INFO  15:31:36,568 - #6 ;
+INFO  15:31:36,568 - #18 print
+INFO  15:31:36,568 - #12 (
+INFO  15:31:36,568 - #50 niz
+INFO  15:31:36,568 - #10 [
+INFO  15:31:36,568 - #49 4
+INFO  15:31:36,569 - #9 ]
+INFO  15:31:36,569 - #13 )
+INFO  15:31:36,569 - #6 ;
+INFO  15:31:36,569 - #18 print
+INFO  15:31:36,569 - #12 (
+INFO  15:31:36,569 - #50 eol
+INFO  15:31:36,569 - #13 )
+INFO  15:31:36,574 - #6 ;
+INFO  15:31:36,574 - #4 }
+INFO  15:31:36,574 - #3 {
+INFO  15:31:36,574 - #18 print
+INFO  15:31:36,574 - #12 (
+INFO  15:31:36,574 - #47 t
+INFO  15:31:36,574 - #13 )
+INFO  15:31:36,574 - #6 ;
+INFO  15:31:36,574 - #18 print
+INFO  15:31:36,574 - #12 (
+INFO  15:31:36,574 - #47 e
+INFO  15:31:36,574 - #13 )
+INFO  15:31:36,574 - #6 ;
+INFO  15:31:36,574 - #18 print
+INFO  15:31:36,574 - #12 (
+INFO  15:31:36,574 - #47 s
+INFO  15:31:36,574 - #13 )
+INFO  15:31:36,575 - #6 ;
+INFO  15:31:36,575 - #18 print
+INFO  15:31:36,575 - #12 (
+INFO  15:31:36,575 - #47 t
+INFO  15:31:36,575 - #13 )
+INFO  15:31:36,575 - #6 ;
+INFO  15:31:36,575 - #18 print
+INFO  15:31:36,575 - #12 (
+INFO  15:31:36,575 - #47  
+INFO  15:31:36,575 - #13 )
+INFO  15:31:36,575 - #6 ;
+INFO  15:31:36,575 - #18 print
+INFO  15:31:36,575 - #12 (
+INFO  15:31:36,575 - #47 u
+INFO  15:31:36,575 - #13 )
+INFO  15:31:36,575 - #6 ;
+INFO  15:31:36,575 - #18 print
+INFO  15:31:36,575 - #12 (
+INFO  15:31:36,575 - #47 n
+INFO  15:31:36,575 - #13 )
+INFO  15:31:36,575 - #6 ;
+INFO  15:31:36,575 - #18 print
+INFO  15:31:36,575 - #12 (
+INFO  15:31:36,575 - #47 p
+INFO  15:31:36,576 - #13 )
+INFO  15:31:36,576 - #6 ;
+INFO  15:31:36,576 - #18 print
+INFO  15:31:36,576 - #12 (
+INFO  15:31:36,576 - #47 a
+INFO  15:31:36,576 - #13 )
+INFO  15:31:36,576 - #6 ;
+INFO  15:31:36,576 - #18 print
+INFO  15:31:36,576 - #12 (
+INFO  15:31:36,576 - #47 c
+INFO  15:31:36,576 - #13 )
+INFO  15:31:36,576 - #6 ;
+INFO  15:31:36,576 - #18 print
+INFO  15:31:36,576 - #12 (
+INFO  15:31:36,576 - #47 k
+INFO  15:31:36,576 - #13 )
+INFO  15:31:36,576 - #6 ;
+INFO  15:31:36,576 - #18 print
+INFO  15:31:36,576 - #12 (
+INFO  15:31:36,576 - #50 eol
+INFO  15:31:36,576 - #13 )
+INFO  15:31:36,577 - #6 ;
+INFO  15:31:36,577 - #50 niz
+INFO  15:31:36,577 - #10 [
+INFO  15:31:36,577 - #49 0
+INFO  15:31:36,577 - #9 ]
+INFO  15:31:36,577 - #7 =
+INFO  15:31:36,577 - #49 1
+INFO  15:31:36,577 - #6 ;
+INFO  15:31:36,577 - #50 niz
+INFO  15:31:36,577 - #10 [
+INFO  15:31:36,578 - #49 1
+INFO  15:31:36,578 - #9 ]
+INFO  15:31:36,578 - #7 =
+INFO  15:31:36,578 - #49 2
+INFO  15:31:36,578 - #6 ;
+INFO  15:31:36,578 - #50 niz
+INFO  15:31:36,578 - #10 [
+INFO  15:31:36,578 - #49 2
+INFO  15:31:36,578 - #9 ]
+INFO  15:31:36,578 - #7 =
+INFO  15:31:36,578 - #49 3
+INFO  15:31:36,578 - #6 ;
+INFO  15:31:36,578 - #50 niz
+INFO  15:31:36,578 - #10 [
+INFO  15:31:36,578 - #49 3
+INFO  15:31:36,578 - #9 ]
+INFO  15:31:36,578 - #7 =
+INFO  15:31:36,578 - #49 4
+INFO  15:31:36,578 - #6 ;
+INFO  15:31:36,578 - #50 niz
+INFO  15:31:36,578 - #10 [
+INFO  15:31:36,578 - #49 4
+INFO  15:31:36,578 - #9 ]
+INFO  15:31:36,578 - #7 =
+INFO  15:31:36,578 - #49 5
+INFO  15:31:36,579 - #6 ;
+INFO  15:31:36,579 - #10 [
+INFO  15:31:36,579 - #50 a
+INFO  15:31:36,579 - #8 ,
+INFO  15:31:36,580 - #50 b
+INFO  15:31:36,580 - #8 ,
+INFO  15:31:36,580 - #50 c
+INFO  15:31:36,580 - #8 ,
+INFO  15:31:36,580 - #50 d
+INFO  15:31:36,580 - #8 ,
+INFO  15:31:36,580 - #50 e
+INFO  15:31:36,580 - #9 ]
+INFO  15:31:36,580 - #7 =
+INFO  15:31:36,580 - #50 niz
+INFO  15:31:36,580 - #6 ;
+INFO  15:31:36,581 - #18 print
+INFO  15:31:36,581 - #12 (
+INFO  15:31:36,581 - #50 a
+INFO  15:31:36,581 - #13 )
+INFO  15:31:36,581 - #6 ;
+INFO  15:31:36,581 - #18 print
+INFO  15:31:36,582 - #12 (
+INFO  15:31:36,582 - #50 b
+INFO  15:31:36,582 - #13 )
+INFO  15:31:36,582 - #6 ;
+INFO  15:31:36,582 - #18 print
+INFO  15:31:36,582 - #12 (
+INFO  15:31:36,582 - #50 c
+INFO  15:31:36,582 - #13 )
+INFO  15:31:36,582 - #6 ;
+INFO  15:31:36,582 - #18 print
+INFO  15:31:36,582 - #12 (
+INFO  15:31:36,582 - #50 d
+INFO  15:31:36,582 - #13 )
+INFO  15:31:36,582 - #6 ;
+INFO  15:31:36,582 - #18 print
+INFO  15:31:36,582 - #12 (
+INFO  15:31:36,582 - #50 e
+INFO  15:31:36,582 - #13 )
+INFO  15:31:36,582 - #6 ;
+INFO  15:31:36,582 - #18 print
+INFO  15:31:36,583 - #12 (
+INFO  15:31:36,583 - #50 eol
+INFO  15:31:36,583 - #13 )
+INFO  15:31:36,583 - #6 ;
+INFO  15:31:36,583 - #10 [
+INFO  15:31:36,583 - #50 e
+INFO  15:31:36,583 - #8 ,
+INFO  15:31:36,583 - #50 d
+INFO  15:31:36,583 - #8 ,
+INFO  15:31:36,583 - #50 c
+INFO  15:31:36,583 - #8 ,
+INFO  15:31:36,583 - #50 b
+INFO  15:31:36,583 - #8 ,
+INFO  15:31:36,583 - #50 a
+INFO  15:31:36,583 - #9 ]
+INFO  15:31:36,583 - #7 =
+INFO  15:31:36,583 - #50 niz
+INFO  15:31:36,583 - #6 ;
+INFO  15:31:36,583 - #18 print
+INFO  15:31:36,583 - #12 (
+INFO  15:31:36,583 - #50 a
+INFO  15:31:36,583 - #13 )
+INFO  15:31:36,583 - #6 ;
+INFO  15:31:36,583 - #18 print
+INFO  15:31:36,583 - #12 (
+INFO  15:31:36,583 - #50 b
+INFO  15:31:36,583 - #13 )
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #18 print
+INFO  15:31:36,584 - #12 (
+INFO  15:31:36,584 - #50 c
+INFO  15:31:36,584 - #13 )
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #18 print
+INFO  15:31:36,584 - #12 (
+INFO  15:31:36,584 - #50 d
+INFO  15:31:36,584 - #13 )
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #18 print
+INFO  15:31:36,584 - #12 (
+INFO  15:31:36,584 - #50 e
+INFO  15:31:36,584 - #13 )
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #18 print
+INFO  15:31:36,584 - #12 (
+INFO  15:31:36,584 - #50 eol
+INFO  15:31:36,584 - #13 )
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #50 niz
+INFO  15:31:36,584 - #10 [
+INFO  15:31:36,584 - #49 0
+INFO  15:31:36,584 - #9 ]
+INFO  15:31:36,584 - #7 =
+INFO  15:31:36,584 - #49 10
+INFO  15:31:36,584 - #6 ;
+INFO  15:31:36,584 - #50 niz
+INFO  15:31:36,585 - #10 [
+INFO  15:31:36,585 - #49 1
+INFO  15:31:36,585 - #9 ]
+INFO  15:31:36,585 - #7 =
+INFO  15:31:36,585 - #49 20
+INFO  15:31:36,585 - #6 ;
+INFO  15:31:36,585 - #50 niz
+INFO  15:31:36,585 - #10 [
+INFO  15:31:36,585 - #49 2
+INFO  15:31:36,585 - #9 ]
+INFO  15:31:36,585 - #7 =
+INFO  15:31:36,585 - #49 30
+INFO  15:31:36,585 - #6 ;
+INFO  15:31:36,585 - #50 niz
+INFO  15:31:36,586 - #10 [
+INFO  15:31:36,586 - #49 3
+INFO  15:31:36,586 - #9 ]
+INFO  15:31:36,586 - #7 =
+INFO  15:31:36,586 - #49 40
+INFO  15:31:36,586 - #6 ;
+INFO  15:31:36,586 - #50 niz
+INFO  15:31:36,586 - #10 [
+INFO  15:31:36,586 - #49 4
+INFO  15:31:36,586 - #9 ]
+INFO  15:31:36,586 - #7 =
+INFO  15:31:36,586 - #49 50
+INFO  15:31:36,586 - #6 ;
+INFO  15:31:36,586 - #10 [
+INFO  15:31:36,586 - #50 a
+INFO  15:31:36,586 - #9 ]
+INFO  15:31:36,586 - #7 =
+INFO  15:31:36,586 - #50 niz
+INFO  15:31:36,586 - #6 ;
+INFO  15:31:36,586 - #18 print
+INFO  15:31:36,586 - #12 (
+INFO  15:31:36,586 - #50 a
+INFO  15:31:36,586 - #13 )
+INFO  15:31:36,586 - #6 ;
+INFO  15:31:36,586 - #18 print
+INFO  15:31:36,586 - #12 (
+INFO  15:31:36,586 - #50 b
+INFO  15:31:36,586 - #13 )
+INFO  15:31:36,586 - #6 ;
+INFO  15:31:36,586 - #18 print
+INFO  15:31:36,587 - #12 (
+INFO  15:31:36,587 - #50 c
+INFO  15:31:36,587 - #13 )
+INFO  15:31:36,587 - #6 ;
+INFO  15:31:36,587 - #18 print
+INFO  15:31:36,587 - #12 (
+INFO  15:31:36,587 - #50 d
+INFO  15:31:36,587 - #13 )
+INFO  15:31:36,587 - #6 ;
+INFO  15:31:36,587 - #18 print
+INFO  15:31:36,587 - #12 (
+INFO  15:31:36,587 - #50 e
+INFO  15:31:36,587 - #13 )
+INFO  15:31:36,587 - #6 ;
+INFO  15:31:36,587 - #18 print
+INFO  15:31:36,587 - #12 (
+INFO  15:31:36,587 - #50 eol
+INFO  15:31:36,587 - #13 )
+INFO  15:31:36,587 - #6 ;
+INFO  15:31:36,587 - #10 [
+INFO  15:31:36,587 - #50 e
+INFO  15:31:36,587 - #8 ,
+INFO  15:31:36,587 - #8 ,
+INFO  15:31:36,588 - #50 a
+INFO  15:31:36,588 - #9 ]
+INFO  15:31:36,588 - #7 =
+INFO  15:31:36,588 - #50 niz
+INFO  15:31:36,588 - #6 ;
+INFO  15:31:36,588 - #18 print
+INFO  15:31:36,588 - #12 (
+INFO  15:31:36,588 - #50 a
+INFO  15:31:36,588 - #13 )
+INFO  15:31:36,588 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 b
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 c
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 d
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 e
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 eol
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #50 nizTmp
+INFO  15:31:36,589 - #7 =
+INFO  15:31:36,589 - #31 new
+INFO  15:31:36,589 - #50 int
+INFO  15:31:36,589 - #10 [
+INFO  15:31:36,589 - #49 5
+INFO  15:31:36,589 - #9 ]
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,589 - #12 (
+INFO  15:31:36,589 - #50 nizTmp
+INFO  15:31:36,589 - #10 [
+INFO  15:31:36,589 - #49 0
+INFO  15:31:36,589 - #9 ]
+INFO  15:31:36,589 - #13 )
+INFO  15:31:36,589 - #6 ;
+INFO  15:31:36,589 - #18 print
+INFO  15:31:36,590 - #12 (
+INFO  15:31:36,590 - #50 nizTmp
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #49 1
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #13 )
+INFO  15:31:36,590 - #6 ;
+INFO  15:31:36,590 - #18 print
+INFO  15:31:36,590 - #12 (
+INFO  15:31:36,590 - #50 nizTmp
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #49 2
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #13 )
+INFO  15:31:36,590 - #6 ;
+INFO  15:31:36,590 - #18 print
+INFO  15:31:36,590 - #12 (
+INFO  15:31:36,590 - #50 eol
+INFO  15:31:36,590 - #13 )
+INFO  15:31:36,590 - #6 ;
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #50 nizTmp
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #49 2
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #8 ,
+INFO  15:31:36,590 - #50 nizTmp
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #49 1
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #8 ,
+INFO  15:31:36,590 - #50 nizTmp
+INFO  15:31:36,590 - #10 [
+INFO  15:31:36,590 - #49 0
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #9 ]
+INFO  15:31:36,590 - #7 =
+INFO  15:31:36,590 - #50 niz
+INFO  15:31:36,591 - #6 ;
+INFO  15:31:36,591 - #18 print
+INFO  15:31:36,591 - #12 (
+INFO  15:31:36,591 - #50 nizTmp
+INFO  15:31:36,591 - #10 [
+INFO  15:31:36,591 - #49 0
+INFO  15:31:36,591 - #9 ]
+INFO  15:31:36,591 - #13 )
+INFO  15:31:36,591 - #6 ;
+INFO  15:31:36,591 - #18 print
+INFO  15:31:36,591 - #12 (
+INFO  15:31:36,591 - #50 nizTmp
+INFO  15:31:36,591 - #10 [
+INFO  15:31:36,591 - #49 1
+INFO  15:31:36,591 - #9 ]
+INFO  15:31:36,591 - #13 )
+INFO  15:31:36,591 - #6 ;
+INFO  15:31:36,591 - #18 print
+INFO  15:31:36,591 - #12 (
+INFO  15:31:36,591 - #50 nizTmp
+INFO  15:31:36,591 - #10 [
+INFO  15:31:36,591 - #49 2
+INFO  15:31:36,591 - #9 ]
+INFO  15:31:36,591 - #13 )
+INFO  15:31:36,591 - #6 ;
+INFO  15:31:36,591 - #18 print
+INFO  15:31:36,591 - #12 (
+INFO  15:31:36,591 - #50 eol
+INFO  15:31:36,591 - #13 )
+INFO  15:31:36,591 - #6 ;
+INFO  15:31:36,591 - #50 niz
+INFO  15:31:36,591 - #10 [
+INFO  15:31:36,592 - #49 3
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #7 =
+INFO  15:31:36,592 - #49 2
+INFO  15:31:36,592 - #6 ;
+INFO  15:31:36,592 - #10 [
+INFO  15:31:36,592 - #8 ,
+INFO  15:31:36,592 - #8 ,
+INFO  15:31:36,592 - #8 ,
+INFO  15:31:36,592 - #8 ,
+INFO  15:31:36,592 - #50 nizTmp
+INFO  15:31:36,592 - #10 [
+INFO  15:31:36,592 - #50 niz
+INFO  15:31:36,592 - #10 [
+INFO  15:31:36,592 - #49 3
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #7 =
+INFO  15:31:36,592 - #50 niz
+INFO  15:31:36,592 - #6 ;
+INFO  15:31:36,592 - #18 print
+INFO  15:31:36,592 - #12 (
+INFO  15:31:36,592 - #50 nizTmp
+INFO  15:31:36,592 - #10 [
+INFO  15:31:36,592 - #49 0
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #13 )
+INFO  15:31:36,592 - #6 ;
+INFO  15:31:36,592 - #18 print
+INFO  15:31:36,592 - #12 (
+INFO  15:31:36,592 - #50 nizTmp
+INFO  15:31:36,592 - #10 [
+INFO  15:31:36,592 - #49 1
+INFO  15:31:36,592 - #9 ]
+INFO  15:31:36,592 - #13 )
+INFO  15:31:36,592 - #6 ;
+INFO  15:31:36,593 - #18 print
+INFO  15:31:36,593 - #12 (
+INFO  15:31:36,593 - #50 nizTmp
+INFO  15:31:36,593 - #10 [
+INFO  15:31:36,593 - #49 2
+INFO  15:31:36,593 - #9 ]
+INFO  15:31:36,593 - #13 )
+INFO  15:31:36,593 - #6 ;
+INFO  15:31:36,593 - #18 print
+INFO  15:31:36,593 - #12 (
+INFO  15:31:36,593 - #50 eol
+INFO  15:31:36,593 - #13 )
+INFO  15:31:36,593 - #6 ;
+INFO  15:31:36,593 - #50 nizIndex
+INFO  15:31:36,593 - #7 =
+INFO  15:31:36,593 - #31 new
+INFO  15:31:36,593 - #50 int
+INFO  15:31:36,593 - #10 [
+INFO  15:31:36,593 - #49 5
+INFO  15:31:36,593 - #9 ]
+INFO  15:31:36,593 - #6 ;
+INFO  15:31:36,593 - #50 nizIndex
+INFO  15:31:36,593 - #10 [
+INFO  15:31:36,593 - #49 0
+INFO  15:31:36,593 - #9 ]
+INFO  15:31:36,593 - #7 =
+INFO  15:31:36,593 - #49 1
+INFO  15:31:36,593 - #6 ;
+INFO  15:31:36,593 - #50 nizIndex
+INFO  15:31:36,593 - #10 [
+INFO  15:31:36,593 - #49 1
+INFO  15:31:36,593 - #9 ]
+INFO  15:31:36,594 - #7 =
+INFO  15:31:36,594 - #49 2
+INFO  15:31:36,594 - #6 ;
+INFO  15:31:36,594 - #50 nizIndex
+INFO  15:31:36,594 - #10 [
+INFO  15:31:36,594 - #49 2
+INFO  15:31:36,594 - #9 ]
+INFO  15:31:36,594 - #7 =
+INFO  15:31:36,594 - #49 3
+INFO  15:31:36,594 - #6 ;
+INFO  15:31:36,594 - #50 nizIndex
+INFO  15:31:36,594 - #10 [
+INFO  15:31:36,594 - #49 3
+INFO  15:31:36,594 - #9 ]
+INFO  15:31:36,594 - #7 =
+INFO  15:31:36,594 - #49 4
+INFO  15:31:36,594 - #6 ;
+INFO  15:31:36,594 - #50 nizIndex
+INFO  15:31:36,594 - #10 [
+INFO  15:31:36,594 - #49 4
+INFO  15:31:36,594 - #9 ]
+INFO  15:31:36,594 - #7 =
+INFO  15:31:36,594 - #49 5
+INFO  15:31:36,594 - #6 ;
+INFO  15:31:36,594 - #50 niz
+INFO  15:31:36,594 - #10 [
+INFO  15:31:36,595 - #49 0
+INFO  15:31:36,595 - #9 ]
+INFO  15:31:36,595 - #7 =
+INFO  15:31:36,595 - #49 111
+INFO  15:31:36,595 - #6 ;
+INFO  15:31:36,595 - #50 niz
+INFO  15:31:36,595 - #10 [
+INFO  15:31:36,595 - #49 1
+INFO  15:31:36,595 - #9 ]
+INFO  15:31:36,595 - #7 =
+INFO  15:31:36,595 - #49 222
+INFO  15:31:36,595 - #6 ;
+INFO  15:31:36,595 - #50 niz
+INFO  15:31:36,595 - #10 [
+INFO  15:31:36,595 - #49 2
+INFO  15:31:36,595 - #9 ]
+INFO  15:31:36,595 - #7 =
+INFO  15:31:36,595 - #49 333
+INFO  15:31:36,595 - #6 ;
+INFO  15:31:36,595 - #50 niz
+INFO  15:31:36,595 - #10 [
+INFO  15:31:36,595 - #49 3
+INFO  15:31:36,595 - #9 ]
+INFO  15:31:36,595 - #7 =
+INFO  15:31:36,596 - #49 444
+INFO  15:31:36,596 - #6 ;
+INFO  15:31:36,596 - #50 niz
+INFO  15:31:36,596 - #10 [
+INFO  15:31:36,596 - #49 4
+INFO  15:31:36,596 - #9 ]
+INFO  15:31:36,596 - #7 =
+INFO  15:31:36,596 - #49 555
+INFO  15:31:36,596 - #6 ;
+INFO  15:31:36,596 - #18 print
+INFO  15:31:36,596 - #12 (
+INFO  15:31:36,596 - #50 nizIndex
+INFO  15:31:36,596 - #10 [
+INFO  15:31:36,596 - #50 nizIndex
+INFO  15:31:36,596 - #10 [
+INFO  15:31:36,596 - #50 nizIndex
+INFO  15:31:36,596 - #10 [
+INFO  15:31:36,596 - #50 nizIndex
+INFO  15:31:36,596 - #10 [
+INFO  15:31:36,596 - #50 nizIndex
+INFO  15:31:36,597 - #10 [
+INFO  15:31:36,597 - #49 0
+INFO  15:31:36,597 - #9 ]
+INFO  15:31:36,597 - #9 ]
+INFO  15:31:36,597 - #9 ]
+INFO  15:31:36,597 - #9 ]
+INFO  15:31:36,597 - #9 ]
+INFO  15:31:36,597 - #30 -
+INFO  15:31:36,597 - #49 1
+INFO  15:31:36,598 - #13 )
+INFO  15:31:36,598 - #6 ;
+INFO  15:31:36,598 - #18 print
+INFO  15:31:36,598 - #12 (
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,598 - #10 [
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,598 - #10 [
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,598 - #10 [
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,598 - #10 [
+INFO  15:31:36,598 - #49 0
+INFO  15:31:36,598 - #9 ]
+INFO  15:31:36,598 - #9 ]
+INFO  15:31:36,598 - #9 ]
+INFO  15:31:36,598 - #9 ]
+INFO  15:31:36,598 - #30 -
+INFO  15:31:36,598 - #49 1
+INFO  15:31:36,598 - #13 )
+INFO  15:31:36,598 - #6 ;
+INFO  15:31:36,598 - #18 print
+INFO  15:31:36,598 - #12 (
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,598 - #10 [
+INFO  15:31:36,598 - #50 nizIndex
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #50 nizIndex
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #49 0
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #30 -
+INFO  15:31:36,599 - #49 1
+INFO  15:31:36,599 - #13 )
+INFO  15:31:36,599 - #6 ;
+INFO  15:31:36,599 - #18 print
+INFO  15:31:36,599 - #12 (
+INFO  15:31:36,599 - #50 nizIndex
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #50 nizIndex
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #49 0
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #30 -
+INFO  15:31:36,599 - #49 1
+INFO  15:31:36,599 - #13 )
+INFO  15:31:36,599 - #6 ;
+INFO  15:31:36,599 - #18 print
+INFO  15:31:36,599 - #12 (
+INFO  15:31:36,599 - #50 nizIndex
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #49 0
+INFO  15:31:36,599 - #9 ]
+INFO  15:31:36,599 - #30 -
+INFO  15:31:36,599 - #49 1
+INFO  15:31:36,599 - #13 )
+INFO  15:31:36,599 - #6 ;
+INFO  15:31:36,599 - #18 print
+INFO  15:31:36,599 - #12 (
+INFO  15:31:36,599 - #50 eol
+INFO  15:31:36,599 - #13 )
+INFO  15:31:36,599 - #6 ;
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #50 nizTmp
+INFO  15:31:36,599 - #10 [
+INFO  15:31:36,599 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #49 0
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #30 -
+INFO  15:31:36,600 - #49 1
+INFO  15:31:36,600 - #9 ]
+INFO  15:31:36,600 - #8 ,
+INFO  15:31:36,600 - #50 nizTmp
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,600 - #10 [
+INFO  15:31:36,600 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #49 0
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #30 -
+INFO  15:31:36,601 - #49 1
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #8 ,
+INFO  15:31:36,601 - #50 nizTmp
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #49 0
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #30 -
+INFO  15:31:36,601 - #49 1
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #8 ,
+INFO  15:31:36,601 - #50 nizTmp
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #50 nizIndex
+INFO  15:31:36,601 - #10 [
+INFO  15:31:36,601 - #49 0
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #30 -
+INFO  15:31:36,601 - #49 1
+INFO  15:31:36,601 - #9 ]
+INFO  15:31:36,601 - #8 ,
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #50 nizIndex
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 0
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #30 -
+INFO  15:31:36,602 - #49 1
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #7 =
+INFO  15:31:36,602 - #50 niz
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 0
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 1
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 2
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 3
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 nizTmp
+INFO  15:31:36,602 - #10 [
+INFO  15:31:36,602 - #49 4
+INFO  15:31:36,602 - #9 ]
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,602 - #18 print
+INFO  15:31:36,602 - #12 (
+INFO  15:31:36,602 - #50 eol
+INFO  15:31:36,602 - #13 )
+INFO  15:31:36,602 - #6 ;
+INFO  15:31:36,603 - #4 }
+INFO  15:31:36,603 - #3 {
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 t
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 e
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 s
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 t
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47  
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 r
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 e
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,603 - #12 (
+INFO  15:31:36,603 - #47 a
+INFO  15:31:36,603 - #13 )
+INFO  15:31:36,603 - #6 ;
+INFO  15:31:36,603 - #18 print
+INFO  15:31:36,604 - #12 (
+INFO  15:31:36,604 - #47 d
+INFO  15:31:36,604 - #13 )
+INFO  15:31:36,604 - #6 ;
+INFO  15:31:36,604 - #18 print
+INFO  15:31:36,604 - #12 (
+INFO  15:31:36,604 - #50 eol
+INFO  15:31:36,604 - #13 )
+INFO  15:31:36,604 - #6 ;
+INFO  15:31:36,604 - #23 read
+INFO  15:31:36,604 - #12 (
+INFO  15:31:36,604 - #50 nizTmp
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #50 nizIndex
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #50 nizIndex
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #50 nizIndex
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #50 nizIndex
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #50 nizIndex
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #49 0
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #30 -
+INFO  15:31:36,604 - #49 1
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #13 )
+INFO  15:31:36,604 - #6 ;
+INFO  15:31:36,604 - #18 print
+INFO  15:31:36,604 - #12 (
+INFO  15:31:36,604 - #50 nizTmp
+INFO  15:31:36,604 - #10 [
+INFO  15:31:36,604 - #49 0
+INFO  15:31:36,604 - #9 ]
+INFO  15:31:36,604 - #13 )
+INFO  15:31:36,605 - #6 ;
+INFO  15:31:36,605 - #18 print
+INFO  15:31:36,605 - #12 (
+INFO  15:31:36,605 - #50 nizTmp
+INFO  15:31:36,605 - #10 [
+INFO  15:31:36,605 - #49 1
+INFO  15:31:36,605 - #9 ]
+INFO  15:31:36,605 - #13 )
+INFO  15:31:36,605 - #6 ;
+INFO  15:31:36,605 - #18 print
+INFO  15:31:36,605 - #12 (
+INFO  15:31:36,605 - #50 nizTmp
+INFO  15:31:36,605 - #10 [
+INFO  15:31:36,605 - #49 2
+INFO  15:31:36,605 - #9 ]
+INFO  15:31:36,605 - #13 )
+INFO  15:31:36,605 - #6 ;
+INFO  15:31:36,605 - #18 print
+INFO  15:31:36,605 - #12 (
+INFO  15:31:36,605 - #50 nizTmp
+INFO  15:31:36,605 - #10 [
+INFO  15:31:36,605 - #49 3
+INFO  15:31:36,605 - #9 ]
+INFO  15:31:36,605 - #13 )
+INFO  15:31:36,605 - #6 ;
+INFO  15:31:36,606 - #18 print
+INFO  15:31:36,606 - #12 (
+INFO  15:31:36,606 - #50 nizTmp
+INFO  15:31:36,606 - #10 [
+INFO  15:31:36,606 - #49 4
+INFO  15:31:36,606 - #9 ]
+INFO  15:31:36,606 - #13 )
+INFO  15:31:36,606 - #6 ;
+INFO  15:31:36,606 - #18 print
+INFO  15:31:36,606 - #12 (
+INFO  15:31:36,606 - #50 eol
+INFO  15:31:36,606 - #13 )
+INFO  15:31:36,606 - #6 ;
+INFO  15:31:36,606 - #4 }
+INFO  15:31:36,606 - #4 }
+INFO  15:31:36,606 - #4 }
+INFO  15:31:36,618 - Kreirana globalna promenljiva sa imenom a na liniji 2
+INFO  15:31:36,618 - Kreirana globalna promenljiva sa imenom b na liniji 2
+INFO  15:31:36,618 - Kreirana globalna promenljiva sa imenom c na liniji 2
+INFO  15:31:36,618 - Kreirana globalna promenljiva sa imenom d na liniji 2
+INFO  15:31:36,618 - Kreirana globalna promenljiva sa imenom e na liniji 2
+INFO  15:31:36,619 - Kreirana globalna promenljiva sa imenom intArray[] na liniji 2
+INFO  15:31:36,619 - Kreirana globalna promenljiva sa imenom niz[] na liniji 2
+INFO  15:31:36,619 - Kreirana globalna promenljiva sa imenom nizTmp[] na liniji 2
+INFO  15:31:36,619 - Kreirana globalna promenljiva sa imenom nizIndex[] na liniji 2
+INFO  15:31:36,619 - Pristupa se promenjivoj a na liniji 8
+INFO  15:31:36,619 - Pristupa se elementu niza intArray na liniji 10
+INFO  15:31:36,619 - Pristupa se elementu niza intArray na liniji 12
+INFO  15:31:36,619 - Pristupa se elementu niza niz na liniji 25
+INFO  15:31:36,619 - Pristupa se elementu niza niz na liniji 26
+INFO  15:31:36,619 - Pristupa se elementu niza niz na liniji 27
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 27
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 28
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 28
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 28
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 29
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 30
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 31
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 32
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 33
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 40
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 41
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 42
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 43
+INFO  15:31:36,620 - Pristupa se elementu niza niz na liniji 44
+INFO  15:31:36,621 - Pristupa se promenjivoj a na liniji 46
+INFO  15:31:36,621 - Pristupa se promenjivoj b na liniji 46
+INFO  15:31:36,621 - Pristupa se promenjivoj c na liniji 46
+INFO  15:31:36,621 - Pristupa se promenjivoj d na liniji 46
+INFO  15:31:36,621 - Pristupa se promenjivoj e na liniji 46
+INFO  15:31:36,621 - Pristupa se promenjivoj a na liniji 48
+INFO  15:31:36,621 - Pristupa se promenjivoj b na liniji 48
+INFO  15:31:36,621 - Pristupa se promenjivoj c na liniji 48
+INFO  15:31:36,621 - Pristupa se promenjivoj d na liniji 48
+INFO  15:31:36,622 - Pristupa se promenjivoj e na liniji 48
+INFO  15:31:36,622 - Pristupa se elementu niza niz na liniji 49
+INFO  15:31:36,622 - Pristupa se elementu niza niz na liniji 50
+INFO  15:31:36,622 - Pristupa se elementu niza niz na liniji 51
+INFO  15:31:36,622 - Pristupa se elementu niza niz na liniji 52
+INFO  15:31:36,622 - Pristupa se elementu niza niz na liniji 53
+INFO  15:31:36,622 - Pristupa se promenjivoj a na liniji 55
+INFO  15:31:36,622 - Pristupa se promenjivoj b na liniji 55
+INFO  15:31:36,622 - Pristupa se promenjivoj c na liniji 55
+INFO  15:31:36,622 - Pristupa se promenjivoj d na liniji 55
+INFO  15:31:36,622 - Pristupa se promenjivoj e na liniji 55
+INFO  15:31:36,622 - Pristupa se promenjivoj a na liniji 57
+INFO  15:31:36,622 - Pristupa se promenjivoj b na liniji 57
+INFO  15:31:36,622 - Pristupa se promenjivoj c na liniji 57
+INFO  15:31:36,622 - Pristupa se promenjivoj d na liniji 57
+INFO  15:31:36,622 - Pristupa se promenjivoj e na liniji 57
+INFO  15:31:36,622 - Pristupa se elementu niza nizTmp na liniji 59
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 59
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 59
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 60
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 60
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 60
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 61
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 61
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 61
+INFO  15:31:36,623 - Pristupa se elementu niza niz na liniji 62
+INFO  15:31:36,623 - Pristupa se elementu niza niz na liniji 63
+INFO  15:31:36,623 - Pristupa se elementu niza nizTmp na liniji 63
+INFO  15:31:36,624 - Pristupa se elementu niza nizTmp na liniji 64
+INFO  15:31:36,624 - Pristupa se elementu niza nizTmp na liniji 64
+INFO  15:31:36,624 - Pristupa se elementu niza nizTmp na liniji 64
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 66
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 67
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 68
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 69
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 70
+INFO  15:31:36,624 - Pristupa se elementu niza niz na liniji 71
+INFO  15:31:36,624 - Pristupa se elementu niza niz na liniji 72
+INFO  15:31:36,624 - Pristupa se elementu niza niz na liniji 73
+INFO  15:31:36,624 - Pristupa se elementu niza niz na liniji 74
+INFO  15:31:36,624 - Pristupa se elementu niza niz na liniji 75
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 76
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 76
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 76
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 76
+INFO  15:31:36,624 - Pristupa se elementu niza nizIndex na liniji 76
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 77
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 77
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 77
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 77
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 78
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 78
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 78
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 79
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 79
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 80
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizTmp na liniji 83
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 85
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 85
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 85
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 85
+INFO  15:31:36,625 - Pristupa se elementu niza nizTmp na liniji 85
+INFO  15:31:36,625 - Pristupa se elementu niza nizIndex na liniji 87
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 87
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 87
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 87
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 89
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 89
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 89
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 91
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 91
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 93
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 93
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 93
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 93
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 93
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 98
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 98
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 98
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 98
+INFO  15:31:36,626 - Pristupa se elementu niza nizIndex na liniji 98
+INFO  15:31:36,626 - Pristupa se elementu niza nizTmp na liniji 98
+INFO  15:31:36,627 - Pristupa se elementu niza nizTmp na liniji 99
+INFO  15:31:36,627 - Pristupa se elementu niza nizTmp na liniji 99
+INFO  15:31:36,627 - Pristupa se elementu niza nizTmp na liniji 99
+INFO  15:31:36,627 - Pristupa se elementu niza nizTmp na liniji 99
+INFO  15:31:36,627 - Pristupa se elementu niza nizTmp na liniji 99
+INFO  15:31:36,627 - Main ispravno deklarisan
+INFO  15:31:36,628 - Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Type bool: , -1, -1 
+Prog test_A_successful: notype, 0, 1 
+   Var a: int, 0, 0 
+   Var b: int, 1, 0 
+   Var c: int, 2, 0 
+   Var d: int, 3, 0 
+   Var e: int, 4, 0 
+   Var intArray: Arr of int, 5, 0 
+   Var niz: Arr of int, 6, 0 
+   Var nizTmp: Arr of int, 7, 0 
+   Var nizIndex: Arr of int, 8, 0 
+   Meth main: notype, 0, 0 
+
+
+
+INFO  15:31:36,628 - Generating bytecode file: C:\Users\borot\Desktop\pp1 projekat\pp1lab.templateAST\workspace\pr\test\program.obj
+INFO  15:31:36,643 - Parsiranje uspesno zavrseno!

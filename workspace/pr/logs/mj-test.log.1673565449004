@@ -1,0 +1,151 @@
+INFO  00:11:51,612 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:11:51,703 - #2 program
+INFO  00:11:51,704 - #50 MJProgram
+INFO  00:11:51,704 - #50 int
+INFO  00:11:51,706 - #50 x
+INFO  00:11:51,708 - #6 ;
+INFO  00:11:51,709 - #50 int
+INFO  00:11:51,712 - #50 y
+INFO  00:11:51,712 - #10 [
+INFO  00:11:51,712 - #9 ]
+INFO  00:11:51,712 - #6 ;
+INFO  00:11:51,712 - #5 const
+INFO  00:11:51,712 - #50 int
+INFO  00:11:51,713 - #50 jedan
+INFO  00:11:51,714 - #7 =
+INFO  00:11:51,714 - #49 1
+INFO  00:11:51,715 - #6 ;
+INFO  00:11:51,716 - #3 {
+INFO  00:11:51,717 - #50 int
+INFO  00:11:51,717 - #50 k
+INFO  00:11:51,718 - #12 (
+INFO  00:11:51,721 - #13 )
+INFO  00:11:51,721 - #50 int
+INFO  00:11:51,722 - #50 c
+INFO  00:11:51,723 - #6 ;
+INFO  00:11:51,723 - #3 {
+INFO  00:11:51,724 - #50 c
+INFO  00:11:51,724 - #7 =
+INFO  00:11:51,724 - #49 3
+INFO  00:11:51,725 - #6 ;
+INFO  00:11:51,727 - #50 x
+INFO  00:11:51,728 - #26 ++
+INFO  00:11:51,728 - #6 ;
+INFO  00:11:51,728 - #18 print
+INFO  00:11:51,729 - #12 (
+INFO  00:11:51,729 - #50 x
+INFO  00:11:51,729 - #13 )
+INFO  00:11:51,729 - #6 ;
+INFO  00:11:51,730 - #22 return
+INFO  00:11:51,730 - #50 c
+INFO  00:11:51,730 - #6 ;
+INFO  00:11:51,730 - #4 }
+INFO  00:11:51,731 - #14 void
+INFO  00:11:51,732 - #50 main
+INFO  00:11:51,733 - #12 (
+INFO  00:11:51,734 - #13 )
+INFO  00:11:51,734 - #50 int
+INFO  00:11:51,734 - #50 pom1
+INFO  00:11:51,734 - #8 ,
+INFO  00:11:51,734 - #50 pom2
+INFO  00:11:51,734 - #10 [
+INFO  00:11:51,735 - #9 ]
+INFO  00:11:51,735 - #8 ,
+INFO  00:11:51,735 - #50 pom3
+INFO  00:11:51,735 - #6 ;
+INFO  00:11:51,735 - #3 {
+INFO  00:11:51,736 - #50 y
+INFO  00:11:51,736 - #7 =
+INFO  00:11:51,736 - #31 new
+INFO  00:11:51,736 - #50 int
+INFO  00:11:51,736 - #10 [
+INFO  00:11:51,736 - #49 3
+INFO  00:11:51,736 - #9 ]
+INFO  00:11:51,736 - #6 ;
+INFO  00:11:51,736 - #50 pom2
+INFO  00:11:51,737 - #7 =
+INFO  00:11:51,737 - #31 new
+INFO  00:11:51,737 - #50 int
+INFO  00:11:51,737 - #10 [
+INFO  00:11:51,738 - #49 2
+INFO  00:11:51,738 - #9 ]
+INFO  00:11:51,738 - #6 ;
+INFO  00:11:51,738 - #18 print
+INFO  00:11:51,738 - #12 (
+INFO  00:11:51,739 - #50 jedan
+INFO  00:11:51,739 - #13 )
+INFO  00:11:51,739 - #6 ;
+INFO  00:11:51,739 - #50 y
+INFO  00:11:51,740 - #10 [
+INFO  00:11:51,741 - #49 0
+INFO  00:11:51,741 - #9 ]
+INFO  00:11:51,741 - #7 =
+INFO  00:11:51,742 - #49 99
+INFO  00:11:51,742 - #6 ;
+INFO  00:11:51,742 - #50 y
+INFO  00:11:51,742 - #10 [
+INFO  00:11:51,742 - #49 1
+INFO  00:11:51,742 - #9 ]
+INFO  00:11:51,742 - #7 =
+INFO  00:11:51,743 - #49 100
+INFO  00:11:51,743 - #6 ;
+INFO  00:11:51,743 - #50 y
+INFO  00:11:51,743 - #10 [
+INFO  00:11:51,743 - #49 2
+INFO  00:11:51,743 - #9 ]
+INFO  00:11:51,744 - #7 =
+INFO  00:11:51,744 - #49 101
+INFO  00:11:51,744 - #6 ;
+INFO  00:11:51,744 - #10 [
+INFO  00:11:51,744 - #50 pom1
+INFO  00:11:51,745 - #8 ,
+INFO  00:11:51,747 - #50 pom2
+INFO  00:11:51,747 - #10 [
+INFO  00:11:51,747 - #49 1
+INFO  00:11:51,747 - #9 ]
+INFO  00:11:51,748 - #8 ,
+INFO  00:11:51,748 - #50 pom3
+INFO  00:11:51,748 - #9 ]
+INFO  00:11:51,748 - #7 =
+INFO  00:11:51,749 - #50 y
+INFO  00:11:51,749 - #6 ;
+INFO  00:11:51,749 - #18 print
+INFO  00:11:51,751 - #12 (
+INFO  00:11:51,751 - #47 k
+INFO  00:11:51,751 - #13 )
+INFO  00:11:51,751 - #6 ;
+INFO  00:11:51,751 - #50 y
+INFO  00:11:51,752 - #24 .
+INFO  00:11:51,752 - #19 foreach
+INFO  00:11:51,752 - #12 (
+INFO  00:11:51,752 - #50 x
+INFO  00:11:51,752 - #25 =>
+INFO  00:11:51,753 - #18 print
+INFO  00:11:51,754 - #12 (
+INFO  00:11:51,754 - #50 x
+INFO  00:11:51,754 - #13 )
+INFO  00:11:51,754 - #6 ;
+INFO  00:11:51,754 - #13 )
+INFO  00:11:51,755 - #6 ;
+INFO  00:11:51,756 - #22 return
+INFO  00:11:51,756 - #6 ;
+INFO  00:11:51,757 - #4 }
+INFO  00:11:51,758 - #4 }
+INFO  00:11:51,788 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  00:11:51,788 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  00:11:51,788 - Kreirana je konstanta jedan na liniji 3
+INFO  00:11:51,788 - Deklarisana globalna funkcija sa imenom k na liniji 6
+INFO  00:11:51,788 - Kreirana lokalna promenljiva sa imenom c na liniji 6
+INFO  00:11:51,789 - Pristupa se promenjivoj x na liniji 10
+INFO  00:11:51,789 - Pristupa se promenjivoj c na liniji 12
+INFO  00:11:51,789 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 15
+INFO  00:11:51,789 - Kreirana lokalna promenljiva sa imenom pom2[] na liniji 15
+INFO  00:11:51,789 - Kreirana lokalna promenljiva sa imenom pom3 na liniji 15
+INFO  00:11:51,789 - Pristupa se elementu niza y na liniji 22
+INFO  00:11:51,789 - Pristupa se elementu niza y na liniji 23
+INFO  00:11:51,789 - Pristupa se elementu niza y na liniji 24
+INFO  00:11:51,790 - Pristupa se elementu niza pom2 na liniji 26
+INFO  00:11:51,790 - Pristupa se promenjivoj x na liniji 30
+INFO  00:11:51,790 - Main ispravno deklarisan
+INFO  00:11:51,791 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:11:51,802 - Parsiranje uspesno zavrseno!

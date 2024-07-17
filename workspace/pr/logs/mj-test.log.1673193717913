@@ -1,0 +1,60 @@
+INFO  16:35:52,437 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:35:52,484 - #2 program
+INFO  16:35:52,484 - #50 MJProgram
+INFO  16:35:52,484 - #50 int
+INFO  16:35:52,485 - #50 x
+INFO  16:35:52,486 - #8 ,
+INFO  16:35:52,488 - #50 y
+INFO  16:35:52,488 - #6 ;
+INFO  16:35:52,488 - #3 {
+INFO  16:35:52,489 - #50 int
+INFO  16:35:52,490 - #50 k
+INFO  16:35:52,490 - #12 (
+INFO  16:35:52,490 - #13 )
+INFO  16:35:52,491 - #50 int
+INFO  16:35:52,491 - #50 c
+INFO  16:35:52,491 - #6 ;
+INFO  16:35:52,491 - #3 {
+INFO  16:35:52,492 - #50 c
+INFO  16:35:52,492 - #7 =
+INFO  16:35:52,492 - #49 2
+INFO  16:35:52,493 - #6 ;
+INFO  16:35:52,495 - #22 return
+INFO  16:35:52,495 - #50 c
+INFO  16:35:52,495 - #38 +
+INFO  16:35:52,495 - #49 2
+INFO  16:35:52,496 - #6 ;
+INFO  16:35:52,496 - #4 }
+INFO  16:35:52,496 - #50 int
+INFO  16:35:52,497 - #50 main
+INFO  16:35:52,497 - #12 (
+INFO  16:35:52,497 - #13 )
+INFO  16:35:52,497 - #3 {
+INFO  16:35:52,497 - #50 x
+INFO  16:35:52,497 - #7 =
+INFO  16:35:52,497 - #49 3
+INFO  16:35:52,497 - #6 ;
+INFO  16:35:52,498 - #18 print
+INFO  16:35:52,498 - #12 (
+INFO  16:35:52,498 - #49 1
+INFO  16:35:52,498 - #13 )
+INFO  16:35:52,498 - #6 ;
+INFO  16:35:52,498 - #18 print
+INFO  16:35:52,498 - #12 (
+INFO  16:35:52,498 - #50 x
+INFO  16:35:52,498 - #13 )
+INFO  16:35:52,498 - #6 ;
+INFO  16:35:52,498 - #22 return
+INFO  16:35:52,498 - #6 ;
+INFO  16:35:52,498 - #4 }
+INFO  16:35:52,499 - #4 }
+INFO  16:35:52,511 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  16:35:52,511 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  16:35:52,511 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  16:35:52,511 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  16:35:52,512 - Pristupa se promenjivoj c na liniji 7
+INFO  16:35:52,512 - Pristupa se promenjivoj x na liniji 16
+ERROR 16:35:52,512 -  GRESKA na liniji: 10. Funkcija main nema pravilan return.
+ERROR 16:35:52,512 - : void main() neispravno deklarisan.
+INFO  16:35:52,513 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:35:52,521 - Parsiranje uspesno zavrseno!

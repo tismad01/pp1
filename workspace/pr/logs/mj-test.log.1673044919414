@@ -1,0 +1,230 @@
+INFO  23:41:30,172 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:41:30,239 - #2 program
+INFO  23:41:30,239 - #50 MJProgram
+INFO  23:41:30,239 - #50 int
+INFO  23:41:30,241 - #50 x
+INFO  23:41:30,242 - #8 ,
+INFO  23:41:30,243 - #50 y
+INFO  23:41:30,243 - #6 ;
+INFO  23:41:30,243 - #5 const
+INFO  23:41:30,244 - #50 int
+INFO  23:41:30,245 - #50 z
+INFO  23:41:30,245 - #7 =
+INFO  23:41:30,246 - #49 10
+INFO  23:41:30,246 - #6 ;
+INFO  23:41:30,247 - #50 int
+INFO  23:41:30,247 - #50 niz
+INFO  23:41:30,247 - #10 [
+INFO  23:41:30,248 - #9 ]
+INFO  23:41:30,248 - #6 ;
+INFO  23:41:30,249 - #3 {
+INFO  23:41:30,249 - #50 int
+INFO  23:41:30,252 - #50 k
+INFO  23:41:30,252 - #12 (
+INFO  23:41:30,252 - #13 )
+INFO  23:41:30,253 - #50 int
+INFO  23:41:30,254 - #50 c
+INFO  23:41:30,254 - #6 ;
+INFO  23:41:30,254 - #3 {
+INFO  23:41:30,254 - #22 return
+INFO  23:41:30,255 - #6 ;
+INFO  23:41:30,256 - #4 }
+INFO  23:41:30,256 - #14 void
+INFO  23:41:30,258 - #50 main
+INFO  23:41:30,258 - #12 (
+INFO  23:41:30,258 - #13 )
+INFO  23:41:30,258 - #3 {
+INFO  23:41:30,258 - #18 print
+INFO  23:41:30,258 - #12 (
+INFO  23:41:30,258 - #49 1
+INFO  23:41:30,258 - #13 )
+INFO  23:41:30,259 - #6 ;
+INFO  23:41:30,259 - #18 print
+INFO  23:41:30,260 - #12 (
+INFO  23:41:30,260 - #49 2
+INFO  23:41:30,260 - #13 )
+INFO  23:41:30,260 - #6 ;
+INFO  23:41:30,260 - #50 k
+INFO  23:41:30,260 - #12 (
+INFO  23:41:30,262 - #13 )
+INFO  23:41:30,262 - #6 ;
+INFO  23:41:30,263 - #22 return
+INFO  23:41:30,263 - #6 ;
+INFO  23:41:30,263 - #4 }
+INFO  23:41:30,263 - #4 }
+INFO  23:41:30,274 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationList(
+    ConstDeclarationList(
+      VarDeclarationList(
+        NoDeclarationList(
+        ) [NoDeclarationList]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          MultipleVarDecls(
+            PrevMultipleVarDecl(
+             x
+              VarNotArray(
+              ) [VarNotArray]
+            ) [PrevMultipleVarDecl]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               y
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [MultipleVarDecls]
+        ) [VarDecl]
+      ) [VarDeclarationList]
+      ConstDeclaration(
+        ConstDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [ConstDeclType]
+        NumValue(
+         z
+         10
+        ) [NumValue]
+        NoMoreConstDeclarations(
+        ) [NoMoreConstDeclarations]
+      ) [ConstDeclaration]
+    ) [ConstDeclarationList]
+    VarDecl(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      OneVarDeclaration(
+        PrevOneVarDecl(
+         niz
+          VarIsArray(
+          ) [VarIsArray]
+        ) [PrevOneVarDecl]
+      ) [OneVarDeclaration]
+    ) [VarDecl]
+  ) [VarDeclarationList]
+  NonEmptyMethodDeclList(
+    NonEmptyMethodDeclList(
+      EmptyMethodDeclList(
+      ) [EmptyMethodDeclList]
+      MethodDecl(
+        MethodName(
+          MethodHasType(
+            Type(
+             int
+            ) [Type]
+          ) [MethodHasType]
+         k
+        ) [MethodName]
+        NoFormParams(
+        ) [NoFormParams]
+        MethodHasVars(
+          NoVarsMethod(
+          ) [NoVarsMethod]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               c
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [VarDecl]
+        ) [MethodHasVars]
+        Statements(
+          NoStatements(
+          ) [NoStatements]
+          OneStatement(
+            ReturnSt(
+              NoReturn(
+              ) [NoReturn]
+            ) [ReturnSt]
+          ) [OneStatement]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [NonEmptyMethodDeclList]
+    MethodDecl(
+      MethodName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarsMethod(
+      ) [NoVarsMethod]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              NoStatements(
+              ) [NoStatements]
+              OneStatement(
+                PrintSt(
+                  SimpleExpr(
+                    Term(
+                      OneFactor(
+                        FactorNum(
+                         1
+                        ) [FactorNum]
+                      ) [OneFactor]
+                    ) [Term]
+                  ) [SimpleExpr]
+                ) [PrintSt]
+              ) [OneStatement]
+            ) [Statements]
+            OneStatement(
+              PrintSt(
+                SimpleExpr(
+                  Term(
+                    OneFactor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [OneFactor]
+                  ) [Term]
+                ) [SimpleExpr]
+              ) [PrintSt]
+            ) [OneStatement]
+          ) [Statements]
+          OneStatement(
+            Assignment(
+              DesignatorFunc(
+                FunctionDesignator(
+                  SimpleDesignator(
+                   k
+                  ) [SimpleDesignator]
+                ) [FunctionDesignator]
+                NoActPars(
+                ) [NoActPars]
+              ) [DesignatorFunc]
+            ) [Assignment]
+          ) [OneStatement]
+        ) [Statements]
+        OneStatement(
+          ReturnSt(
+            NoReturn(
+            ) [NoReturn]
+          ) [ReturnSt]
+        ) [OneStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  23:41:30,275 - ===================================
+INFO  23:41:30,283 - Kreirana je konstanta z na liniji 3
+INFO  23:41:30,283 - Deklarisana globalna funkcija sa imenom k na liniji 7

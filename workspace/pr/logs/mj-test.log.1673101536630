@@ -1,0 +1,345 @@
+INFO  15:25:17,111 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:25:17,151 - #2 program
+INFO  15:25:17,151 - #50 MJProgram
+INFO  15:25:17,151 - #50 int
+INFO  15:25:17,152 - #50 x
+INFO  15:25:17,153 - #8 ,
+INFO  15:25:17,154 - #50 y
+INFO  15:25:17,154 - #6 ;
+INFO  15:25:17,154 - #3 {
+INFO  15:25:17,155 - #50 int
+INFO  15:25:17,155 - #50 k
+INFO  15:25:17,156 - #12 (
+INFO  15:25:17,156 - #13 )
+INFO  15:25:17,156 - #50 int
+INFO  15:25:17,158 - #50 c
+INFO  15:25:17,158 - #6 ;
+INFO  15:25:17,158 - #3 {
+INFO  15:25:17,158 - #50 c
+INFO  15:25:17,159 - #7 =
+INFO  15:25:17,159 - #49 2
+INFO  15:25:17,159 - #6 ;
+INFO  15:25:17,161 - #22 return
+INFO  15:25:17,162 - #50 c
+INFO  15:25:17,162 - #38 +
+INFO  15:25:17,162 - #49 2
+INFO  15:25:17,163 - #6 ;
+INFO  15:25:17,163 - #4 }
+INFO  15:25:17,163 - #14 void
+INFO  15:25:17,163 - #50 main
+INFO  15:25:17,164 - #12 (
+INFO  15:25:17,164 - #13 )
+INFO  15:25:17,164 - #3 {
+INFO  15:25:17,164 - #18 print
+INFO  15:25:17,164 - #12 (
+INFO  15:25:17,164 - #49 1
+INFO  15:25:17,164 - #13 )
+INFO  15:25:17,164 - #6 ;
+INFO  15:25:17,164 - #18 print
+INFO  15:25:17,164 - #12 (
+INFO  15:25:17,165 - #50 x
+INFO  15:25:17,165 - #13 )
+INFO  15:25:17,165 - #6 ;
+INFO  15:25:17,165 - #18 print
+INFO  15:25:17,165 - #12 (
+INFO  15:25:17,165 - #47 w
+INFO  15:25:17,165 - #13 )
+INFO  15:25:17,165 - #6 ;
+INFO  15:25:17,165 - #50 x
+INFO  15:25:17,166 - #7 =
+INFO  15:25:17,166 - #50 y
+INFO  15:25:17,166 - #38 +
+INFO  15:25:17,166 - #49 5
+INFO  15:25:17,166 - #38 +
+INFO  15:25:17,166 - #49 3
+INFO  15:25:17,166 - #6 ;
+INFO  15:25:17,166 - #18 print
+INFO  15:25:17,166 - #12 (
+INFO  15:25:17,166 - #49 2
+INFO  15:25:17,166 - #13 )
+INFO  15:25:17,166 - #6 ;
+INFO  15:25:17,166 - #50 k
+INFO  15:25:17,166 - #12 (
+INFO  15:25:17,167 - #13 )
+INFO  15:25:17,167 - #6 ;
+INFO  15:25:17,168 - #22 return
+INFO  15:25:17,168 - #6 ;
+ERROR 15:25:17,168 - 
+Sintaksna greska na liniji 24
+INFO  15:25:17,168 - #4 }
+INFO  15:25:17,168 - #4 }
+ERROR 15:25:17,173 - Izvrsen oporavak do ; u liniji 24
+INFO  15:25:17,188 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  VarDeclarationList(
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    VarDecl(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      MultipleVarDecls(
+        PrevMultipleVarDecl(
+         x
+          VarNotArray(
+          ) [VarNotArray]
+        ) [PrevMultipleVarDecl]
+        OneVarDeclaration(
+          PrevOneVarDecl(
+           y
+            VarNotArray(
+            ) [VarNotArray]
+          ) [PrevOneVarDecl]
+        ) [OneVarDeclaration]
+      ) [MultipleVarDecls]
+    ) [VarDecl]
+  ) [VarDeclarationList]
+  NonEmptyMethodDeclList(
+    NonEmptyMethodDeclList(
+      EmptyMethodDeclList(
+      ) [EmptyMethodDeclList]
+      MethodDecl(
+        MethodName(
+          MethodHasType(
+            Type(
+             int
+            ) [Type]
+          ) [MethodHasType]
+         k
+        ) [MethodName]
+        NoFormParams(
+        ) [NoFormParams]
+        MethodHasVars(
+          NoVarsMethod(
+          ) [NoVarsMethod]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            OneVarDeclaration(
+              PrevOneVarDecl(
+               c
+                VarNotArray(
+                ) [VarNotArray]
+              ) [PrevOneVarDecl]
+            ) [OneVarDeclaration]
+          ) [VarDecl]
+        ) [MethodHasVars]
+        Statements(
+          Statements(
+            NoStatements(
+            ) [NoStatements]
+            OneStatement(
+              Assignment(
+                DesignatorAssign(
+                  SimpleDesignator(
+                   c
+                  ) [SimpleDesignator]
+                  Assignop(
+                  ) [Assignop]
+                  SimpleExpr(
+                    Term(
+                      OneFactor(
+                        FactorNum(
+                         2
+                        ) [FactorNum]
+                      ) [OneFactor]
+                    ) [Term]
+                  ) [SimpleExpr]
+                ) [DesignatorAssign]
+              ) [Assignment]
+            ) [OneStatement]
+          ) [Statements]
+          OneStatement(
+            ReturnSt(
+              AddopExpr(
+                SimpleExpr(
+                  Term(
+                    OneFactor(
+                      SimpleFactor(
+                        SimpleDesignator(
+                         c
+                        ) [SimpleDesignator]
+                      ) [SimpleFactor]
+                    ) [OneFactor]
+                  ) [Term]
+                ) [SimpleExpr]
+                AddopPl(
+                ) [AddopPl]
+                Term(
+                  OneFactor(
+                    FactorNum(
+                     2
+                    ) [FactorNum]
+                  ) [OneFactor]
+                ) [Term]
+              ) [AddopExpr]
+            ) [ReturnSt]
+          ) [OneStatement]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [NonEmptyMethodDeclList]
+    MethodDecl(
+      MethodName(
+        MethodVoid(
+        ) [MethodVoid]
+       main
+      ) [MethodName]
+      NoFormParams(
+      ) [NoFormParams]
+      NoVarsMethod(
+      ) [NoVarsMethod]
+      Statements(
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    NoStatements(
+                    ) [NoStatements]
+                    OneStatement(
+                      PrintSt(
+                        SimpleExpr(
+                          Term(
+                            OneFactor(
+                              FactorNum(
+                               1
+                              ) [FactorNum]
+                            ) [OneFactor]
+                          ) [Term]
+                        ) [SimpleExpr]
+                      ) [PrintSt]
+                    ) [OneStatement]
+                  ) [Statements]
+                  OneStatement(
+                    PrintSt(
+                      SimpleExpr(
+                        Term(
+                          OneFactor(
+                            SimpleFactor(
+                              SimpleDesignator(
+                               x
+                              ) [SimpleDesignator]
+                            ) [SimpleFactor]
+                          ) [OneFactor]
+                        ) [Term]
+                      ) [SimpleExpr]
+                    ) [PrintSt]
+                  ) [OneStatement]
+                ) [Statements]
+                OneStatement(
+                  PrintSt(
+                    SimpleExpr(
+                      Term(
+                        OneFactor(
+                          FactorChar(
+                           w
+                          ) [FactorChar]
+                        ) [OneFactor]
+                      ) [Term]
+                    ) [SimpleExpr]
+                  ) [PrintSt]
+                ) [OneStatement]
+              ) [Statements]
+              OneStatement(
+                Assignment(
+                  DesignatorAssign(
+                    SimpleDesignator(
+                     x
+                    ) [SimpleDesignator]
+                    Assignop(
+                    ) [Assignop]
+                    AddopExpr(
+                      AddopExpr(
+                        SimpleExpr(
+                          Term(
+                            OneFactor(
+                              SimpleFactor(
+                                SimpleDesignator(
+                                 y
+                                ) [SimpleDesignator]
+                              ) [SimpleFactor]
+                            ) [OneFactor]
+                          ) [Term]
+                        ) [SimpleExpr]
+                        AddopPl(
+                        ) [AddopPl]
+                        Term(
+                          OneFactor(
+                            FactorNum(
+                             5
+                            ) [FactorNum]
+                          ) [OneFactor]
+                        ) [Term]
+                      ) [AddopExpr]
+                      AddopPl(
+                      ) [AddopPl]
+                      Term(
+                        OneFactor(
+                          FactorNum(
+                           3
+                          ) [FactorNum]
+                        ) [OneFactor]
+                      ) [Term]
+                    ) [AddopExpr]
+                  ) [DesignatorAssign]
+                ) [Assignment]
+              ) [OneStatement]
+            ) [Statements]
+            OneStatement(
+              PrintSt(
+                SimpleExpr(
+                  Term(
+                    OneFactor(
+                      FactorNum(
+                       2
+                      ) [FactorNum]
+                    ) [OneFactor]
+                  ) [Term]
+                ) [SimpleExpr]
+              ) [PrintSt]
+            ) [OneStatement]
+          ) [Statements]
+          OneStatement(
+            Assignment(
+              DesignatorFunc(
+                FunctionDesignator(
+                  SimpleDesignator(
+                   k
+                  ) [SimpleDesignator]
+                ) [FunctionDesignator]
+                NoActPars(
+                ) [NoActPars]
+              ) [DesignatorFunc]
+            ) [Assignment]
+          ) [OneStatement]
+        ) [Statements]
+        OneStatement(
+          Assignment(
+            AssignError(
+            ) [AssignError]
+          ) [Assignment]
+        ) [OneStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  15:25:17,188 - ===================================
+INFO  15:25:17,192 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  15:25:17,192 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  15:25:17,192 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  15:25:17,192 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  15:25:17,192 - Pristupa se promenjivoj c na liniji 7
+INFO  15:25:17,193 - Pristupa se promenjivoj x na liniji 14
+INFO  15:25:17,193 - Pristupa se promenjivoj y na liniji 18
+INFO  15:25:17,193 - Pozvana metoda k na liniji 22
+INFO  15:25:17,193 - Main ispravno deklarisan
+INFO  15:25:17,193 - ===================================
+ERROR 15:25:17,193 - Parsiranje NIJE uspesno zavrseno!

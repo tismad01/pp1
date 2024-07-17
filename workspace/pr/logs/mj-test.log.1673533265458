@@ -1,0 +1,128 @@
+INFO  15:18:41,359 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:18:41,404 - #2 program
+INFO  15:18:41,404 - #50 MJProgram
+INFO  15:18:41,404 - #50 int
+INFO  15:18:41,405 - #50 x
+INFO  15:18:41,406 - #6 ;
+INFO  15:18:41,406 - #50 int
+INFO  15:18:41,408 - #50 y
+INFO  15:18:41,408 - #10 [
+INFO  15:18:41,408 - #9 ]
+INFO  15:18:41,408 - #6 ;
+INFO  15:18:41,408 - #5 const
+INFO  15:18:41,408 - #50 int
+INFO  15:18:41,408 - #50 jedan
+INFO  15:18:41,409 - #7 =
+INFO  15:18:41,409 - #49 1
+INFO  15:18:41,409 - #6 ;
+INFO  15:18:41,409 - #3 {
+INFO  15:18:41,410 - #50 int
+INFO  15:18:41,410 - #50 k
+INFO  15:18:41,411 - #12 (
+INFO  15:18:41,413 - #13 )
+INFO  15:18:41,413 - #50 int
+INFO  15:18:41,415 - #50 c
+INFO  15:18:41,415 - #6 ;
+INFO  15:18:41,415 - #3 {
+INFO  15:18:41,415 - #50 c
+INFO  15:18:41,416 - #7 =
+INFO  15:18:41,416 - #49 3
+INFO  15:18:41,416 - #6 ;
+INFO  15:18:41,418 - #50 x
+INFO  15:18:41,418 - #26 ++
+INFO  15:18:41,419 - #6 ;
+INFO  15:18:41,419 - #18 print
+INFO  15:18:41,419 - #12 (
+INFO  15:18:41,419 - #50 x
+INFO  15:18:41,419 - #13 )
+INFO  15:18:41,419 - #6 ;
+INFO  15:18:41,419 - #22 return
+INFO  15:18:41,420 - #50 c
+INFO  15:18:41,420 - #6 ;
+INFO  15:18:41,420 - #4 }
+INFO  15:18:41,420 - #14 void
+INFO  15:18:41,421 - #50 main
+INFO  15:18:41,422 - #12 (
+INFO  15:18:41,422 - #13 )
+INFO  15:18:41,422 - #50 int
+INFO  15:18:41,422 - #50 pom1
+INFO  15:18:41,422 - #8 ,
+INFO  15:18:41,422 - #50 pom2
+INFO  15:18:41,422 - #6 ;
+INFO  15:18:41,423 - #3 {
+INFO  15:18:41,423 - #50 y
+INFO  15:18:41,423 - #7 =
+INFO  15:18:41,423 - #31 new
+INFO  15:18:41,423 - #50 int
+INFO  15:18:41,423 - #10 [
+INFO  15:18:41,423 - #49 3
+INFO  15:18:41,423 - #9 ]
+INFO  15:18:41,423 - #6 ;
+INFO  15:18:41,424 - #18 print
+INFO  15:18:41,424 - #12 (
+INFO  15:18:41,424 - #50 jedan
+INFO  15:18:41,424 - #13 )
+INFO  15:18:41,424 - #6 ;
+INFO  15:18:41,424 - #50 y
+INFO  15:18:41,424 - #10 [
+INFO  15:18:41,425 - #49 0
+INFO  15:18:41,425 - #9 ]
+INFO  15:18:41,425 - #7 =
+INFO  15:18:41,426 - #49 99
+INFO  15:18:41,426 - #6 ;
+INFO  15:18:41,426 - #50 y
+INFO  15:18:41,426 - #10 [
+INFO  15:18:41,426 - #49 1
+INFO  15:18:41,426 - #9 ]
+INFO  15:18:41,426 - #7 =
+INFO  15:18:41,426 - #49 100
+INFO  15:18:41,427 - #6 ;
+INFO  15:18:41,427 - #50 y
+INFO  15:18:41,427 - #10 [
+INFO  15:18:41,427 - #49 2
+INFO  15:18:41,427 - #9 ]
+INFO  15:18:41,427 - #7 =
+INFO  15:18:41,427 - #49 101
+INFO  15:18:41,427 - #6 ;
+INFO  15:18:41,427 - #10 [
+INFO  15:18:41,427 - #50 pom1
+INFO  15:18:41,428 - #8 ,
+INFO  15:18:41,429 - #8 ,
+INFO  15:18:41,429 - #50 pom2
+INFO  15:18:41,429 - #9 ]
+INFO  15:18:41,429 - #7 =
+INFO  15:18:41,429 - #50 y
+INFO  15:18:41,429 - #6 ;
+INFO  15:18:41,429 - #50 y
+INFO  15:18:41,430 - #24 .
+INFO  15:18:41,430 - #19 foreach
+INFO  15:18:41,431 - #12 (
+INFO  15:18:41,431 - #50 x
+INFO  15:18:41,431 - #25 =>
+INFO  15:18:41,432 - #18 print
+INFO  15:18:41,433 - #12 (
+INFO  15:18:41,433 - #50 x
+INFO  15:18:41,433 - #13 )
+INFO  15:18:41,433 - #6 ;
+INFO  15:18:41,433 - #13 )
+INFO  15:18:41,433 - #6 ;
+INFO  15:18:41,434 - #22 return
+INFO  15:18:41,434 - #6 ;
+INFO  15:18:41,434 - #4 }
+INFO  15:18:41,434 - #4 }
+INFO  15:18:41,443 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  15:18:41,443 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  15:18:41,443 - Kreirana je konstanta jedan na liniji 3
+INFO  15:18:41,443 - Deklarisana globalna funkcija sa imenom k na liniji 6
+INFO  15:18:41,443 - Kreirana lokalna promenljiva sa imenom c na liniji 6
+INFO  15:18:41,443 - Pristupa se promenjivoj x na liniji 10
+INFO  15:18:41,443 - Pristupa se promenjivoj c na liniji 12
+INFO  15:18:41,444 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 15
+INFO  15:18:41,444 - Kreirana lokalna promenljiva sa imenom pom2 na liniji 15
+INFO  15:18:41,444 - Pristupa se elementu niza y na liniji 21
+INFO  15:18:41,444 - Pristupa se elementu niza y na liniji 22
+INFO  15:18:41,444 - Pristupa se elementu niza y na liniji 23
+INFO  15:18:41,444 - Pristupa se promenjivoj x na liniji 27
+INFO  15:18:41,444 - Main ispravno deklarisan
+INFO  15:18:41,445 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:18:41,451 - Parsiranje uspesno zavrseno!

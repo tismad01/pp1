@@ -1,0 +1,55 @@
+INFO  16:16:14,770 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:16:14,807 - #2 program
+INFO  16:16:14,808 - #50 MJProgram
+INFO  16:16:14,808 - #50 int
+INFO  16:16:14,809 - #50 x
+INFO  16:16:14,809 - #8 ,
+INFO  16:16:14,810 - #50 y
+INFO  16:16:14,810 - #6 ;
+INFO  16:16:14,811 - #3 {
+INFO  16:16:14,812 - #50 int
+INFO  16:16:14,813 - #50 k
+INFO  16:16:14,813 - #12 (
+INFO  16:16:14,814 - #13 )
+INFO  16:16:14,814 - #50 int
+INFO  16:16:14,815 - #50 c
+INFO  16:16:14,815 - #6 ;
+INFO  16:16:14,815 - #3 {
+INFO  16:16:14,816 - #50 c
+INFO  16:16:14,816 - #7 =
+INFO  16:16:14,817 - #49 2
+INFO  16:16:14,817 - #6 ;
+INFO  16:16:14,820 - #22 return
+INFO  16:16:14,820 - #50 c
+INFO  16:16:14,820 - #38 +
+INFO  16:16:14,821 - #49 2
+INFO  16:16:14,821 - #6 ;
+INFO  16:16:14,821 - #4 }
+INFO  16:16:14,821 - #50 int
+INFO  16:16:14,822 - #50 main
+INFO  16:16:14,822 - #12 (
+INFO  16:16:14,822 - #13 )
+INFO  16:16:14,822 - #3 {
+INFO  16:16:14,822 - #18 print
+INFO  16:16:14,822 - #12 (
+INFO  16:16:14,823 - #49 1
+INFO  16:16:14,823 - #13 )
+INFO  16:16:14,823 - #6 ;
+INFO  16:16:14,823 - #18 print
+INFO  16:16:14,823 - #12 (
+INFO  16:16:14,823 - #49 2
+INFO  16:16:14,823 - #13 )
+INFO  16:16:14,823 - #6 ;
+INFO  16:16:14,823 - #22 return
+INFO  16:16:14,823 - #6 ;
+INFO  16:16:14,823 - #4 }
+INFO  16:16:14,824 - #4 }
+INFO  16:16:14,836 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  16:16:14,836 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  16:16:14,836 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  16:16:14,836 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  16:16:14,837 - Pristupa se promenjivoj c na liniji 7
+ERROR 16:16:14,837 -  GRESKA na liniji: 10. Funkcija main nema pravilan return.
+ERROR 16:16:14,837 - : void main() neispravno deklarisan.
+INFO  16:16:14,837 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:16:14,846 - Parsiranje uspesno zavrseno!

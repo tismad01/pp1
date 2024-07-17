@@ -1,0 +1,107 @@
+INFO  15:59:38,952 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:59:38,992 - #2 program
+INFO  15:59:38,992 - #50 MJProgram
+INFO  15:59:38,992 - #50 int
+INFO  15:59:38,993 - #50 x
+INFO  15:59:38,994 - #6 ;
+INFO  15:59:38,995 - #50 int
+INFO  15:59:38,995 - #50 y
+INFO  15:59:38,995 - #6 ;
+INFO  15:59:38,995 - #3 {
+INFO  15:59:38,996 - #50 int
+INFO  15:59:38,996 - #50 k
+INFO  15:59:38,996 - #12 (
+INFO  15:59:38,996 - #13 )
+INFO  15:59:38,997 - #50 int
+INFO  15:59:38,997 - #50 c
+INFO  15:59:38,997 - #6 ;
+INFO  15:59:38,998 - #3 {
+INFO  15:59:38,998 - #50 c
+INFO  15:59:38,998 - #7 =
+INFO  15:59:38,998 - #49 2
+INFO  15:59:38,999 - #6 ;
+INFO  15:59:39,000 - #18 print
+INFO  15:59:39,000 - #12 (
+INFO  15:59:39,000 - #49 0
+INFO  15:59:39,000 - #13 )
+INFO  15:59:39,000 - #6 ;
+INFO  15:59:39,000 - #22 return
+INFO  15:59:39,001 - #50 c
+INFO  15:59:39,001 - #38 +
+INFO  15:59:39,001 - #49 2
+INFO  15:59:39,002 - #6 ;
+INFO  15:59:39,003 - #4 }
+INFO  15:59:39,003 - #50 int
+INFO  15:59:39,005 - #50 main
+INFO  15:59:39,005 - #12 (
+INFO  15:59:39,005 - #13 )
+INFO  15:59:39,005 - #3 {
+INFO  15:59:39,005 - #50 x
+INFO  15:59:39,005 - #7 =
+INFO  15:59:39,005 - #49 3
+INFO  15:59:39,006 - #6 ;
+INFO  15:59:39,006 - #18 print
+INFO  15:59:39,006 - #12 (
+INFO  15:59:39,006 - #49 1
+INFO  15:59:39,006 - #13 )
+INFO  15:59:39,006 - #6 ;
+INFO  15:59:39,006 - #50 y
+INFO  15:59:39,006 - #7 =
+INFO  15:59:39,006 - #49 4
+INFO  15:59:39,006 - #38 +
+INFO  15:59:39,006 - #49 9
+INFO  15:59:39,007 - #38 +
+INFO  15:59:39,007 - #50 k
+INFO  15:59:39,007 - #12 (
+INFO  15:59:39,008 - #13 )
+INFO  15:59:39,008 - #6 ;
+INFO  15:59:39,008 - #16 while
+INFO  15:59:39,008 - #12 (
+INFO  15:59:39,008 - #50 x
+INFO  15:59:39,009 - #34 <
+INFO  15:59:39,009 - #49 5
+INFO  15:59:39,010 - #13 )
+INFO  15:59:39,011 - #3 {
+INFO  15:59:39,011 - #18 print
+INFO  15:59:39,011 - #12 (
+INFO  15:59:39,011 - #47 a
+INFO  15:59:39,012 - #6 ;
+ERROR 15:59:39,012 - 
+Sintaksna greska na liniji 21
+INFO  15:59:39,012 - #13 )
+INFO  15:59:39,012 - #50 x
+INFO  15:59:39,012 - #26 ++
+INFO  15:59:39,013 - #6 ;
+ERROR 15:59:39,013 - Izvrsen oporavak do ) u liniji 21
+INFO  15:59:39,014 - #4 }
+INFO  15:59:39,014 - #18 print
+INFO  15:59:39,014 - #12 (
+INFO  15:59:39,014 - #50 x
+INFO  15:59:39,014 - #13 )
+INFO  15:59:39,015 - #6 ;
+INFO  15:59:39,015 - #50 k
+INFO  15:59:39,015 - #12 (
+INFO  15:59:39,015 - #13 )
+INFO  15:59:39,015 - #6 ;
+INFO  15:59:39,015 - #18 print
+INFO  15:59:39,015 - #12 (
+INFO  15:59:39,015 - #50 y
+INFO  15:59:39,015 - #13 )
+INFO  15:59:39,015 - #6 ;
+INFO  15:59:39,015 - #22 return
+INFO  15:59:39,015 - #6 ;
+INFO  15:59:39,015 - #4 }
+INFO  15:59:39,016 - #4 }
+INFO  15:59:39,035 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  15:59:39,035 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  15:59:39,035 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  15:59:39,035 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  15:59:39,035 - Pristupa se promenjivoj c na liniji 10
+INFO  15:59:39,036 - Pozvana metoda k na liniji 18
+INFO  15:59:39,036 - Pristupa se promenjivoj x na liniji 20
+INFO  15:59:39,036 - Pristupa se promenjivoj x na liniji 25
+INFO  15:59:39,036 - Pozvana metoda k na liniji 27
+INFO  15:59:39,036 - Pristupa se promenjivoj y na liniji 29
+ERROR 15:59:39,036 -  GRESKA na liniji: 13. Funkcija main nema pravilan return.
+ERROR 15:59:39,036 - : void main() neispravno deklarisan.
+ERROR 15:59:39,037 - Parsiranje NIJE uspesno zavrseno!

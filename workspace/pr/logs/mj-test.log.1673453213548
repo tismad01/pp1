@@ -1,0 +1,131 @@
+INFO  17:03:42,347 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:03:42,391 - #2 program
+INFO  17:03:42,391 - #50 MJProgram
+INFO  17:03:42,391 - #50 int
+INFO  17:03:42,392 - #50 x
+INFO  17:03:42,392 - #6 ;
+INFO  17:03:42,393 - #50 int
+INFO  17:03:42,394 - #50 y
+INFO  17:03:42,394 - #10 [
+INFO  17:03:42,394 - #9 ]
+INFO  17:03:42,394 - #6 ;
+INFO  17:03:42,394 - #3 {
+INFO  17:03:42,394 - #50 int
+INFO  17:03:42,395 - #50 k
+INFO  17:03:42,395 - #12 (
+INFO  17:03:42,395 - #13 )
+INFO  17:03:42,395 - #50 int
+INFO  17:03:42,396 - #50 c
+INFO  17:03:42,396 - #6 ;
+INFO  17:03:42,396 - #3 {
+INFO  17:03:42,396 - #50 c
+INFO  17:03:42,398 - #7 =
+INFO  17:03:42,398 - #49 3
+INFO  17:03:42,399 - #6 ;
+INFO  17:03:42,400 - #50 x
+INFO  17:03:42,400 - #26 ++
+INFO  17:03:42,400 - #6 ;
+INFO  17:03:42,400 - #18 print
+INFO  17:03:42,400 - #12 (
+INFO  17:03:42,400 - #50 x
+INFO  17:03:42,401 - #13 )
+INFO  17:03:42,401 - #6 ;
+INFO  17:03:42,401 - #22 return
+INFO  17:03:42,401 - #50 c
+INFO  17:03:42,401 - #6 ;
+INFO  17:03:42,401 - #4 }
+INFO  17:03:42,401 - #14 void
+INFO  17:03:42,402 - #50 main
+INFO  17:03:42,403 - #12 (
+INFO  17:03:42,403 - #13 )
+INFO  17:03:42,403 - #50 int
+INFO  17:03:42,403 - #50 pom1
+INFO  17:03:42,403 - #8 ,
+INFO  17:03:42,403 - #50 pom2
+INFO  17:03:42,403 - #6 ;
+INFO  17:03:42,403 - #3 {
+INFO  17:03:42,403 - #50 y
+INFO  17:03:42,403 - #7 =
+INFO  17:03:42,403 - #31 new
+INFO  17:03:42,403 - #50 int
+INFO  17:03:42,403 - #10 [
+INFO  17:03:42,404 - #49 3
+INFO  17:03:42,404 - #9 ]
+INFO  17:03:42,404 - #6 ;
+INFO  17:03:42,404 - #50 pom1
+INFO  17:03:42,404 - #7 =
+INFO  17:03:42,404 - #49 1
+INFO  17:03:42,404 - #6 ;
+INFO  17:03:42,404 - #50 pom2
+INFO  17:03:42,404 - #7 =
+INFO  17:03:42,404 - #49 2
+INFO  17:03:42,404 - #6 ;
+INFO  17:03:42,404 - #50 y
+INFO  17:03:42,404 - #10 [
+INFO  17:03:42,405 - #49 1
+INFO  17:03:42,405 - #9 ]
+INFO  17:03:42,405 - #7 =
+INFO  17:03:42,405 - #49 100
+INFO  17:03:42,405 - #6 ;
+INFO  17:03:42,405 - #50 y
+INFO  17:03:42,406 - #10 [
+INFO  17:03:42,406 - #49 2
+INFO  17:03:42,406 - #9 ]
+INFO  17:03:42,406 - #7 =
+INFO  17:03:42,406 - #49 101
+INFO  17:03:42,406 - #6 ;
+INFO  17:03:42,406 - #10 [
+INFO  17:03:42,406 - #50 pom1
+INFO  17:03:42,406 - #8 ,
+INFO  17:03:42,406 - #8 ,
+INFO  17:03:42,407 - #8 ,
+INFO  17:03:42,407 - #50 pom2
+INFO  17:03:42,407 - #9 ]
+INFO  17:03:42,407 - #7 =
+INFO  17:03:42,407 - #50 y
+INFO  17:03:42,407 - #6 ;
+INFO  17:03:42,407 - #18 print
+INFO  17:03:42,408 - #12 (
+INFO  17:03:42,408 - #50 y
+INFO  17:03:42,408 - #10 [
+INFO  17:03:42,408 - #49 0
+INFO  17:03:42,408 - #9 ]
+INFO  17:03:42,408 - #13 )
+INFO  17:03:42,408 - #6 ;
+INFO  17:03:42,408 - #18 print
+INFO  17:03:42,408 - #12 (
+INFO  17:03:42,408 - #50 y
+INFO  17:03:42,408 - #10 [
+INFO  17:03:42,408 - #49 1
+INFO  17:03:42,408 - #9 ]
+INFO  17:03:42,408 - #13 )
+INFO  17:03:42,408 - #6 ;
+INFO  17:03:42,408 - #18 print
+INFO  17:03:42,408 - #12 (
+INFO  17:03:42,408 - #50 y
+INFO  17:03:42,408 - #10 [
+INFO  17:03:42,409 - #49 2
+INFO  17:03:42,409 - #9 ]
+INFO  17:03:42,409 - #13 )
+INFO  17:03:42,409 - #6 ;
+INFO  17:03:42,409 - #22 return
+INFO  17:03:42,409 - #6 ;
+INFO  17:03:42,409 - #4 }
+INFO  17:03:42,409 - #4 }
+INFO  17:03:42,417 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  17:03:42,417 - Kreirana globalna promenljiva sa imenom y[] na liniji 2
+INFO  17:03:42,417 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  17:03:42,418 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  17:03:42,418 - Pristupa se promenjivoj x na liniji 9
+INFO  17:03:42,418 - Pristupa se promenjivoj c na liniji 11
+INFO  17:03:42,419 - Kreirana lokalna promenljiva sa imenom pom1 na liniji 14
+INFO  17:03:42,419 - Kreirana lokalna promenljiva sa imenom pom2 na liniji 14
+INFO  17:03:42,419 - Pristupa se elementu niza y na liniji 21
+INFO  17:03:42,419 - Pristupa se elementu niza y na liniji 22
+ERROR 17:03:42,419 -  GRESKA na liniji: 24. Nekompatibilna dodela. 
+INFO  17:03:42,419 - Pristupa se elementu niza y na liniji 26
+INFO  17:03:42,420 - Pristupa se elementu niza y na liniji 27
+INFO  17:03:42,420 - Pristupa se elementu niza y na liniji 28
+INFO  17:03:42,420 - Main ispravno deklarisan
+INFO  17:03:42,421 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:03:42,429 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,74 @@
+INFO  16:31:30,935 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:31:30,976 - #2 program
+INFO  16:31:30,976 - #50 MJProgram
+INFO  16:31:30,976 - #50 int
+INFO  16:31:30,977 - #50 x
+INFO  16:31:30,978 - #6 ;
+INFO  16:31:30,978 - #50 int
+INFO  16:31:30,979 - #50 y
+INFO  16:31:30,979 - #6 ;
+INFO  16:31:30,979 - #3 {
+INFO  16:31:30,979 - #50 int
+INFO  16:31:30,980 - #50 k
+INFO  16:31:30,980 - #12 (
+INFO  16:31:30,981 - #13 )
+INFO  16:31:30,981 - #50 int
+INFO  16:31:30,982 - #50 c
+INFO  16:31:30,982 - #6 ;
+INFO  16:31:30,982 - #3 {
+INFO  16:31:30,982 - #50 c
+INFO  16:31:30,982 - #7 =
+INFO  16:31:30,983 - #49 2
+INFO  16:31:30,985 - #6 ;
+INFO  16:31:30,986 - #18 print
+INFO  16:31:30,986 - #12 (
+INFO  16:31:30,986 - #49 0
+INFO  16:31:30,987 - #13 )
+INFO  16:31:30,987 - #6 ;
+INFO  16:31:30,987 - #22 return
+INFO  16:31:30,987 - #50 c
+INFO  16:31:30,987 - #38 +
+INFO  16:31:30,987 - #49 2
+INFO  16:31:30,988 - #6 ;
+INFO  16:31:30,988 - #4 }
+INFO  16:31:30,988 - #14 void
+INFO  16:31:30,989 - #50 main
+INFO  16:31:30,989 - #12 (
+INFO  16:31:30,989 - #13 )
+INFO  16:31:30,989 - #3 {
+INFO  16:31:30,989 - #50 x
+INFO  16:31:30,989 - #7 =
+INFO  16:31:30,989 - #49 2
+INFO  16:31:30,989 - #6 ;
+INFO  16:31:30,989 - #16 while
+INFO  16:31:30,989 - #12 (
+INFO  16:31:30,990 - #50 x
+INFO  16:31:30,990 - #34 <
+INFO  16:31:30,990 - #49 5
+INFO  16:31:30,991 - #13 )
+INFO  16:31:30,991 - #3 {
+INFO  16:31:30,992 - #18 print
+INFO  16:31:30,992 - #12 (
+INFO  16:31:30,992 - #50 x
+INFO  16:31:30,992 - #13 )
+INFO  16:31:30,992 - #6 ;
+INFO  16:31:30,992 - #50 x
+INFO  16:31:30,992 - #26 ++
+INFO  16:31:30,992 - #6 ;
+INFO  16:31:30,992 - #17 break
+INFO  16:31:30,992 - #6 ;
+INFO  16:31:30,992 - #4 }
+INFO  16:31:30,993 - #22 return
+INFO  16:31:30,993 - #6 ;
+INFO  16:31:30,993 - #4 }
+INFO  16:31:30,994 - #4 }
+INFO  16:31:31,004 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  16:31:31,004 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  16:31:31,004 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  16:31:31,004 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  16:31:31,008 - Pristupa se promenjivoj c na liniji 10
+INFO  16:31:31,008 - Pristupa se promenjivoj x na liniji 16
+INFO  16:31:31,008 - Pristupa se promenjivoj x na liniji 17
+INFO  16:31:31,008 - Main ispravno deklarisan
+INFO  16:31:31,009 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  16:31:31,062 - Parsiranje uspesno zavrseno!

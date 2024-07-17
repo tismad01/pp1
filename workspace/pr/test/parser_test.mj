@@ -1,0 +1,46 @@
+program MJProgram
+	int x, ;
+	const char c, x;
+	
+	class A {
+		char c[];
+		{ void methodA () { print(c); } }
+	}
+	
+	class B extends A {
+		A a;
+		{ void methodB () { print (a.c[b]); } }
+	}
+	
+{
+	
+	void main(int a, char) {
+	
+		print(1);
+		
+		print(2);
+		
+		x = y + ;
+		
+	}
+	
+	
+	boolean b() int x; int y; {
+		if (x > ) {
+			return true;	
+		}
+		else {
+			return false;
+		}
+	}
+	
+	char c(char a) int num[]; {
+		while (a != null) {
+			read(a);
+			num[1]++;
+			}	
+			
+		num.foreach(x => print(x););
+	}
+}
+

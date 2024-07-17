@@ -1,0 +1,354 @@
+INFO  20:41:34,870 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  20:41:34,953 - #2 program
+INFO  20:41:34,953 - #50 test301
+INFO  20:41:34,953 - #5 const
+INFO  20:41:34,955 - #50 int
+INFO  20:41:34,955 - #50 nula
+INFO  20:41:34,956 - #7 =
+INFO  20:41:34,957 - #49 0
+INFO  20:41:34,957 - #6 ;
+INFO  20:41:34,959 - #5 const
+INFO  20:41:34,959 - #50 int
+INFO  20:41:34,960 - #50 jedan
+INFO  20:41:34,960 - #7 =
+INFO  20:41:34,960 - #49 1
+INFO  20:41:34,960 - #6 ;
+INFO  20:41:34,960 - #5 const
+INFO  20:41:34,960 - #50 int
+INFO  20:41:34,960 - #50 pet
+INFO  20:41:34,960 - #7 =
+INFO  20:41:34,960 - #49 5
+INFO  20:41:34,961 - #6 ;
+INFO  20:41:34,961 - #50 int
+INFO  20:41:34,961 - #50 niz
+INFO  20:41:34,962 - #10 [
+INFO  20:41:34,962 - #9 ]
+INFO  20:41:34,962 - #8 ,
+INFO  20:41:34,963 - #50 niz2
+INFO  20:41:34,964 - #10 [
+INFO  20:41:34,964 - #9 ]
+INFO  20:41:34,964 - #8 ,
+INFO  20:41:34,964 - #50 a
+INFO  20:41:34,964 - #8 ,
+INFO  20:41:34,965 - #50 b
+INFO  20:41:34,965 - #6 ;
+INFO  20:41:34,965 - #50 char
+INFO  20:41:34,967 - #50 nizch
+INFO  20:41:34,967 - #10 [
+INFO  20:41:34,967 - #9 ]
+INFO  20:41:34,967 - #6 ;
+INFO  20:41:34,967 - #3 {
+INFO  20:41:34,967 - #14 void
+INFO  20:41:34,968 - #50 main
+INFO  20:41:34,970 - #12 (
+INFO  20:41:34,971 - #13 )
+INFO  20:41:34,971 - #50 int
+INFO  20:41:34,972 - #50 bodovi
+INFO  20:41:34,972 - #6 ;
+INFO  20:41:34,972 - #50 boolean
+INFO  20:41:34,973 - #50 bt
+INFO  20:41:34,973 - #6 ;
+INFO  20:41:34,973 - #3 {
+INFO  20:41:34,973 - #50 bodovi
+INFO  20:41:34,974 - #7 =
+INFO  20:41:34,974 - #49 0
+INFO  20:41:34,974 - #6 ;
+INFO  20:41:34,975 - #50 bodovi
+INFO  20:41:34,976 - #26 ++
+INFO  20:41:34,976 - #6 ;
+INFO  20:41:34,976 - #50 bodovi
+INFO  20:41:34,976 - #7 =
+INFO  20:41:34,976 - #50 bodovi
+INFO  20:41:34,976 - #38 +
+INFO  20:41:34,977 - #50 jedan
+INFO  20:41:34,978 - #6 ;
+INFO  20:41:34,978 - #50 bodovi
+INFO  20:41:34,978 - #7 =
+INFO  20:41:34,978 - #50 bodovi
+INFO  20:41:34,978 - #39 *
+INFO  20:41:34,978 - #50 pet
+INFO  20:41:34,985 - #6 ;
+INFO  20:41:34,986 - #50 bodovi
+INFO  20:41:34,986 - #27 --
+INFO  20:41:34,986 - #6 ;
+INFO  20:41:34,986 - #18 print
+INFO  20:41:34,986 - #12 (
+INFO  20:41:34,986 - #50 bodovi
+INFO  20:41:34,987 - #13 )
+INFO  20:41:34,987 - #6 ;
+INFO  20:41:34,987 - #50 niz
+INFO  20:41:34,987 - #7 =
+INFO  20:41:34,987 - #31 new
+INFO  20:41:34,987 - #50 int
+INFO  20:41:34,987 - #10 [
+INFO  20:41:34,987 - #49 3
+INFO  20:41:34,987 - #9 ]
+INFO  20:41:34,987 - #6 ;
+INFO  20:41:34,988 - #50 niz
+INFO  20:41:34,988 - #10 [
+INFO  20:41:34,988 - #50 nula
+INFO  20:41:34,988 - #9 ]
+INFO  20:41:34,989 - #7 =
+INFO  20:41:34,989 - #50 jedan
+INFO  20:41:34,989 - #6 ;
+INFO  20:41:34,989 - #50 niz
+INFO  20:41:34,989 - #10 [
+INFO  20:41:34,989 - #49 1
+INFO  20:41:34,989 - #9 ]
+INFO  20:41:34,989 - #7 =
+INFO  20:41:34,990 - #49 2
+INFO  20:41:34,990 - #6 ;
+INFO  20:41:34,990 - #50 niz
+INFO  20:41:34,990 - #10 [
+INFO  20:41:34,990 - #50 niz
+INFO  20:41:34,990 - #10 [
+INFO  20:41:34,990 - #50 jedan
+INFO  20:41:34,990 - #9 ]
+INFO  20:41:34,990 - #9 ]
+INFO  20:41:34,990 - #7 =
+INFO  20:41:34,990 - #50 niz
+INFO  20:41:34,990 - #10 [
+INFO  20:41:34,990 - #50 niz
+INFO  20:41:34,990 - #10 [
+INFO  20:41:34,991 - #49 0
+INFO  20:41:34,991 - #9 ]
+INFO  20:41:34,991 - #9 ]
+INFO  20:41:34,991 - #39 *
+INFO  20:41:34,991 - #49 3
+INFO  20:41:34,991 - #6 ;
+INFO  20:41:34,991 - #50 bodovi
+INFO  20:41:34,991 - #7 =
+INFO  20:41:34,991 - #50 niz
+INFO  20:41:34,991 - #10 [
+INFO  20:41:34,991 - #49 2
+INFO  20:41:34,992 - #9 ]
+INFO  20:41:34,992 - #40 /
+INFO  20:41:34,992 - #50 niz
+INFO  20:41:34,992 - #10 [
+INFO  20:41:34,993 - #49 0
+INFO  20:41:34,993 - #9 ]
+INFO  20:41:34,993 - #6 ;
+INFO  20:41:34,993 - #18 print
+INFO  20:41:34,993 - #12 (
+INFO  20:41:34,993 - #50 bodovi
+INFO  20:41:34,993 - #13 )
+INFO  20:41:34,993 - #6 ;
+INFO  20:41:34,994 - #18 print
+INFO  20:41:34,994 - #12 (
+INFO  20:41:34,994 - #50 niz
+INFO  20:41:34,994 - #10 [
+INFO  20:41:34,994 - #49 2
+INFO  20:41:34,994 - #9 ]
+INFO  20:41:34,994 - #13 )
+INFO  20:41:34,994 - #6 ;
+INFO  20:41:34,994 - #10 [
+INFO  20:41:34,994 - #50 a
+INFO  20:41:34,994 - #8 ,
+INFO  20:41:34,995 - #50 b
+INFO  20:41:34,995 - #9 ]
+INFO  20:41:34,995 - #7 =
+INFO  20:41:34,995 - #50 niz
+INFO  20:41:34,995 - #6 ;
+INFO  20:41:34,995 - #18 print
+INFO  20:41:34,996 - #12 (
+INFO  20:41:34,996 - #50 a
+INFO  20:41:34,996 - #13 )
+INFO  20:41:34,996 - #6 ;
+INFO  20:41:34,996 - #18 print
+INFO  20:41:34,996 - #12 (
+INFO  20:41:34,996 - #50 b
+INFO  20:41:34,996 - #13 )
+INFO  20:41:34,996 - #6 ;
+INFO  20:41:34,996 - #10 [
+INFO  20:41:34,996 - #8 ,
+ERROR 20:41:34,996 - 
+Sintaksna greska na liniji 39
+INFO  20:41:34,996 - #50 a
+INFO  20:41:34,997 - #8 ,
+INFO  20:41:34,997 - #9 ]
+INFO  20:41:34,998 - #7 =
+INFO  20:41:34,998 - #50 niz
+INFO  20:41:34,998 - #6 ;
+INFO  20:41:34,998 - #18 print
+INFO  20:41:34,998 - #12 (
+INFO  20:41:34,998 - #50 a
+ERROR 20:41:34,998 - Izvrsen oporavak do ; u liniji 39
+INFO  20:41:34,999 - #13 )
+INFO  20:41:34,999 - #6 ;
+INFO  20:41:34,999 - #50 niz2
+INFO  20:41:34,999 - #7 =
+INFO  20:41:34,999 - #31 new
+INFO  20:41:34,999 - #50 int
+INFO  20:41:35,000 - #10 [
+INFO  20:41:35,000 - #49 2
+INFO  20:41:35,000 - #9 ]
+INFO  20:41:35,000 - #6 ;
+INFO  20:41:35,000 - #10 [
+INFO  20:41:35,001 - #50 niz2
+INFO  20:41:35,001 - #10 [
+INFO  20:41:35,001 - #49 0
+INFO  20:41:35,002 - #9 ]
+INFO  20:41:35,002 - #8 ,
+INFO  20:41:35,002 - #8 ,
+INFO  20:41:35,004 - #50 niz2
+INFO  20:41:35,004 - #10 [
+INFO  20:41:35,004 - #50 niz
+INFO  20:41:35,005 - #10 [
+INFO  20:41:35,005 - #50 nula
+INFO  20:41:35,005 - #9 ]
+INFO  20:41:35,005 - #9 ]
+INFO  20:41:35,005 - #9 ]
+INFO  20:41:35,005 - #7 =
+INFO  20:41:35,005 - #50 niz
+INFO  20:41:35,005 - #6 ;
+INFO  20:41:35,005 - #18 print
+INFO  20:41:35,005 - #12 (
+INFO  20:41:35,005 - #50 niz2
+INFO  20:41:35,005 - #10 [
+INFO  20:41:35,005 - #49 0
+INFO  20:41:35,005 - #9 ]
+INFO  20:41:35,005 - #13 )
+INFO  20:41:35,006 - #6 ;
+INFO  20:41:35,006 - #18 print
+INFO  20:41:35,006 - #12 (
+INFO  20:41:35,006 - #50 niz2
+INFO  20:41:35,006 - #10 [
+INFO  20:41:35,006 - #49 1
+INFO  20:41:35,006 - #9 ]
+INFO  20:41:35,006 - #13 )
+INFO  20:41:35,006 - #6 ;
+INFO  20:41:35,006 - #50 nizch
+INFO  20:41:35,006 - #7 =
+INFO  20:41:35,006 - #31 new
+INFO  20:41:35,006 - #50 char
+INFO  20:41:35,006 - #10 [
+INFO  20:41:35,006 - #49 3
+INFO  20:41:35,006 - #9 ]
+INFO  20:41:35,006 - #6 ;
+INFO  20:41:35,006 - #50 nizch
+INFO  20:41:35,006 - #10 [
+INFO  20:41:35,007 - #49 0
+INFO  20:41:35,007 - #9 ]
+INFO  20:41:35,007 - #7 =
+INFO  20:41:35,007 - #47 a
+INFO  20:41:35,007 - #6 ;
+INFO  20:41:35,007 - #50 nizch
+INFO  20:41:35,007 - #10 [
+INFO  20:41:35,007 - #50 jedan
+INFO  20:41:35,007 - #9 ]
+INFO  20:41:35,007 - #7 =
+INFO  20:41:35,007 - #47 b
+INFO  20:41:35,008 - #6 ;
+INFO  20:41:35,008 - #50 nizch
+INFO  20:41:35,008 - #10 [
+INFO  20:41:35,008 - #50 pet
+INFO  20:41:35,008 - #30 -
+INFO  20:41:35,008 - #49 3
+INFO  20:41:35,009 - #9 ]
+INFO  20:41:35,009 - #7 =
+INFO  20:41:35,009 - #47 c
+INFO  20:41:35,009 - #6 ;
+INFO  20:41:35,009 - #18 print
+INFO  20:41:35,009 - #12 (
+INFO  20:41:35,009 - #50 nizch
+INFO  20:41:35,009 - #10 [
+INFO  20:41:35,009 - #49 1
+INFO  20:41:35,009 - #9 ]
+INFO  20:41:35,009 - #13 )
+INFO  20:41:35,010 - #6 ;
+INFO  20:41:35,010 - #18 print
+INFO  20:41:35,010 - #12 (
+INFO  20:41:35,010 - #50 nizch
+INFO  20:41:35,010 - #10 [
+INFO  20:41:35,010 - #50 jedan
+INFO  20:41:35,010 - #39 *
+INFO  20:41:35,010 - #49 2
+INFO  20:41:35,010 - #9 ]
+INFO  20:41:35,011 - #13 )
+INFO  20:41:35,011 - #6 ;
+INFO  20:41:35,011 - #23 read
+INFO  20:41:35,011 - #12 (
+INFO  20:41:35,011 - #50 bodovi
+INFO  20:41:35,011 - #13 )
+INFO  20:41:35,011 - #6 ;
+INFO  20:41:35,011 - #50 bodovi
+INFO  20:41:35,011 - #7 =
+INFO  20:41:35,011 - #30 -
+INFO  20:41:35,011 - #50 bodovi
+INFO  20:41:35,011 - #38 +
+INFO  20:41:35,017 - #12 (
+INFO  20:41:35,018 - #50 pet
+INFO  20:41:35,018 - #39 *
+INFO  20:41:35,018 - #50 a
+INFO  20:41:35,018 - #40 /
+INFO  20:41:35,018 - #49 2
+INFO  20:41:35,018 - #30 -
+INFO  20:41:35,018 - #50 jedan
+INFO  20:41:35,018 - #13 )
+INFO  20:41:35,018 - #39 *
+INFO  20:41:35,018 - #50 bodovi
+INFO  20:41:35,018 - #30 -
+INFO  20:41:35,019 - #12 (
+INFO  20:41:35,019 - #49 3
+INFO  20:41:35,019 - #41 %
+INFO  20:41:35,019 - #49 2
+INFO  20:41:35,020 - #38 +
+INFO  20:41:35,020 - #49 3
+INFO  20:41:35,020 - #39 *
+INFO  20:41:35,020 - #49 2
+INFO  20:41:35,020 - #30 -
+INFO  20:41:35,020 - #49 3
+INFO  20:41:35,020 - #13 )
+INFO  20:41:35,020 - #6 ;
+INFO  20:41:35,020 - #18 print
+INFO  20:41:35,020 - #12 (
+INFO  20:41:35,020 - #50 bodovi
+INFO  20:41:35,020 - #13 )
+INFO  20:41:35,020 - #6 ;
+INFO  20:41:35,020 - #4 }
+INFO  20:41:35,021 - #4 }
+INFO  20:41:35,036 - Kreirana je konstanta nula na liniji 5
+INFO  20:41:35,037 - Kreirana je konstanta jedan na liniji 6
+INFO  20:41:35,037 - Kreirana je konstanta pet na liniji 7
+INFO  20:41:35,037 - Kreirana globalna promenljiva sa imenom niz[] na liniji 9
+INFO  20:41:35,037 - Kreirana globalna promenljiva sa imenom niz2[] na liniji 9
+INFO  20:41:35,037 - Kreirana globalna promenljiva sa imenom a na liniji 9
+INFO  20:41:35,038 - Kreirana globalna promenljiva sa imenom b na liniji 9
+INFO  20:41:35,038 - Kreirana globalna promenljiva sa imenom nizch[] na liniji 10
+INFO  20:41:35,038 - Kreirana lokalna promenljiva sa imenom bodovi na liniji 14
+ERROR 20:41:35,038 -  GRESKA na liniji: 15. Nije pronadjen tip boolean u tabeli simbola! 
+INFO  20:41:35,038 - Kreirana lokalna promenljiva sa imenom bt na liniji 15
+INFO  20:41:35,038 - Pristupa se promenjivoj bodovi na liniji 19
+INFO  20:41:35,038 - Pristupa se promenjivoj bodovi na liniji 20
+INFO  20:41:35,038 - Pristupa se promenjivoj bodovi na liniji 22
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 26
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 27
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 28
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 28
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 28
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 28
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 29
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 29
+INFO  20:41:35,039 - Pristupa se promenjivoj bodovi na liniji 30
+INFO  20:41:35,039 - Pristupa se elementu niza niz na liniji 31
+ERROR 20:41:35,039 -  GRESKA na liniji: 34. Nekompatibilna dodela. 
+INFO  20:41:35,039 - Pristupa se promenjivoj a na liniji 35
+INFO  20:41:35,039 - Pristupa se promenjivoj b na liniji 36
+INFO  20:41:35,040 - Pristupa se promenjivoj a na liniji 40
+INFO  20:41:35,040 - Pristupa se elementu niza niz2 na liniji 43
+INFO  20:41:35,040 - Pristupa se elementu niza niz na liniji 43
+INFO  20:41:35,040 - Pristupa se elementu niza niz2 na liniji 43
+ERROR 20:41:35,040 -  GRESKA na liniji: 43. Nekompatibilna dodela. 
+INFO  20:41:35,040 - Pristupa se elementu niza niz2 na liniji 45
+INFO  20:41:35,040 - Pristupa se elementu niza niz2 na liniji 46
+INFO  20:41:35,040 - Pristupa se elementu niza nizch na liniji 51
+INFO  20:41:35,040 - Pristupa se elementu niza nizch na liniji 52
+INFO  20:41:35,040 - Pristupa se elementu niza nizch na liniji 53
+INFO  20:41:35,040 - Pristupa se elementu niza nizch na liniji 54
+INFO  20:41:35,040 - Pristupa se elementu niza nizch na liniji 55
+INFO  20:41:35,040 - Pristupa se promenjivoj bodovi na liniji 59
+INFO  20:41:35,041 - Pristupa se promenjivoj a na liniji 59
+INFO  20:41:35,041 - Pristupa se promenjivoj bodovi na liniji 59
+INFO  20:41:35,041 - Pristupa se promenjivoj bodovi na liniji 60
+INFO  20:41:35,041 - Main ispravno deklarisan
+ERROR 20:41:35,042 - Parsiranje NIJE uspesno zavrseno!

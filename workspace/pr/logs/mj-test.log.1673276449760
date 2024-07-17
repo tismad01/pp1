@@ -1,0 +1,106 @@
+INFO  16:00:00,559 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:00:00,601 - #2 program
+INFO  16:00:00,601 - #50 MJProgram
+INFO  16:00:00,601 - #50 int
+INFO  16:00:00,602 - #50 x
+INFO  16:00:00,603 - #6 ;
+INFO  16:00:00,603 - #50 int
+INFO  16:00:00,604 - #50 y
+INFO  16:00:00,604 - #6 ;
+INFO  16:00:00,604 - #3 {
+INFO  16:00:00,604 - #50 int
+INFO  16:00:00,605 - #50 k
+INFO  16:00:00,605 - #12 (
+INFO  16:00:00,606 - #13 )
+INFO  16:00:00,606 - #50 int
+INFO  16:00:00,606 - #50 c
+INFO  16:00:00,606 - #6 ;
+INFO  16:00:00,606 - #3 {
+INFO  16:00:00,607 - #50 c
+INFO  16:00:00,607 - #7 =
+INFO  16:00:00,607 - #49 2
+INFO  16:00:00,609 - #6 ;
+INFO  16:00:00,610 - #18 print
+INFO  16:00:00,610 - #12 (
+INFO  16:00:00,610 - #49 0
+INFO  16:00:00,610 - #13 )
+INFO  16:00:00,610 - #6 ;
+INFO  16:00:00,610 - #22 return
+INFO  16:00:00,610 - #50 c
+INFO  16:00:00,610 - #38 +
+INFO  16:00:00,611 - #49 2
+INFO  16:00:00,611 - #6 ;
+INFO  16:00:00,611 - #4 }
+INFO  16:00:00,611 - #14 void
+INFO  16:00:00,612 - #50 main
+INFO  16:00:00,612 - #12 (
+INFO  16:00:00,612 - #13 )
+INFO  16:00:00,613 - #3 {
+INFO  16:00:00,613 - #50 x
+INFO  16:00:00,613 - #7 =
+INFO  16:00:00,613 - #49 3
+INFO  16:00:00,613 - #6 ;
+INFO  16:00:00,613 - #18 print
+INFO  16:00:00,613 - #12 (
+INFO  16:00:00,613 - #49 1
+INFO  16:00:00,613 - #13 )
+INFO  16:00:00,613 - #6 ;
+INFO  16:00:00,613 - #50 y
+INFO  16:00:00,613 - #7 =
+INFO  16:00:00,613 - #49 4
+INFO  16:00:00,613 - #38 +
+INFO  16:00:00,613 - #49 9
+INFO  16:00:00,613 - #38 +
+INFO  16:00:00,614 - #50 k
+INFO  16:00:00,614 - #12 (
+INFO  16:00:00,615 - #13 )
+INFO  16:00:00,615 - #6 ;
+INFO  16:00:00,616 - #16 while
+INFO  16:00:00,616 - #12 (
+INFO  16:00:00,616 - #50 x
+INFO  16:00:00,616 - #34 <
+INFO  16:00:00,617 - #49 5
+INFO  16:00:00,617 - #13 )
+INFO  16:00:00,619 - #3 {
+INFO  16:00:00,620 - #18 print
+INFO  16:00:00,620 - #12 (
+INFO  16:00:00,620 - #47 a
+INFO  16:00:00,620 - #6 ;
+ERROR 16:00:00,620 - 
+Sintaksna greska na liniji 21
+INFO  16:00:00,625 - #13 )
+INFO  16:00:00,625 - #50 x
+INFO  16:00:00,625 - #26 ++
+INFO  16:00:00,626 - #6 ;
+ERROR 16:00:00,626 - Izvrsen oporavak do ) u liniji 21
+INFO  16:00:00,627 - #4 }
+INFO  16:00:00,627 - #18 print
+INFO  16:00:00,628 - #12 (
+INFO  16:00:00,628 - #50 x
+INFO  16:00:00,628 - #13 )
+INFO  16:00:00,628 - #6 ;
+INFO  16:00:00,628 - #50 k
+INFO  16:00:00,628 - #12 (
+INFO  16:00:00,628 - #13 )
+INFO  16:00:00,628 - #6 ;
+INFO  16:00:00,628 - #18 print
+INFO  16:00:00,628 - #12 (
+INFO  16:00:00,629 - #50 y
+INFO  16:00:00,629 - #13 )
+INFO  16:00:00,629 - #6 ;
+INFO  16:00:00,629 - #22 return
+INFO  16:00:00,629 - #6 ;
+INFO  16:00:00,629 - #4 }
+INFO  16:00:00,630 - #4 }
+INFO  16:00:00,646 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  16:00:00,646 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  16:00:00,646 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  16:00:00,646 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  16:00:00,646 - Pristupa se promenjivoj c na liniji 10
+INFO  16:00:00,647 - Pozvana metoda k na liniji 18
+INFO  16:00:00,647 - Pristupa se promenjivoj x na liniji 20
+INFO  16:00:00,647 - Pristupa se promenjivoj x na liniji 25
+INFO  16:00:00,647 - Pozvana metoda k na liniji 27
+INFO  16:00:00,647 - Pristupa se promenjivoj y na liniji 29
+INFO  16:00:00,647 - Main ispravno deklarisan
+ERROR 16:00:00,647 - Parsiranje NIJE uspesno zavrseno!

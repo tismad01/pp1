@@ -1,0 +1,83 @@
+INFO  20:29:44,900 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:29:45,007 - #2 program
+INFO  20:29:45,007 - #50 MJProgram
+INFO  20:29:45,007 - #50 int
+INFO  20:29:45,009 - #50 x
+INFO  20:29:45,010 - #6 ;
+INFO  20:29:45,012 - #50 int
+INFO  20:29:45,014 - #50 y
+INFO  20:29:45,014 - #6 ;
+INFO  20:29:45,014 - #3 {
+INFO  20:29:45,014 - #50 int
+INFO  20:29:45,015 - #50 k
+INFO  20:29:45,016 - #12 (
+INFO  20:29:45,017 - #13 )
+INFO  20:29:45,017 - #50 int
+INFO  20:29:45,020 - #50 c
+INFO  20:29:45,020 - #6 ;
+INFO  20:29:45,020 - #3 {
+INFO  20:29:45,021 - #50 c
+INFO  20:29:45,022 - #7 =
+INFO  20:29:45,022 - #49 2
+INFO  20:29:45,023 - #6 ;
+INFO  20:29:45,025 - #18 print
+INFO  20:29:45,026 - #12 (
+INFO  20:29:45,026 - #49 0
+INFO  20:29:45,026 - #13 )
+INFO  20:29:45,026 - #6 ;
+INFO  20:29:45,027 - #22 return
+INFO  20:29:45,027 - #50 c
+INFO  20:29:45,027 - #38 +
+INFO  20:29:45,027 - #49 2
+INFO  20:29:45,029 - #6 ;
+INFO  20:29:45,030 - #4 }
+INFO  20:29:45,030 - #14 void
+INFO  20:29:45,032 - #50 main
+INFO  20:29:45,033 - #12 (
+INFO  20:29:45,033 - #13 )
+INFO  20:29:45,034 - #3 {
+INFO  20:29:45,034 - #50 x
+INFO  20:29:45,034 - #7 =
+INFO  20:29:45,034 - #49 2
+INFO  20:29:45,034 - #6 ;
+INFO  20:29:45,034 - #16 while
+INFO  20:29:45,035 - #12 (
+INFO  20:29:45,036 - #50 x
+INFO  20:29:45,036 - #34 <
+INFO  20:29:45,036 - #49 5
+INFO  20:29:45,037 - #13 )
+INFO  20:29:45,038 - #3 {
+INFO  20:29:45,039 - #18 print
+INFO  20:29:45,039 - #12 (
+INFO  20:29:45,039 - #50 x
+INFO  20:29:45,039 - #13 )
+INFO  20:29:45,039 - #6 ;
+INFO  20:29:45,039 - #50 x
+INFO  20:29:45,039 - #26 ++
+INFO  20:29:45,039 - #6 ;
+INFO  20:29:45,040 - #4 }
+INFO  20:29:45,040 - #18 print
+INFO  20:29:45,041 - #12 (
+INFO  20:29:45,042 - #47 k
+INFO  20:29:45,042 - #13 )
+INFO  20:29:45,042 - #6 ;
+INFO  20:29:45,042 - #18 print
+INFO  20:29:45,043 - #12 (
+INFO  20:29:45,043 - #50 x
+INFO  20:29:45,043 - #13 )
+INFO  20:29:45,043 - #6 ;
+INFO  20:29:45,043 - #22 return
+INFO  20:29:45,043 - #6 ;
+INFO  20:29:45,044 - #4 }
+INFO  20:29:45,045 - #4 }
+INFO  20:29:45,068 - Kreirana globalna promenljiva sa imenom x na liniji 2
+INFO  20:29:45,068 - Kreirana globalna promenljiva sa imenom y na liniji 2
+INFO  20:29:45,068 - Deklarisana globalna funkcija sa imenom k na liniji 5
+INFO  20:29:45,068 - Kreirana lokalna promenljiva sa imenom c na liniji 5
+INFO  20:29:45,069 - Pristupa se promenjivoj c na liniji 10
+INFO  20:29:45,069 - Pristupa se promenjivoj x na liniji 16
+INFO  20:29:45,069 - Pristupa se promenjivoj x na liniji 17
+INFO  20:29:45,070 - Pristupa se promenjivoj x na liniji 21
+INFO  20:29:45,070 - Main ispravno deklarisan
+INFO  20:29:45,071 - Generating bytecode file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:29:45,099 - Parsiranje uspesno zavrseno!

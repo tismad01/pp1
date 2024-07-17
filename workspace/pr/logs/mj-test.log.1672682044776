@@ -1,0 +1,101 @@
+INFO  18:50:15,738 - Compiling source file: C:\Users\borot\Desktop\etf\4.god\pp1\projekat\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:50:15,828 - #2 program
+INFO  18:50:15,828 - #50 MJProgram
+INFO  18:50:15,828 - #50 int
+INFO  18:50:15,830 - #50 x
+INFO  18:50:15,832 - #8 ,
+INFO  18:50:15,834 - #50 y
+INFO  18:50:15,834 - #6 ;
+INFO  18:50:15,835 - #3 {
+INFO  18:50:15,836 - #14 void
+INFO  18:50:15,838 - #50 main
+INFO  18:50:15,839 - #12 (
+INFO  18:50:15,840 - #13 )
+INFO  18:50:15,842 - #3 {
+INFO  18:50:15,843 - #18 print
+INFO  18:50:15,844 - #12 (
+INFO  18:50:15,845 - #49 1
+INFO  18:50:15,845 - #13 )
+INFO  18:50:15,846 - #6 ;
+INFO  18:50:15,847 - #18 print
+INFO  18:50:15,847 - #12 (
+INFO  18:50:15,849 - #49 2
+INFO  18:50:15,849 - #13 )
+INFO  18:50:15,849 - #6 ;
+INFO  18:50:15,850 - #4 }
+INFO  18:50:15,850 - #4 }
+INFO  18:50:15,853 - Program(
+ MJProgram
+  VarDeclarationList(
+    NoDeclarationList(
+    ) [NoDeclarationList]
+    VarDecl(
+      VarDeclType(
+        Type(
+         int
+        ) [Type]
+      ) [VarDeclType]
+      MultipleVarDecls(
+        PrevMultipleVarDecl(
+         x
+          VarNotArray(
+          ) [VarNotArray]
+        ) [PrevMultipleVarDecl]
+        OneVarDeclaration(
+          PrevOneVarDecl(
+           y
+            VarNotArray(
+            ) [VarNotArray]
+          ) [PrevOneVarDecl]
+        ) [OneVarDeclaration]
+      ) [MultipleVarDecls]
+    ) [VarDecl]
+  ) [VarDeclarationList]
+  NonEmptyMethodDeclList(
+    EmptyMethodDeclList(
+    ) [EmptyMethodDeclList]
+    MethodDecl(
+      MethodVoid(
+      ) [MethodVoid]
+      MethodName(
+       main
+      ) [MethodName]
+      NoMoreFormPars(
+      ) [NoMoreFormPars]
+      NoVarsMethod(
+      ) [NoVarsMethod]
+      Statements(
+        Statements(
+          NoStatements(
+          ) [NoStatements]
+          OneStatement(
+            PrintSt(
+              SimpleExpr(
+                SimpleTerm(
+                  FactorNum(
+                   1
+                  ) [FactorNum]
+                ) [SimpleTerm]
+              ) [SimpleExpr]
+            ) [PrintSt]
+          ) [OneStatement]
+        ) [Statements]
+        OneStatement(
+          PrintSt(
+            SimpleExpr(
+              SimpleTerm(
+                FactorNum(
+                 2
+                ) [FactorNum]
+              ) [SimpleTerm]
+            ) [SimpleExpr]
+          ) [PrintSt]
+        ) [OneStatement]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [NonEmptyMethodDeclList]
+) [Program]
+INFO  18:50:15,853 - ===================================
+INFO  18:50:15,857 - Prepoznata naredba print.
+INFO  18:50:15,857 - Prepoznata naredba print.
+INFO  18:50:15,857 -  Print count calls = 2
